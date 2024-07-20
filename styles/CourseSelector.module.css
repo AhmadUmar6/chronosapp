@@ -1,0 +1,50 @@
+.courseSelector {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  padding: 20px;
+  border-radius: 10px;
+  transition: all 0.3s ease;
+}
+
+.searchBar {
+  color: #000000;
+  width: 100%;
+  padding: 12px 15px;
+  border-radius: 25px;
+  border: 1px solid rgba(206, 212, 218, 0.3);
+  font-size: 16px;
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+  background: rgba(0, 200, 257, 0.407);
+  backdrop-filter: blur(10px);
+}
+.searchBar::placeholder {
+  color: #0e0101; 
+  opacity: 0.5; 
+}
+
+
+.searchBar:focus {
+  outline: none;
+  border-color: rgba(78, 205, 196, 0.7);
+  box-shadow: 0 0 0 3px rgba(78, 205, 196, 0.2);
+}
+
+.courseBox {
+  background: rgba(78, 205, 197, 0.407);
+  color: #070E29;
+  border-radius: 8px;
+  padding: 15px;
+  margin: 5px 0;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+  text-align: left;
+  overflow-y: auto;
+  transition: all 0.3s ease;
+}
+
+.courseBox:hover {
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  transform: translateY(-3px);
+}

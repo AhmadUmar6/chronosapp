@@ -1,0 +1,111 @@
+/* styles/Calendar.module.css */
+.calendarContainer {
+  display: grid;
+  grid-template-rows: auto 1fr;
+  gap: 1px;
+  width: 100%;
+  height: 100%;
+  position: relative;
+  background: transparent;
+}
+
+.header {
+  display: grid;
+  grid-template-columns: 1fr repeat(7, 1fr);
+  background: transparent;
+}
+
+.timeColumn {
+  text-align: center;
+  font-weight: bold;
+  background: transparent;
+}
+
+.dayColumn {
+  padding: 10px;
+  text-align: center;
+  font-weight: bold;
+  border-left: 1px solid #ccc;
+  background: transparent;
+}
+
+.body {
+  display: grid;
+  grid-template-columns: 1fr repeat(7, 1fr);
+  grid-template-rows: repeat(13, 60px);
+}
+
+.row {
+  display: contents;
+}
+
+.cell {
+  border: 1px solid #ccc;
+  position: relative;
+  background: transparent;
+}
+
+.course {
+  border-radius: 7px;
+  padding: 2px 5px;
+  position: absolute;
+  margin: 2px 5px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  cursor: pointer;
+  color: #070E29;
+  font-size: 1px;
+  transition: all 0.3s ease;
+}
+
+.courseContent {
+  width: 100%;
+}
+
+.courseDetails {
+  font-size: 14px;
+}
+
+.courseContent > div {
+  margin: 2px 0;
+}
+
+.removeButton {
+  display: none;
+  background: rgba(255, 0, 0, 0.7); /* Semi-transparent red background */
+  border: none;
+  color: white;
+  font-size: 18px;
+  font-weight: bold;
+  cursor: pointer;
+  position: absolute;
+  top: 2px;
+  right: 2px;
+  z-index: 11;
+  padding: 2px 6px; 
+  border-radius: 50%; 
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3); 
+}
+
+.course:hover .removeButton {
+  display: block;
+}
+
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: scale(0.9);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+.course {
+  animation: fadeIn 0.3s ease-out;
+}

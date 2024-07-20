@@ -1,0 +1,4601 @@
+[
+  {
+    "Course Code": "ACCT 100 LEC 1",
+    "Course Title": "Principles of Financial Accounting",
+    "Credit": 3,
+    "Class Time": "TTh 11:00a-12:15p",
+    "Instructor": "Syed Zain ul Abidin"
+  },
+  {
+    "Course Code": "ACCT 100 LEC 2",
+    "Course Title": "Principles of Financial Accounting",
+    "Credit": 3,
+    "Class Time": "TTh 12:30p-1:45p",
+    "Instructor": "Syed Zain ul Abidin"
+  },
+  {
+    "Course Code": "ACCT 100 LEC 3",
+    "Course Title": "Principles of Financial Accounting",
+    "Credit": 3,
+    "Class Time": "TTh 2:00p-3:15p",
+    "Instructor": "Syed Zain ul Abidin"
+  },
+  {
+    "Course Code": "ACCT 100 LEC 4",
+    "Course Title": "Principles of Financial Accounting",
+    "Credit": 3,
+    "Class Time": "TTh 3:30p-4:45p",
+    "Instructor": "Zainab Mehmood"
+  },
+  {
+    "Course Code": "ACCT 100 LEC 5",
+    "Course Title": "Principles of Financial Accounting",
+    "Credit": 3,
+    "Class Time": "TTh 5:00p-6:15p",
+    "Instructor": "Zainab Mehmood"
+  },
+  {
+    "Course Code": "ACCT 100 LEC 6",
+    "Course Title": "Principles of Financial Accounting",
+    "Credit": 3,
+    "Class Time": "MW 9:30a-10:45a",
+    "Instructor": "Saira Rizwan"
+  },
+  {
+    "Course Code": "ACCT 100 LEC 7",
+    "Course Title": "Principles of Financial Accounting",
+    "Credit": 3,
+    "Class Time": "MW 11:00a-12:15p",
+    "Instructor": "Saira Rizwan"
+  },
+  {
+    "Course Code": "ACCT 130 LEC 1",
+    "Course Title": "Principles of Management Accounting",
+    "Credit": 3,
+    "Class Time": "TTh 9:30a-10:45a",
+    "Instructor": "Ayesha Bhatti"
+  },
+  {
+    "Course Code": "ACCT 130 LEC 2",
+    "Course Title": "Principles of Management Accounting",
+    "Credit": 3,
+    "Class Time": "TTh 11:00a-12:15p",
+    "Instructor": "Ayesha Bhatti"
+  },
+  {
+    "Course Code": "ACCT 130 LEC 3",
+    "Course Title": "Principles of Management Accounting",
+    "Credit": 3,
+    "Class Time": "TTh 2:00p-3:15p",
+    "Instructor": "Ayesha Bhatti"
+  },
+  {
+    "Course Code": "ACCT 130 LEC 4",
+    "Course Title": "Principles of Management Accounting",
+    "Credit": 3,
+    "Class Time": "TTh 12:30p-1:45p",
+    "Instructor": "Ayesha Bhatti"
+  },
+  {
+    "Course Code": "ACCT 130 LEC 5",
+    "Course Title": "Principles of Management Accounting",
+    "Credit": 3,
+    "Class Time": "TTh 9:30a-10:45a",
+    "Instructor": "Mahin Moazzam"
+  },
+  {
+    "Course Code": "ACCT 130 LEC 6",
+    "Course Title": "Principles of Management Accounting",
+    "Credit": 3,
+    "Class Time": "TTh 11:00a-12:15p",
+    "Instructor": "Mahin Moazzam"
+  },
+  {
+    "Course Code": "ACCT 130 LEC 7",
+    "Course Title": "Principles of Management Accounting",
+    "Credit": 3,
+    "Class Time": "TTh 2:00p-3:15p",
+    "Instructor": "Mahin Moazzam"
+  },
+  {
+    "Course Code": "ACCT 202 LEC 1",
+    "Course Title": "Theory and Concepts of Accounting - Islamic\nPerspective",
+    "Credit": 3,
+    "Class Time": "MW 9:30a-10:45a",
+    "Instructor": "Abdul Rauf"
+  },
+  {
+    "Course Code": "ACCT 202 LEC 2",
+    "Course Title": "Theory and Concepts of Accounting - Islamic\nPerspective",
+    "Credit": 3,
+    "Class Time": "MW 11:00a-12:15p",
+    "Instructor": "Abdul Rauf"
+  },
+  {
+    "Course Code": "ACCT 220 LEC 1",
+    "Course Title": "Corporate Financial Reporting I",
+    "Credit": 3,
+    "Class Time": "MW 11:00a-12:15p",
+    "Instructor": "Samia Ahmed Ali"
+  },
+  {
+    "Course Code": "ACCT 220 LEC 2",
+    "Course Title": "Corporate Financial Reporting I",
+    "Credit": 3,
+    "Class Time": "MW 12:30p-1:45p",
+    "Instructor": "Samia Ahmed Ali"
+  },
+  {
+    "Course Code": "ACCT 220 LEC 3",
+    "Course Title": "Corporate Financial Reporting I",
+    "Credit": 3,
+    "Class Time": "MW 2:00p-3:15p",
+    "Instructor": "Samia Ahmed Ali"
+  },
+  {
+    "Course Code": "ACCT 411 LEC 1",
+    "Course Title": "Applied Financial Analysis",
+    "Credit": 3,
+    "Class Time": "MW 2:00p-3:15p",
+    "Instructor": "Saira Rizwan"
+  },
+  {
+    "Course Code": "ACCT 482 LEC 1",
+    "Course Title": "Governance, Risk and Compliance",
+    "Credit": 3,
+    "Class Time": "MW 8:00a-9:15a",
+    "Instructor": "Ali Qamar"
+  },
+  {
+    "Course Code": "ACF 2101 LEC 1",
+    "Course Title": "Introduction to Finance and Accounting",
+    "Credit": 1.5,
+    "Class Time": "MThFSSu 2:00p-4:10p",
+    "Instructor": "Syed Zain ul Abidin"
+  },
+  {
+    "Course Code": "ACF 2101 LEC 2",
+    "Course Title": "Introduction to Finance and Accounting",
+    "Credit": 1.5,
+    "Class Time": "MThFSSu 11:00a-1:10p",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "ACF 5101 LEC 1",
+    "Course Title": "Financial Management and Accounting",
+    "Credit": 3,
+    "Class Time": "FSSu 2:00p-4:00p",
+    "Instructor": "Samia Ahmed Ali\nSyed Mubashir Ali"
+  },
+  {
+    "Course Code": "ACTA 6202 LEC 1",
+    "Course Title": "Analytics in Accounting and Control",
+    "Credit": 3,
+    "Class Time": "FSSu 10:45a-12:45p",
+    "Instructor": "Ali Qamar"
+  },
+  {
+    "Course Code": "AI 500 LEC 1",
+    "Course Title": "Foundations of AI",
+    "Credit": 3,
+    "Class Time": "S 12:30p-3:30p",
+    "Instructor": "Murtaza Taj"
+  },
+  {
+    "Course Code": "AI 501 LEC 1",
+    "Course Title": "Mathematics for AI",
+    "Credit": 3,
+    "Class Time": "S 9:30a-12:30p",
+    "Instructor": "Zubair Khalid"
+  },
+  {
+    "Course Code": "ANTH 100 LEC 1",
+    "Course Title": "Introduction to Cultural Anthropology",
+    "Credit": 4,
+    "Class Time": "MW 4:00p-5:50p",
+    "Instructor": "Syeedda Anjum Ara Alvi"
+  },
+  {
+    "Course Code": "ANTH 100 LEC 2",
+    "Course Title": "Introduction to Cultural Anthropology",
+    "Credit": 4,
+    "Class Time": "MW 2:00p-3:50p",
+    "Instructor": "Sadaf Ahmad"
+  },
+  {
+    "Course Code": "ANTH 276 LEC 1",
+    "Course Title": "Anthropology of Social Media",
+    "Credit": 4,
+    "Class Time": "TTh 4:00p-5:50p",
+    "Instructor": "Rabia Kamal"
+  },
+  {
+    "Course Code": "ANTH 312 LEC 1",
+    "Course Title": "Modernity as a Way of Life",
+    "Credit": 4,
+    "Class Time": "TTh 10:00a-11:50a",
+    "Instructor": "Lukas Albert Paul Werth"
+  },
+  {
+    "Course Code": "ANTH 434 LEC 1",
+    "Course Title": "Putting Social Science to the Test: Mixed-Methods\nApproaches to Lahore’s Developmental Challenges",
+    "Credit": 4,
+    "Class Time": "TTh 12:00p-1:50p",
+    "Instructor": "Ameem Lutfi\nFarah Said"
+  },
+  {
+    "Course Code": "ANTH 464 LEC 1",
+    "Course Title": "Children of Abraham",
+    "Credit": 4,
+    "Class Time": "TTh 2:00p-3:50p",
+    "Instructor": "Lukas Albert Paul Werth"
+  },
+  {
+    "Course Code": "ANTH 483 LEC 1",
+    "Course Title": "Caste in South Asia and Beyond",
+    "Credit": 4,
+    "Class Time": "MW 12:00p-1:50p",
+    "Instructor": "Dominic William Esler"
+  },
+  {
+    "Course Code": "BIO 101 LEC 1",
+    "Course Title": "Introductory Biology",
+    "Credit": 3,
+    "Class Time": "MW 5:00p-6:15p",
+    "Instructor": "Muhammad Shoaib\nMuhammad Tariq\nSafee Ullah Chaudhary"
+  },
+  {
+    "Course Code": "BIO 216 LEC 1",
+    "Course Title": "Molecular Biology",
+    "Credit": 3,
+    "Class Time": "MW 1:00p-2:15p",
+    "Instructor": "Muhammad Shoaib\nMuhammad Tariq"
+  },
+  {
+    "Course Code": "BIO 221 LEC 1",
+    "Course Title": "Genetics",
+    "Credit": 4,
+    "Class Time": "MW 10:30a-12:20p",
+    "Instructor": "Khurram Bashir\nMuhammad Tariq"
+  },
+  {
+    "Course Code": "BIO 300 LAB 1",
+    "Course Title": "Methods in Cell and Molecular Biology",
+    "Credit": 4,
+    "Class Time": "MWF 9:00a-9:50a",
+    "Instructor": "Khurram Bashir\nShaper Mirza\nZaigham Shahzad\nMuhammad Shoaib\nMuhammad Tariq"
+  },
+  {
+    "Course Code": "BIO 300 LAB 1a",
+    "Course Title": "Methods in Cell and Molecular Biology",
+    "Credit": 4,
+    "Class Time": "MWF 10:00a-12:50p",
+    "Instructor": "Khalida Mazhar"
+  },
+  {
+    "Course Code": "BIO 313 LEC 1",
+    "Course Title": "Cell Biology",
+    "Credit": 3,
+    "Class Time": "TTh 11:30a-12:45p",
+    "Instructor": "Khurram Bashir\nFaiz Ul Hassan Nasim"
+  },
+  {
+    "Course Code": "BIO 331 LEC 1",
+    "Course Title": "Computational Biology II",
+    "Credit": 3,
+    "Class Time": "MW 2:30p-3:45p",
+    "Instructor": "Safee Ullah Chaudhary"
+  },
+  {
+    "Course Code": "BIO 401 SEM 1",
+    "Course Title": "Seminars in Biology",
+    "Credit": 1,
+    "Class Time": "M 1:00p-1:50p",
+    "Instructor": "Khurram Bashir"
+  },
+  {
+    "Course Code": "BIO 403 LEC 1",
+    "Course Title": "Critical thinking, Scientific Writing and Ethics",
+    "Credit": 3,
+    "Class Time": "TTh 3:00p-4:15p",
+    "Instructor": "Khurram Bashir\nMuhammad Shoaib"
+  },
+  {
+    "Course Code": "BIO 513 LEC 1",
+    "Course Title": "Biophysical Techniques",
+    "Credit": 3,
+    "Class Time": "TTh 2:30p-3:45p",
+    "Instructor": "Faiz Ul Hassan Nasim"
+  },
+  {
+    "Course Code": "BIO 516 LEC 1",
+    "Course Title": "Advanced Molecular and Cell Biology",
+    "Credit": 3,
+    "Class Time": "TTh 4:00p-5:15p",
+    "Instructor": "Shaper Mirza\nZaigham Shahzad"
+  },
+  {
+    "Course Code": "BIO 517 LEC 1",
+    "Course Title": "Molecular Mechanisms of Bacterial Pathagenesis",
+    "Credit": 3,
+    "Class Time": "TTh 1:00p-2:15p",
+    "Instructor": "Shaper Mirza"
+  },
+  {
+    "Course Code": "BIO 523 LEC 1",
+    "Course Title": "RNA Biology",
+    "Credit": 3,
+    "Class Time": "TTh 4:30p-5:45p",
+    "Instructor": "Faiz Ul Hassan Nasim"
+  },
+  {
+    "Course Code": "BIO 524 LEC 1",
+    "Course Title": "Evolution",
+    "Credit": 3,
+    "Class Time": "TTh 10:00a-11:15a",
+    "Instructor": "Zaigham Shahzad"
+  },
+  {
+    "Course Code": "BIO 531 LEC 1",
+    "Course Title": "Computational Biology",
+    "Credit": 3,
+    "Class Time": "TTh 11:30a-12:45p",
+    "Instructor": "Safee Ullah Chaudhary"
+  },
+  {
+    "Course Code": "CHE 210 LEC 1",
+    "Course Title": "Physical Chemistry",
+    "Credit": 3,
+    "Class Time": "MW 10:30a-11:45a",
+    "Instructor": "Falak Sher"
+  },
+  {
+    "Course Code": "CHE 260 LEC 1",
+    "Course Title": "Principles of Chemical Engineering",
+    "Credit": 3,
+    "Class Time": "MW 12:00p-1:15p",
+    "Instructor": "Qandeel Almas"
+  },
+  {
+    "Course Code": "CHE 262 LEC 1",
+    "Course Title": "Particle Science and Engineering",
+    "Credit": 3,
+    "Class Time": "TTh 5:00p-6:15p",
+    "Instructor": "Muhammad Faheem"
+  },
+  {
+    "Course Code": "CHE 300A LAB 1",
+    "Course Title": "Chemical Engineering Lab II",
+    "Credit": 1,
+    "Class Time": "W 11:00a-1:50p",
+    "Instructor": "Faheem Hassan Akhtar"
+  },
+  {
+    "Course Code": "CHE 302 LEC 1",
+    "Course Title": "Air Pollution",
+    "Credit": 3,
+    "Class Time": "TTh 12:00p-1:15p",
+    "Instructor": "Shahana Khurshid"
+  },
+  {
+    "Course Code": "CHE 320 LEC 1",
+    "Course Title": "Separation Processes",
+    "Credit": 3,
+    "Class Time": "TTh 9:00a-10:15a",
+    "Instructor": "Tauqeer Abbas"
+  },
+  {
+    "Course Code": "CHE 330 LEC 1",
+    "Course Title": "Math Methods in Chemical Engineering II",
+    "Credit": 3,
+    "Class Time": "MW 9:00a-10:15a",
+    "Instructor": "Usman Bin Shahid"
+  },
+  {
+    "Course Code": "CHE 352 LEC 1",
+    "Course Title": "Heat and Mass Transfer",
+    "Credit": 3,
+    "Class Time": "TTh 3:00p-4:15p",
+    "Instructor": "Ali Rauf"
+  },
+  {
+    "Course Code": "CHE 401 LEC 1",
+    "Course Title": "Chemical Process Design",
+    "Credit": 4,
+    "Class Time": "TTh 2:00p-3:15p",
+    "Instructor": "Qandeel Almas"
+  },
+  {
+    "Course Code": "CHE 401 LAB 1",
+    "Course Title": "Chemical Process Design",
+    "Credit": 4,
+    "Class Time": "F 2:00p-4:50p",
+    "Instructor": "Qandeel Almas"
+  },
+  {
+    "Course Code": "CHE 401A LAB 1",
+    "Course Title": "Chemical Engineering Lab - V",
+    "Credit": 1,
+    "Class Time": "Th 8:00a-10:50a",
+    "Instructor": "Qandeel Almas\nUsman Bin Shahid"
+  },
+  {
+    "Course Code": "CHE 401B LAB 1",
+    "Course Title": "Chemical Engineering Lab - VI",
+    "Credit": 1,
+    "Class Time": "T 8:00a-10:50a",
+    "Instructor": "Qasim Imtiaz\nAli Rauf"
+  },
+  {
+    "Course Code": "CHE 415 LEC 1",
+    "Course Title": "Renewable Energy: Fundamentals, Applications,\nand Economics",
+    "Credit": 3,
+    "Class Time": "TTh 2:00p-3:15p",
+    "Instructor": "Tauqeer Abbas"
+  },
+  {
+    "Course Code": "CHE 422 LEC 1",
+    "Course Title": "Chemical Process Safety",
+    "Credit": 2,
+    "Class Time": "MW 10:00a-10:50a",
+    "Instructor": "Faheem Hassan Akhtar"
+  },
+  {
+    "Course Code": "CHE 710 LEC 1",
+    "Course Title": "Transport Processes in the Environment",
+    "Credit": 3,
+    "Class Time": "TTh 8:00a-9:15a",
+    "Instructor": "Shahana Khurshid"
+  },
+  {
+    "Course Code": "CHEM 101 LEC 1",
+    "Course Title": "Principles of Chemistry",
+    "Credit": 3,
+    "Class Time": "MW 3:30p-4:45p",
+    "Instructor": "Habib-ur- Rehman"
+  },
+  {
+    "Course Code": "CHEM 101 LEC 2",
+    "Course Title": "Principles of Chemistry",
+    "Credit": 3,
+    "Class Time": "TTh 5:00p-6:15p",
+    "Instructor": "Basit Yameen"
+  },
+  {
+    "Course Code": "CHEM 221 LEC 1",
+    "Course Title": "Molecular Symmetry I",
+    "Credit": 3,
+    "Class Time": "TTh 5:00p-6:15p",
+    "Instructor": "Muhammad Zaheer"
+  },
+  {
+    "Course Code": "CHEM 231 LEC 1",
+    "Course Title": "Fundamentals of Organic Chemistry",
+    "Credit": 3,
+    "Class Time": "MW 3:00p-4:15p",
+    "Instructor": "Irshad Hussain"
+  },
+  {
+    "Course Code": "CHEM 314 LEC 1",
+    "Course Title": "Quantum Chemistry",
+    "Credit": 3,
+    "Class Time": "MW 10:00a-11:15a",
+    "Instructor": "Habib-ur- Rehman"
+  },
+  {
+    "Course Code": "CHEM 324 LEC 1",
+    "Course Title": "Inorganic Chemistry I",
+    "Credit": 3,
+    "Class Time": "TTh 2:00p-3:15p",
+    "Instructor": "Ghayoor Abbas Chotana"
+  },
+  {
+    "Course Code": "CHEM 332 LEC 1",
+    "Course Title": "Chemistry of the Organic Functional Groups",
+    "Credit": 3,
+    "Class Time": "TTh 10:30a-11:45a",
+    "Instructor": "Muhammad Saeed"
+  },
+  {
+    "Course Code": "CHEM 342 LEC 1",
+    "Course Title": "Analytical Chemistry I",
+    "Credit": 3,
+    "Class Time": "MW 8:00a-9:15a",
+    "Instructor": "Muhammad Saeed\nMuhammad Zaheer"
+  },
+  {
+    "Course Code": "CHEM 410 LAB 1",
+    "Course Title": "Physical Chemistry Lab",
+    "Credit": 2,
+    "Class Time": "F 3:00p-5:50p",
+    "Instructor": "Salman Noshear Arshad"
+  },
+  {
+    "Course Code": "CHEM 410 LEC 1",
+    "Course Title": "Physical Chemistry Lab",
+    "Credit": 2,
+    "Class Time": "F 12:00p-12:50p",
+    "Instructor": "Salman Noshear Arshad"
+  },
+  {
+    "Course Code": "CHEM 430 LAB 1",
+    "Course Title": "Organic Chemistry Lab II",
+    "Credit": 2,
+    "Class Time": "F 9:00a-11:50a",
+    "Instructor": "Muhammad Saeed"
+  },
+  {
+    "Course Code": "CHEM 430 LEC 1",
+    "Course Title": "Organic Chemistry Lab II",
+    "Credit": 2,
+    "Class Time": "F 8:00a-8:50a",
+    "Instructor": "Muhammad Saeed"
+  },
+  {
+    "Course Code": "CHEM 516 LEC 1",
+    "Course Title": "Characterization Techniques for Materials",
+    "Credit": 3,
+    "Class Time": "TTh 11:00a-12:15p",
+    "Instructor": "Salman Noshear Arshad"
+  },
+  {
+    "Course Code": "CHEM 521 LEC 1",
+    "Course Title": "Advanced Inorganic Chemistry I",
+    "Credit": 3,
+    "Class Time": "TTh 9:00a-10:15a",
+    "Instructor": "Ghayoor Abbas Chotana"
+  },
+  {
+    "Course Code": "CHEM 531 LEC 1",
+    "Course Title": "Advanced Organic Chemistry I",
+    "Credit": 3,
+    "Class Time": "MW 1:00p-2:15p",
+    "Instructor": "Irshad Hussain"
+  },
+  {
+    "Course Code": "CHEM 532 LEC 1",
+    "Course Title": "Chemistry of Biomolecule",
+    "Credit": 3,
+    "Class Time": "MW 10:00a-11:15a",
+    "Instructor": "Muhammad Saeed"
+  },
+  {
+    "Course Code": "CHEM 721 LEC 1",
+    "Course Title": "Selected Topics in Inorganic Chemistry",
+    "Credit": 3,
+    "Class Time": "MW 9:00a-10:15a",
+    "Instructor": "Ghayoor Abbas Chotana"
+  },
+  {
+    "Course Code": "CHEM 731 LEC 1",
+    "Course Title": "Selected Topics in Organic Chemistry",
+    "Credit": 3,
+    "Class Time": "MW 1:00p-2:15p",
+    "Instructor": "Irshad Hussain"
+  },
+  {
+    "Course Code": "CLCA 1000 LEC 1",
+    "Course Title": "Engaging with Texts and Contexts",
+    "Credit": 4,
+    "Class Time": "TTh 10:00a-11:50a",
+    "Instructor": "Fatima Fayyaz\nMaryam Wasif Khan"
+  },
+  {
+    "Course Code": "CLCA 2119 LEC 1",
+    "Course Title": "Mechanics of Fiction",
+    "Credit": 4,
+    "Class Time": "MW 12:00p-1:50p",
+    "Instructor": "Bilal Tanweer"
+  },
+  {
+    "Course Code": "CLCA 2122 LEC 1",
+    "Course Title": "Urdu Afsana",
+    "Credit": 4,
+    "Class Time": "TTh 4:30p-6:20p",
+    "Instructor": "Zia Ul Hassan"
+  },
+  {
+    "Course Code": "CLCA 2133 LEC 1",
+    "Course Title": "Fountain of the Sun: Rumi’s Masnavi and Divan",
+    "Credit": 4,
+    "Class Time": "TTh 1:30p-3:20p",
+    "Instructor": "Fatima Fayyaz"
+  },
+  {
+    "Course Code": "CLCA 2222 LEC 1",
+    "Course Title": "The Critical Lens: The Art of Filmmaking",
+    "Credit": 4,
+    "Class Time": "MW 2:00p-3:50p",
+    "Instructor": "Raja Mohammad Tabish Habib"
+  },
+  {
+    "Course Code": "CLCA 2523 LEC 1",
+    "Course Title": "Introduction to Illustrative Storytelling",
+    "Credit": 4,
+    "Class Time": "MW 10:00a-11:50a",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "CLCA 3123 LEC 1",
+    "Course Title": "Aag ka Darya: A Close Reading",
+    "Credit": 4,
+    "Class Time": "MW 4:00p-5:50p",
+    "Instructor": "Nasir Abbas"
+  },
+  {
+    "Course Code": "CLCA 3211 LEC 1",
+    "Course Title": "Film and Screen Studies Research Seminar",
+    "Credit": 4,
+    "Class Time": "TTh 12:00p-1:50p",
+    "Instructor": "Zebunnisa Hamid"
+  },
+  {
+    "Course Code": "CLCA 3324 LEC 1",
+    "Course Title": "The Craft of Translation",
+    "Credit": 4,
+    "Class Time": "TTh 2:00p-3:50p",
+    "Instructor": "Bilal Tanweer"
+  },
+  {
+    "Course Code": "CLCA 3325 LEC 1",
+    "Course Title": "Life Writing and the Multilingual Self",
+    "Credit": 4,
+    "Class Time": "MW 8:00a-9:50a",
+    "Instructor": "Usama Mumtaz Lali"
+  },
+  {
+    "Course Code": "CS 100 LEC 1",
+    "Course Title": "Computational Problem Solving",
+    "Credit": 3,
+    "Class Time": "TTh 4:00p-4:50p",
+    "Instructor": "Maryam Mustafa\nShafay Shamail"
+  },
+  {
+    "Course Code": "CS 100 LEC 2",
+    "Course Title": "Computational Problem Solving",
+    "Credit": 3,
+    "Class Time": "MW 12:00p-12:50p",
+    "Instructor": "Maryam Mustafa\nShafay Shamail"
+  },
+  {
+    "Course Code": "CS 100 LAB 1",
+    "Course Title": "Computational Problem Solving",
+    "Credit": 3,
+    "Class Time": "M 8:00a-10:50a",
+    "Instructor": "Maryam Mustafa\nShafay Shamail"
+  },
+  {
+    "Course Code": "CS 100 LAB 2",
+    "Course Title": "Computational Problem Solving",
+    "Credit": 3,
+    "Class Time": "F 2:00p-4:50p",
+    "Instructor": "Maryam Mustafa\nShafay Shamail"
+  },
+  {
+    "Course Code": "CS 200 LEC 1",
+    "Course Title": "Introduction to Programming",
+    "Credit": 4,
+    "Class Time": "MW 10:00a-11:15a",
+    "Instructor": "Zartash Afzal Uzmi"
+  },
+  {
+    "Course Code": "CS 200 LEC 2",
+    "Course Title": "Introduction to Programming",
+    "Credit": 4,
+    "Class Time": "TTh 10:00a-11:15a",
+    "Instructor": "Zartash Afzal Uzmi"
+  },
+  {
+    "Course Code": "CS 200 LAB 1",
+    "Course Title": "Introduction to Programming",
+    "Credit": 4,
+    "Class Time": "M 1:00p-3:50p",
+    "Instructor": "Zartash Afzal Uzmi"
+  },
+  {
+    "Course Code": "CS 200 LAB 2",
+    "Course Title": "Introduction to Programming",
+    "Credit": 4,
+    "Class Time": "F 10:00a-12:50p",
+    "Instructor": "Zartash Afzal Uzmi"
+  },
+  {
+    "Course Code": "CS 202 LEC 1",
+    "Course Title": "Data Structures",
+    "Credit": 3,
+    "Class Time": "TTh 10:00a-11:15a",
+    "Instructor": "Waqar Ahmad\nMuhammad Sohaib Ayub"
+  },
+  {
+    "Course Code": "CS 210 LEC 1",
+    "Course Title": "Discrete Mathematics",
+    "Credit": 4,
+    "Class Time": "TTh 1:00p-2:50p",
+    "Instructor": "Malik Jahan Khan"
+  },
+  {
+    "Course Code": "CS 210 LEC 2",
+    "Course Title": "Discrete Mathematics",
+    "Credit": 4,
+    "Class Time": "TTh 3:00p-4:50p",
+    "Instructor": "Malik Jahan Khan"
+  },
+  {
+    "Course Code": "CS 225 LEC 1",
+    "Course Title": "Fundamentals of Computer Systems",
+    "Credit": 4,
+    "Class Time": "TTh 8:00a-9:50a",
+    "Instructor": "Muhammad Jahangir Ikram"
+  },
+  {
+    "Course Code": "CS 225 LEC 2",
+    "Course Title": "Fundamentals of Computer Systems",
+    "Credit": 4,
+    "Class Time": "TTh 4:00p-5:50p",
+    "Instructor": "Muhammad Adeel Ahmed Pasha"
+  },
+  {
+    "Course Code": "CS 310 LEC 1",
+    "Course Title": "Algorithms",
+    "Credit": 3,
+    "Class Time": "TTh 1:30p-2:45p",
+    "Instructor": "Imdad ullah khan"
+  },
+  {
+    "Course Code": "CS 334 LEC 1",
+    "Course Title": "Principles and Techniques of Data Science",
+    "Credit": 3,
+    "Class Time": "TTh 12:00p-1:15p",
+    "Instructor": "Ihsan Ayyub Qazi"
+  },
+  {
+    "Course Code": "CS 340 LEC 1",
+    "Course Title": "Databases",
+    "Credit": 3,
+    "Class Time": "MW 9:00a-10:15a",
+    "Instructor": "Asim Karim\nBasit Shafiq"
+  },
+  {
+    "Course Code": "CS 340 LEC 2",
+    "Course Title": "Databases",
+    "Credit": 3,
+    "Class Time": "TTh 9:00a-10:15a",
+    "Instructor": "Asim Karim\nBasit Shafiq"
+  },
+  {
+    "Course Code": "CS 370 LEC 1",
+    "Course Title": "Operating Systems",
+    "Credit": 3,
+    "Class Time": "MW 10:00a-11:15a",
+    "Instructor": "Naveed Anwar Bhatti\nMuhammad Hammad Alizai"
+  },
+  {
+    "Course Code": "CS 370 LEC 2",
+    "Course Title": "Operating Systems",
+    "Credit": 3,
+    "Class Time": "MW 4:00p-5:15p",
+    "Instructor": "Naveed Anwar Bhatti\nMuhammad Hammad Alizai"
+  },
+  {
+    "Course Code": "CS 436 LEC 1",
+    "Course Title": "Computer Vision Fundamentals",
+    "Credit": 3,
+    "Class Time": "TTh 12:00p-1:15p",
+    "Instructor": "Murtaza Taj"
+  },
+  {
+    "Course Code": "CS 452 LEC 1",
+    "Course Title": "Computer Graphics",
+    "Credit": 3,
+    "Class Time": "TTh 5:00p-6:15p",
+    "Instructor": "Murtaza Taj"
+  },
+  {
+    "Course Code": "CS 4602 SEM 1",
+    "Course Title": "Coding for Careers",
+    "Credit": 3,
+    "Class Time": "F 9:30a-10:45a",
+    "Instructor": "Maryam Abdul Ghafoor"
+  },
+  {
+    "Course Code": "CS 4602 SEM 2",
+    "Course Title": "Coding for Careers",
+    "Credit": 3,
+    "Class Time": "F 9:30a-10:45a",
+    "Instructor": "Mobin Javed"
+  },
+  {
+    "Course Code": "CS 4602 SEM 1a",
+    "Course Title": "Coding for Careers",
+    "Credit": 3,
+    "Class Time": "F 11:00a-12:15p",
+    "Instructor": "Mobin Javed"
+  },
+  {
+    "Course Code": "CS 4602 SEM 2a",
+    "Course Title": "Coding for Careers",
+    "Credit": 3,
+    "Class Time": "F 11:00a-12:15p",
+    "Instructor": "Maryam Abdul Ghafoor"
+  },
+  {
+    "Course Code": "CS 487 LEC 1",
+    "Course Title": "Cloud Development",
+    "Credit": 3,
+    "Class Time": "TTh 10:00a-11:15a",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "CS 501 LEC 1",
+    "Course Title": "Applied Probability",
+    "Credit": 3,
+    "Class Time": "TTh 3:00p-4:15p",
+    "Instructor": "Momin Ayub Uppal"
+  },
+  {
+    "Course Code": "CS 535 LEC 1",
+    "Course Title": "Machine Learning",
+    "Credit": 3,
+    "Class Time": "MW 12:00p-1:15p",
+    "Instructor": "Agha Ali Raza"
+  },
+  {
+    "Course Code": "CS 535 LEC 2",
+    "Course Title": "Machine Learning",
+    "Credit": 3,
+    "Class Time": "MW 1:30p-2:45p",
+    "Instructor": "Agha Ali Raza"
+  },
+  {
+    "Course Code": "CS 553 LEC 1",
+    "Course Title": "Computer Graphics",
+    "Credit": 3,
+    "Class Time": "MW 9:30a-10:45a",
+    "Instructor": "Murtaza Taj"
+  },
+  {
+    "Course Code": "CS 5602 LEC 1",
+    "Course Title": "Game Design and Development",
+    "Credit": 3,
+    "Class Time": "MW 5:00p-6:15p",
+    "Instructor": "Salman Arif"
+  },
+  {
+    "Course Code": "CS 582 LEC 1",
+    "Course Title": "Distributed Systems",
+    "Credit": 3,
+    "Class Time": "MW 12:00p-1:15p",
+    "Instructor": "Zafar Ayyub Qazi"
+  },
+  {
+    "Course Code": "CS 6303 LEC 1",
+    "Course Title": "Topics in Large Language Models: Systems,\nApplications and Impacts",
+    "Credit": 3,
+    "Class Time": "MW 3:00p-4:15p",
+    "Instructor": "Ihsan Ayyub Qazi\nZafar Ayyub Qazi"
+  },
+  {
+    "Course Code": "CS 682 LEC 1",
+    "Course Title": "Topics in Computer and Network Security",
+    "Credit": 3,
+    "Class Time": "TTh 3:00p-4:15p",
+    "Instructor": "Muhammad Fareed Zaffar"
+  },
+  {
+    "Course Code": "DISC 112 LEC 1",
+    "Course Title": "Computer and Problem Solving",
+    "Credit": 4,
+    "Class Time": "MW 8:00a-9:15a",
+    "Instructor": "Humbal Tariq"
+  },
+  {
+    "Course Code": "DISC 112 LAB 1",
+    "Course Title": "Computer and Problem Solving",
+    "Credit": 4,
+    "Class Time": "F 9:00a-11:50a",
+    "Instructor": "Humbal Tariq"
+  },
+  {
+    "Course Code": "DISC 203 LEC 1",
+    "Course Title": "Probability and Statistics",
+    "Credit": 3,
+    "Class Time": "TTh 9:30a-10:45a",
+    "Instructor": "Ijaz Haider Naqvi"
+  },
+  {
+    "Course Code": "DISC 203 LEC 2",
+    "Course Title": "Probability and Statistics",
+    "Credit": 3,
+    "Class Time": "TTh 11:00a-12:15p",
+    "Instructor": "Ijaz Haider Naqvi"
+  },
+  {
+    "Course Code": "DISC 203 LEC 3",
+    "Course Title": "Probability and Statistics",
+    "Credit": 3,
+    "Class Time": "TTh 12:30p-1:45p",
+    "Instructor": "Ijaz Haider Naqvi"
+  },
+  {
+    "Course Code": "DISC 203 LEC 4",
+    "Course Title": "Probability and Statistics",
+    "Credit": 3,
+    "Class Time": "MW 5:00p-6:15p",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "DISC 203 LEC 5",
+    "Course Title": "Probability and Statistics",
+    "Credit": 3,
+    "Class Time": "TTh 5:00p-6:15p",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "DISC 212 LEC 1",
+    "Course Title": "Introduction to Management Science",
+    "Credit": 3,
+    "Class Time": "MW 9:30a-10:45a",
+    "Instructor": "Kamran Rashid"
+  },
+  {
+    "Course Code": "DISC 212 LEC 2",
+    "Course Title": "Introduction to Management Science",
+    "Credit": 3,
+    "Class Time": "MW 11:00a-12:15p",
+    "Instructor": "Kamran Rashid"
+  },
+  {
+    "Course Code": "DISC 212 LEC 3",
+    "Course Title": "Introduction to Management Science",
+    "Credit": 3,
+    "Class Time": "TTh 8:00a-9:15a",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "DISC 212 LEC 4",
+    "Course Title": "Introduction to Management Science",
+    "Credit": 3,
+    "Class Time": "TTh 9:30a-10:45a",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "DISC 212 LEC 5",
+    "Course Title": "Introduction to Management Science",
+    "Credit": 3,
+    "Class Time": "TTh 11:00a-12:15p",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "DISC 231 LEC 1",
+    "Course Title": "Operations Management",
+    "Credit": 3,
+    "Class Time": "MW 2:00p-3:15p",
+    "Instructor": "Hassan Rauf Chaudhry"
+  },
+  {
+    "Course Code": "DISC 320 LEC 1",
+    "Course Title": "Qualitative and Quantitative Methods in Business",
+    "Credit": 3,
+    "Class Time": "MW 3:30p-4:45p",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "DISC 320 LEC 2",
+    "Course Title": "Qualitative and Quantitative Methods in Business",
+    "Credit": 3,
+    "Class Time": "MW 5:00p-6:15p",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "DISC 321 LEC 1",
+    "Course Title": "Decision Analysis",
+    "Credit": 4,
+    "Class Time": "MW 9:00a-10:50a",
+    "Instructor": "Sheikh Attique Ur Rehman"
+  },
+  {
+    "Course Code": "DISC 321 LEC 2",
+    "Course Title": "Decision Analysis",
+    "Credit": 4,
+    "Class Time": "MW 12:30p-2:20p",
+    "Instructor": "Sheikh Attique Ur Rehman"
+  },
+  {
+    "Course Code": "DISC 322 LEC 1",
+    "Course Title": "Optimization Methods in Management Science",
+    "Credit": 3,
+    "Class Time": "MW 12:30p-1:45p",
+    "Instructor": "Kamran Rashid"
+  },
+  {
+    "Course Code": "DISC 322 LEC 2",
+    "Course Title": "Optimization Methods in Management Science",
+    "Credit": 3,
+    "Class Time": "MW 2:00p-3:15p",
+    "Instructor": "Kamran Rashid"
+  },
+  {
+    "Course Code": "DISC 323 LEC 1",
+    "Course Title": "Decision Behaviour",
+    "Credit": 3,
+    "Class Time": "TTh 2:00p-3:15p",
+    "Instructor": "Shoaib Amjad Hussain"
+  },
+  {
+    "Course Code": "DISC 323 LEC 2",
+    "Course Title": "Decision Behaviour",
+    "Credit": 3,
+    "Class Time": "TTh 3:30p-4:45p",
+    "Instructor": "Shoaib Amjad Hussain"
+  },
+  {
+    "Course Code": "DISC 323 LEC 3",
+    "Course Title": "Decision Behaviour",
+    "Credit": 3,
+    "Class Time": "TTh 12:30p-1:45p",
+    "Instructor": "Sheikh Attique Ur Rehman"
+  },
+  {
+    "Course Code": "DISC 327 LEC 1",
+    "Course Title": "Risk Management Process",
+    "Credit": 3,
+    "Class Time": "TTh 5:00p-6:15p",
+    "Instructor": "Ahmed Majeed Khan"
+  },
+  {
+    "Course Code": "DISC 331 LEC 1",
+    "Course Title": "Project Management",
+    "Credit": 3,
+    "Class Time": "MW 9:30a-10:45a",
+    "Instructor": "Zehra Waheed"
+  },
+  {
+    "Course Code": "DISC 333 LEC 1",
+    "Course Title": "Supply Chain and Logistics Management",
+    "Credit": 3,
+    "Class Time": "TTh 5:00p-6:15p",
+    "Instructor": "Ahsan Umar"
+  },
+  {
+    "Course Code": "DISC 420 LEC 1",
+    "Course Title": "Business Analytics",
+    "Credit": 3,
+    "Class Time": "TTh 12:30p-1:45p",
+    "Instructor": "Maheen Aamir Syed"
+  },
+  {
+    "Course Code": "DISC 420 LEC 2",
+    "Course Title": "Business Analytics",
+    "Credit": 3,
+    "Class Time": "TTh 2:00p-3:15p",
+    "Instructor": "Maheen Aamir Syed"
+  },
+  {
+    "Course Code": "DISC 7005 LEC 1",
+    "Course Title": "Applied Statistics",
+    "Credit": 3,
+    "Class Time": "Th 3:00p-6:00p",
+    "Instructor": "Ussama Yaqub"
+  },
+  {
+    "Course Code": "DISC 8402 SEM 1",
+    "Course Title": "Seminar in Supply Chain Analysis",
+    "Credit": 3,
+    "Class Time": "F 2:00p-5:00p",
+    "Instructor": "Sheikh Attique Ur Rehman"
+  },
+  {
+    "Course Code": "DISC 8502 LEC 1",
+    "Course Title": "Seminar in Technology and Innovation\nManagement",
+    "Credit": 3,
+    "Class Time": "Th 12:30p-3:30p",
+    "Instructor": "Muhammad Adeel Zaffar"
+  },
+  {
+    "Course Code": "ECON 100 LEC 1",
+    "Course Title": "Principles of Economics",
+    "Credit": 4,
+    "Class Time": "MW 9:30a-11:20a",
+    "Instructor": "Nadia Mukhtar Sayed"
+  },
+  {
+    "Course Code": "ECON 111 LEC 1",
+    "Course Title": "Principles of Microeconomics",
+    "Credit": 4,
+    "Class Time": "TTh 4:00p-5:15p",
+    "Instructor": "Faisal Bari"
+  },
+  {
+    "Course Code": "ECON 111 LEC 2",
+    "Course Title": "Principles of Microeconomics",
+    "Credit": 4,
+    "Class Time": "TTh 10:00a-11:15a",
+    "Instructor": "Faisal Bari"
+  },
+  {
+    "Course Code": "ECON 111 LEC 3",
+    "Course Title": "Principles of Microeconomics",
+    "Credit": 4,
+    "Class Time": "TTh 12:30p-1:45p",
+    "Instructor": "Faisal Bari"
+  },
+  {
+    "Course Code": "ECON 111 RAC 1",
+    "Course Title": "Principles of Microeconomics",
+    "Credit": 4,
+    "Class Time": "M 10:00a-10:50a",
+    "Instructor": "Ayesha Karim Malik"
+  },
+  {
+    "Course Code": "ECON 111 RAC 2",
+    "Course Title": "Principles of Microeconomics",
+    "Credit": 4,
+    "Class Time": "M 11:00a-11:50a",
+    "Instructor": "Ayesha Karim Malik"
+  },
+  {
+    "Course Code": "ECON 111 RAC 3",
+    "Course Title": "Principles of Microeconomics",
+    "Credit": 4,
+    "Class Time": "M 12:00p-12:50p",
+    "Instructor": "Ayesha Karim Malik"
+  },
+  {
+    "Course Code": "ECON 111 RAC 4",
+    "Course Title": "Principles of Microeconomics",
+    "Credit": 4,
+    "Class Time": "W 11:00a-11:50a",
+    "Instructor": "Ayesha Karim Malik"
+  },
+  {
+    "Course Code": "ECON 111 RAC 5",
+    "Course Title": "Principles of Microeconomics",
+    "Credit": 4,
+    "Class Time": "W 12:00p-12:50p",
+    "Instructor": "Ayesha Karim Malik"
+  },
+  {
+    "Course Code": "ECON 111 RAC 6",
+    "Course Title": "Principles of Microeconomics",
+    "Credit": 4,
+    "Class Time": "W 10:00a-10:50a",
+    "Instructor": "Ayesha Karim Malik"
+  },
+  {
+    "Course Code": "ECON 111 RAC 7",
+    "Course Title": "Principles of Microeconomics",
+    "Credit": 4,
+    "Class Time": "F 11:00a-11:50a",
+    "Instructor": "Ayesha Karim Malik"
+  },
+  {
+    "Course Code": "ECON 111 RAC 8",
+    "Course Title": "Principles of Microeconomics",
+    "Credit": 4,
+    "Class Time": "F 9:00a-9:50a",
+    "Instructor": "Ayesha Karim Malik"
+  },
+  {
+    "Course Code": "ECON 111 RAC 9",
+    "Course Title": "Principles of Microeconomics",
+    "Credit": 4,
+    "Class Time": "F 10:00a-10:50a",
+    "Instructor": "Ayesha Karim Malik"
+  },
+  {
+    "Course Code": "ECON 121 LEC 1",
+    "Course Title": "Principles of Macroeconomics",
+    "Credit": 4,
+    "Class Time": "MW 12:00p-1:15p",
+    "Instructor": "Kashif Zaheer Malik"
+  },
+  {
+    "Course Code": "ECON 121 LEC 2",
+    "Course Title": "Principles of Macroeconomics",
+    "Credit": 4,
+    "Class Time": "MW 10:30a-11:45a",
+    "Instructor": "Kashif Zaheer Malik"
+  },
+  {
+    "Course Code": "ECON 121 LEC 3",
+    "Course Title": "Principles of Macroeconomics",
+    "Credit": 4,
+    "Class Time": "TTh 10:30a-11:45a",
+    "Instructor": "Sheraz Latif Malik"
+  },
+  {
+    "Course Code": "ECON 121 RAC 1",
+    "Course Title": "Principles of Macroeconomics",
+    "Credit": 4,
+    "Class Time": "W 4:00p-4:50p",
+    "Instructor": "Anum Fatima"
+  },
+  {
+    "Course Code": "ECON 121 RAC 2",
+    "Course Title": "Principles of Macroeconomics",
+    "Credit": 4,
+    "Class Time": "W 3:00p-3:50p",
+    "Instructor": "Anum Fatima"
+  },
+  {
+    "Course Code": "ECON 121 RAC 3",
+    "Course Title": "Principles of Macroeconomics",
+    "Credit": 4,
+    "Class Time": "W 2:00p-2:50p",
+    "Instructor": "Anum Fatima"
+  },
+  {
+    "Course Code": "ECON 121 RAC 4",
+    "Course Title": "Principles of Macroeconomics",
+    "Credit": 4,
+    "Class Time": "Th 2:00p-2:50p",
+    "Instructor": "Anum Fatima"
+  },
+  {
+    "Course Code": "ECON 121 RAC 5",
+    "Course Title": "Principles of Macroeconomics",
+    "Credit": 4,
+    "Class Time": "Th 4:30p-5:20p",
+    "Instructor": "Anum Fatima"
+  },
+  {
+    "Course Code": "ECON 121 RAC 6",
+    "Course Title": "Principles of Macroeconomics",
+    "Credit": 4,
+    "Class Time": "Th 3:00p-3:50p",
+    "Instructor": "Anum Fatima"
+  },
+  {
+    "Course Code": "ECON 121 RAC 7",
+    "Course Title": "Principles of Macroeconomics",
+    "Credit": 4,
+    "Class Time": "F 10:00a-10:50a",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "ECON 121 RAC 8",
+    "Course Title": "Principles of Macroeconomics",
+    "Credit": 4,
+    "Class Time": "F 11:00a-11:50a",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "ECON 121 RAC 9",
+    "Course Title": "Principles of Macroeconomics",
+    "Credit": 4,
+    "Class Time": "W 9:00a-9:50a",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "ECON 211 LEC 1",
+    "Course Title": "Intermediate Microeconomics",
+    "Credit": 4,
+    "Class Time": "MW 10:00a-11:50a",
+    "Instructor": "Ayesha Ali"
+  },
+  {
+    "Course Code": "ECON 211 LEC 2",
+    "Course Title": "Intermediate Microeconomics",
+    "Credit": 4,
+    "Class Time": "TTh 10:00a-11:50a",
+    "Instructor": "Ayesha Ali"
+  },
+  {
+    "Course Code": "ECON 221 LEC 1",
+    "Course Title": "Intermediate Macroeconomics",
+    "Credit": 4,
+    "Class Time": "TTh 10:00a-11:50a",
+    "Instructor": "Daniyal Khan"
+  },
+  {
+    "Course Code": "ECON 221 LEC 2",
+    "Course Title": "Intermediate Macroeconomics",
+    "Credit": 4,
+    "Class Time": "TTh 2:00p-3:50p",
+    "Instructor": "Daniyal Khan"
+  },
+  {
+    "Course Code": "ECON 230 LEC 1",
+    "Course Title": "Statistics and Data Analysis",
+    "Credit": 4,
+    "Class Time": "TTh 12:00p-1:30p",
+    "Instructor": "Rabia Khan"
+  },
+  {
+    "Course Code": "ECON 230 LEC 2",
+    "Course Title": "Statistics and Data Analysis",
+    "Credit": 4,
+    "Class Time": "MW 2:00p-3:30p",
+    "Instructor": "Usman Elahi"
+  },
+  {
+    "Course Code": "ECON 230 LEC 3",
+    "Course Title": "Statistics and Data Analysis",
+    "Credit": 4,
+    "Class Time": "MW 11:00a-12:30p",
+    "Instructor": "Usman Elahi"
+  },
+  {
+    "Course Code": "ECON 230 LAB 1",
+    "Course Title": "Statistics and Data Analysis",
+    "Credit": 4,
+    "Class Time": "T 2:00p-2:50p",
+    "Instructor": "Rimsha Arif"
+  },
+  {
+    "Course Code": "ECON 230 LAB 2",
+    "Course Title": "Statistics and Data Analysis",
+    "Credit": 4,
+    "Class Time": "T 5:00p-5:50p",
+    "Instructor": "Rimsha Arif"
+  },
+  {
+    "Course Code": "ECON 230 LAB 3",
+    "Course Title": "Statistics and Data Analysis",
+    "Credit": 4,
+    "Class Time": "Th 5:00p-5:50p",
+    "Instructor": "Eeman Shehzad Qureshi"
+  },
+  {
+    "Course Code": "ECON 230 LAB 4",
+    "Course Title": "Statistics and Data Analysis",
+    "Credit": 4,
+    "Class Time": "T 3:00p-3:50p",
+    "Instructor": "Eeman Shehzad Qureshi"
+  },
+  {
+    "Course Code": "ECON 230 LAB 5",
+    "Course Title": "Statistics and Data Analysis",
+    "Credit": 4,
+    "Class Time": "W 4:00p-4:50p",
+    "Instructor": "Eeman Shehzad Qureshi"
+  },
+  {
+    "Course Code": "ECON 230 LAB 6",
+    "Course Title": "Statistics and Data Analysis",
+    "Credit": 4,
+    "Class Time": "Th 3:00p-3:50p",
+    "Instructor": "Eeman Shehzad Qureshi"
+  },
+  {
+    "Course Code": "ECON 233 LEC 1",
+    "Course Title": "Introduction to Game Theory",
+    "Credit": 4,
+    "Class Time": "MW 10:00a-11:50a",
+    "Instructor": "Lyyla Khalid"
+  },
+  {
+    "Course Code": "ECON 233 LEC 2",
+    "Course Title": "Introduction to Game Theory",
+    "Credit": 4,
+    "Class Time": "TTh 10:00a-11:50a",
+    "Instructor": "Lyyla Khalid"
+  },
+  {
+    "Course Code": "ECON 240 LEC 1",
+    "Course Title": "Development Economics",
+    "Credit": 4,
+    "Class Time": "TTh 3:00p-4:50p",
+    "Instructor": "Nadia Mukhtar Sayed"
+  },
+  {
+    "Course Code": "ECON 247 LEC 1",
+    "Course Title": "Sectors and Policy in Development",
+    "Credit": 4,
+    "Class Time": "MW 10:00a-11:50a",
+    "Instructor": "Hadia Majid"
+  },
+  {
+    "Course Code": "ECON 261 LEC 1",
+    "Course Title": "Principles of Finance",
+    "Credit": 4,
+    "Class Time": "TTh 12:00p-1:50p",
+    "Instructor": "Sheraz Latif Malik"
+  },
+  {
+    "Course Code": "ECON 262 LEC 1",
+    "Course Title": "Mathematical Applications in Economics",
+    "Credit": 4,
+    "Class Time": "MW 10:00a-11:50a",
+    "Instructor": "Mushtaq Ahmad Khan"
+  },
+  {
+    "Course Code": "ECON 323 LEC 1",
+    "Course Title": "Economic History of South Asia",
+    "Credit": 4,
+    "Class Time": "TTh 12:00p-1:50p",
+    "Instructor": "Fahd Ali"
+  },
+  {
+    "Course Code": "ECON 330 LEC 1",
+    "Course Title": "Econometrics",
+    "Credit": 4,
+    "Class Time": "MW 10:00a-11:30a",
+    "Instructor": "Farah Said"
+  },
+  {
+    "Course Code": "ECON 330 LEC 2",
+    "Course Title": "Econometrics",
+    "Credit": 4,
+    "Class Time": "TTh 10:00a-11:30a",
+    "Instructor": "Muhammad Farooq Naseer"
+  },
+  {
+    "Course Code": "ECON 330 LAB 1",
+    "Course Title": "Econometrics",
+    "Credit": 4,
+    "Class Time": "F 11:00a-11:50a",
+    "Instructor": "Rabia Khan"
+  },
+  {
+    "Course Code": "ECON 330 LAB 2",
+    "Course Title": "Econometrics",
+    "Credit": 4,
+    "Class Time": "F 12:00p-12:50p",
+    "Instructor": "Rabia Khan"
+  },
+  {
+    "Course Code": "ECON 330 LAB 3",
+    "Course Title": "Econometrics",
+    "Credit": 4,
+    "Class Time": "W 5:00p-5:50p",
+    "Instructor": "Yushma Umar"
+  },
+  {
+    "Course Code": "ECON 330 LAB 4",
+    "Course Title": "Econometrics",
+    "Credit": 4,
+    "Class Time": "W 2:00p-2:50p",
+    "Instructor": "Yushma Umar"
+  },
+  {
+    "Course Code": "ECON 3402 LEC 1",
+    "Course Title": "Gender Economics",
+    "Credit": 4,
+    "Class Time": "TTh 4:00p-5:50p",
+    "Instructor": "Hana Zahir"
+  },
+  {
+    "Course Code": "ECON 343 LEC 1",
+    "Course Title": "Agriculture and Food Policy",
+    "Credit": 4,
+    "Class Time": "TTh 2:00p-3:50p",
+    "Instructor": "Abid Aman Burki"
+  },
+  {
+    "Course Code": "ECON 3603 LEC 1",
+    "Course Title": "Money and Monetary Policy: Applications to\nPakistan",
+    "Credit": 4,
+    "Class Time": "MW 10:00a-11:50a",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "ECON 363 LEC 1",
+    "Course Title": "Economics of Investment and Finance",
+    "Credit": 4,
+    "Class Time": "MW 9:30a-11:20a",
+    "Instructor": "Mohammad Usman Khan"
+  },
+  {
+    "Course Code": "ECON 4102 LEC 1",
+    "Course Title": "Gender and the Labor Market",
+    "Credit": 4,
+    "Class Time": "TTh 10:00a-11:50a",
+    "Instructor": "Hadia Majid"
+  },
+  {
+    "Course Code": "ECON 427 LEC 1",
+    "Course Title": "Computational Macroeconomics",
+    "Credit": 4,
+    "Class Time": "MW 10:00a-11:50a",
+    "Instructor": "Syed Zahid Ali"
+  },
+  {
+    "Course Code": "ECON 438 LEC 1",
+    "Course Title": "Econometrics II",
+    "Credit": 4,
+    "Class Time": "MW 12:00p-1:50p",
+    "Instructor": "Adeel Tariq"
+  },
+  {
+    "Course Code": "ECON 441 LEC 1",
+    "Course Title": "Development Economics Theory",
+    "Credit": 4,
+    "Class Time": "MW 3:00p-4:50p",
+    "Instructor": "Khalid Mir"
+  },
+  {
+    "Course Code": "ECON 4410 LEC 1",
+    "Course Title": "Issues in Economic Policy",
+    "Credit": 4,
+    "Class Time": "MW 9:00a-10:50a",
+    "Instructor": "Nazish Afraz\nIjaz Nabi"
+  },
+  {
+    "Course Code": "ECON 449 LEC 1",
+    "Course Title": "Philosophy and Economics",
+    "Credit": 4,
+    "Class Time": "MW 10:00a-11:50a",
+    "Instructor": "Khalid Mir"
+  },
+  {
+    "Course Code": "ECON 511 LEC 1",
+    "Course Title": "Microeconomic Analysis",
+    "Credit": 4,
+    "Class Time": "MW 10:00a-11:50a",
+    "Instructor": "Osama Khan"
+  },
+  {
+    "Course Code": "ECON 531 LEC 1",
+    "Course Title": "Econometrics and Research Methodology I",
+    "Credit": 4,
+    "Class Time": "TTh 10:00a-11:50a",
+    "Instructor": "Mushtaq Ahmad Khan"
+  },
+  {
+    "Course Code": "ECON 536 LEC 1",
+    "Course Title": "Topics in Mathematical Method for Economists",
+    "Credit": 4,
+    "Class Time": "MW 3:00p-4:50p",
+    "Instructor": "Syed Zahid Ali"
+  },
+  {
+    "Course Code": "EDU 210 LEC 1",
+    "Course Title": "Critical Debates in Education",
+    "Credit": 3,
+    "Class Time": "MW 8:00a-9:15a",
+    "Instructor": "Gulab Khan"
+  },
+  {
+    "Course Code": "EDU 218 LEC 1",
+    "Course Title": "Education and International Development -\nConcepts, Theories, and Issues",
+    "Credit": 3,
+    "Class Time": "TTh 8:00a-9:15a",
+    "Instructor": "Farah Syed"
+  },
+  {
+    "Course Code": "EDU 223 LEC 1",
+    "Course Title": "Trauma-Informed Education Systems: Creating\nCultures of Support and Change",
+    "Credit": 3,
+    "Class Time": "MW 8:00a-9:15a",
+    "Instructor": "Fizza Suhail"
+  },
+  {
+    "Course Code": "EDU 272 LEC 1",
+    "Course Title": "Education, Schools and Violence",
+    "Credit": 3,
+    "Class Time": "TTh 8:00a-9:15a",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "EDU 274 LEC 1",
+    "Course Title": "Gender Media and Education",
+    "Credit": 3,
+    "Class Time": "TTh 8:00a-9:15a",
+    "Instructor": "Hasham Nasir"
+  },
+  {
+    "Course Code": "EDU 3203 LEC 1",
+    "Course Title": "Designing Immersive Learning Experiences:\nStudent-Centered Instructional Skills Training",
+    "Credit": 3,
+    "Class Time": "TTh 9:30a-10:45a",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "EDU 3207 LEC 1",
+    "Course Title": "Socio Emotional Learning",
+    "Credit": 3,
+    "Class Time": "TTh 3:30p-4:45p",
+    "Instructor": "Mariam Haider"
+  },
+  {
+    "Course Code": "EDU 321 LEC 1",
+    "Course Title": "Inclusive Pedagogy: Rethinking teaching, learning\nand assessment",
+    "Credit": 3,
+    "Class Time": "TTh 8:00a-9:15a",
+    "Instructor": "Fizza Suhail"
+  },
+  {
+    "Course Code": "EDU 325 LEC 1",
+    "Course Title": "The (Instructional) Core and How to Work it",
+    "Credit": 3,
+    "Class Time": "MW 12:30p-1:45p",
+    "Instructor": "Mehreen Noon"
+  },
+  {
+    "Course Code": "EDU 353 LEC 1",
+    "Course Title": "Education and Conflict",
+    "Credit": 3,
+    "Class Time": "TTh 12:00p-1:15p",
+    "Instructor": "Hasham Nasir"
+  },
+  {
+    "Course Code": "EDU 372 LEC 1",
+    "Course Title": "Mobile Lives: Im/migration and Education",
+    "Credit": 3,
+    "Class Time": "TTh 4:30p-5:45p",
+    "Instructor": "Daniyal Yousaf"
+  },
+  {
+    "Course Code": "EDU 412 LEC 1",
+    "Course Title": "Economics of Education",
+    "Credit": 3,
+    "Class Time": "MW 12:00p-1:15p",
+    "Instructor": "Jasir Shahbaz"
+  },
+  {
+    "Course Code": "EDU 422 LEC 1",
+    "Course Title": "Behavior Analysis for Effective Teaching",
+    "Credit": 3,
+    "Class Time": "TTh 10:30a-11:45a",
+    "Instructor": "Aaishay Haque"
+  },
+  {
+    "Course Code": "EDU 510 SEM 1",
+    "Course Title": "Interdisciplinary Theoretical Perspectives on\nEducation",
+    "Credit": 3,
+    "Class Time": "F 2:00p-4:50p",
+    "Instructor": "Aaishay Haque\nTayyaba Tamim"
+  },
+  {
+    "Course Code": "EDU 512 SEM 1",
+    "Course Title": "The Arts and Education",
+    "Credit": 3,
+    "Class Time": "M 3:00p-5:50p",
+    "Instructor": "Razia Iram Sadik"
+  },
+  {
+    "Course Code": "EDU 515 SEM 1",
+    "Course Title": "Education and Happiness: Combining learning with\nhope and positivity",
+    "Credit": 3,
+    "Class Time": "F 8:00a-10:50a",
+    "Instructor": "Irfan Muzaffar"
+  },
+  {
+    "Course Code": "EDU 526 LEC 1",
+    "Course Title": "Enhancing Inclusion: Exploring Autism and\nIntellectual Disability",
+    "Credit": 3,
+    "Class Time": "TTh 1:00p-2:15p",
+    "Instructor": "Mariam Haider"
+  },
+  {
+    "Course Code": "EDU 540 LEC 1",
+    "Course Title": "Leadership: The Politics of Change",
+    "Credit": 3,
+    "Class Time": "TTh 8:00a-9:15a",
+    "Instructor": "Mariam Chughtai"
+  },
+  {
+    "Course Code": "EDU 560 SEM 1",
+    "Course Title": "Research Methods",
+    "Credit": 3,
+    "Class Time": "F 8:00a-10:50a",
+    "Instructor": "Soufia Anis Siddiqi\nAhmad Ayub"
+  },
+  {
+    "Course Code": "EDU 590 FLD 1",
+    "Course Title": "Observing Schools",
+    "Credit": 1,
+    "Class Time": "W 10:30a-4:20p",
+    "Instructor": "Hasham Nasir"
+  },
+  {
+    "Course Code": "EDU 643 LEC 1",
+    "Course Title": "Contemporary Management Concepts in\nEducational Leadership",
+    "Credit": 3,
+    "Class Time": "MW 2:30p-3:45p",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "EDU 690 SEM 1",
+    "Course Title": "Practicum Proseminar",
+    "Credit": 3,
+    "Class Time": "F 8:00a-10:50a",
+    "Instructor": "Gulab Khan"
+  },
+  {
+    "Course Code": "EDU 690 SEM 2",
+    "Course Title": "Practicum Proseminar",
+    "Credit": 3,
+    "Class Time": "F 2:00p-4:50p",
+    "Instructor": "Soufia Anis Siddiqi"
+  },
+  {
+    "Course Code": "EDU 693 LEC 1",
+    "Course Title": "Academic Writing",
+    "Credit": 1,
+    "Class Time": "F 12:00p-12:50p",
+    "Instructor": "Sannia Hussain"
+  },
+  {
+    "Course Code": "EDUX 510 LEC 1",
+    "Course Title": "Interdisciplinary Theoretical Perspectives on\nEducation",
+    "Credit": 3,
+    "Class Time": "SSu 1:00p-2:50p",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "EDUX 526 LEC 1",
+    "Course Title": "Professional Learning in Education",
+    "Credit": 3,
+    "Class Time": "SSu 12:00p-1:50p",
+    "Instructor": "Jessica Albrent"
+  },
+  {
+    "Course Code": "EDUX 540 LEC 1",
+    "Course Title": "Leadership: The Politics of Change",
+    "Credit": 3,
+    "Class Time": "SSu 4:00p-5:50p",
+    "Instructor": "Jessica Albrent\nHasham Nasir"
+  },
+  {
+    "Course Code": "EDUX 560 LEC 1",
+    "Course Title": "Research Methods",
+    "Credit": 3,
+    "Class Time": "SSu 8:00a-9:50a",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "EDUX 590 FLD 1",
+    "Course Title": "Observing Schools",
+    "Credit": 1,
+    "Class Time": "Su 10:00a-11:30a",
+    "Instructor": "Hasham Nasir"
+  },
+  {
+    "Course Code": "EDUX 616 LEC 1",
+    "Course Title": "Arts-Based Research: Exploring Creative Practices\nin Educational Inquiry",
+    "Credit": 3,
+    "Class Time": "SSu 3:00p-4:50p",
+    "Instructor": "Razia Iram Sadik"
+  },
+  {
+    "Course Code": "EDUX 662 LEC 1",
+    "Course Title": "Impact Evaluation Methods in Education",
+    "Credit": 3,
+    "Class Time": "SSu 2:00p-3:50p",
+    "Instructor": "Farah Nadeem"
+  },
+  {
+    "Course Code": "EDUX 690 LEC 1",
+    "Course Title": "Practicum Proseminar",
+    "Credit": 3,
+    "Class Time": "Su 8:00a-11:50a",
+    "Instructor": "Razia Iram Sadik"
+  },
+  {
+    "Course Code": "EDUX 690 LEC 2",
+    "Course Title": "Practicum Proseminar",
+    "Credit": 3,
+    "Class Time": "S 8:00a-11:50a",
+    "Instructor": "Farah Nadeem"
+  },
+  {
+    "Course Code": "EDUX 693 LEC 1",
+    "Course Title": "Academic Writing",
+    "Credit": 1,
+    "Class Time": "S 10:00a-11:30a",
+    "Instructor": "Sannia Hussain"
+  },
+  {
+    "Course Code": "EE 200 LAB 1",
+    "Course Title": "Sophomore Design Studio",
+    "Credit": 1,
+    "Class Time": "W 1:30p-4:20p",
+    "Instructor": "Talha Manzoor"
+  },
+  {
+    "Course Code": "EE 203 LEC 1",
+    "Course Title": "Engineering Models",
+    "Credit": 3,
+    "Class Time": "TTh 9:30a-10:45a",
+    "Instructor": "Hassan Mohy-ud-Din"
+  },
+  {
+    "Course Code": "EE 240 LEC 1",
+    "Course Title": "Circuits I",
+    "Credit": 3,
+    "Class Time": "TTh 1:00p-2:15p",
+    "Instructor": "Zubair Khalid"
+  },
+  {
+    "Course Code": "EE 324 LEC 1",
+    "Course Title": "Microcontroller and Interfacing",
+    "Credit": 2,
+    "Class Time": "MW 2:00p-2:50p",
+    "Instructor": "Muhammad Jahangir Ikram"
+  },
+  {
+    "Course Code": "EE 324L LAB 1",
+    "Course Title": "Microcontroller and Interfacing Lab",
+    "Credit": 1,
+    "Class Time": "T 11:00a-1:50p",
+    "Instructor": "Muhammad Jahangir Ikram"
+  },
+  {
+    "Course Code": "EE 324L LAB 2",
+    "Course Title": "Microcontroller and Interfacing Lab",
+    "Credit": 1,
+    "Class Time": "Th 3:00p-5:50p",
+    "Instructor": "Muhammad Jahangir Ikram"
+  },
+  {
+    "Course Code": "EE 330 LEC 1",
+    "Course Title": "Electromagnetic Fields and Waves",
+    "Credit": 3,
+    "Class Time": "MW 9:30a-10:45a",
+    "Instructor": "Muhammad Imran Cheema"
+  },
+  {
+    "Course Code": "EE 340 LEC 1",
+    "Course Title": "Devices and Electronics",
+    "Credit": 3,
+    "Class Time": "MW 12:30p-1:45p",
+    "Instructor": "Nauman Ahmad Zaffar"
+  },
+  {
+    "Course Code": "EE 340L LAB 1",
+    "Course Title": "Devices and Electronics Lab",
+    "Credit": 1,
+    "Class Time": "T 2:00p-4:50p",
+    "Instructor": "Nauman Ahmad Zaffar"
+  },
+  {
+    "Course Code": "EE 340L LAB 2",
+    "Course Title": "Devices and Electronics Lab",
+    "Credit": 1,
+    "Class Time": "F 2:00p-4:50p",
+    "Instructor": "Nauman Ahmad Zaffar"
+  },
+  {
+    "Course Code": "EE 340L LAB 3",
+    "Course Title": "Devices and Electronics Lab",
+    "Credit": 1,
+    "Class Time": "W 3:00p-5:50p",
+    "Instructor": "Nauman Ahmad Zaffar"
+  },
+  {
+    "Course Code": "EE 380 LEC 1",
+    "Course Title": "Communication Systems",
+    "Credit": 3,
+    "Class Time": "MW 11:00a-12:15p",
+    "Instructor": "Ijaz Haider Naqvi"
+  },
+  {
+    "Course Code": "EE 380L LAB 1",
+    "Course Title": "Communication Systems Lab",
+    "Credit": 1,
+    "Class Time": "F 2:00p-4:50p",
+    "Instructor": "Ahsan Ikram\nIjaz Haider Naqvi"
+  },
+  {
+    "Course Code": "EE 380L LAB 2",
+    "Course Title": "Communication Systems Lab",
+    "Credit": 1,
+    "Class Time": "T 2:30p-5:20p",
+    "Instructor": "Ahsan Ikram\nIjaz Haider Naqvi"
+  },
+  {
+    "Course Code": "EE 380L LAB 3",
+    "Course Title": "Communication Systems Lab",
+    "Credit": 1,
+    "Class Time": "F 10:00a-12:50p",
+    "Instructor": "Ijaz Haider Naqvi"
+  },
+  {
+    "Course Code": "EE 414 LEC 1",
+    "Course Title": "Deep Learning",
+    "Credit": 3,
+    "Class Time": "TTh 11:30a-12:45p",
+    "Instructor": "Hassan Mohy-ud-Din"
+  },
+  {
+    "Course Code": "EE 421 LEC 1",
+    "Course Title": "Digital System Design",
+    "Credit": 3,
+    "Class Time": "MW 11:30a-12:45p",
+    "Instructor": "Shahid Masud"
+  },
+  {
+    "Course Code": "EE 421L LAB 1",
+    "Course Title": "Digital System Design Lab",
+    "Credit": 1,
+    "Class Time": "F 10:00a-12:50p",
+    "Instructor": "Shahid Masud"
+  },
+  {
+    "Course Code": "EE 452 LEC 1",
+    "Course Title": "Power Electronics",
+    "Credit": 3,
+    "Class Time": "MW 1:30p-2:45p",
+    "Instructor": "Hafsa Qamar"
+  },
+  {
+    "Course Code": "EE 452L LAB 1",
+    "Course Title": "Power Electronics Lab",
+    "Credit": 1,
+    "Class Time": "T 11:30a-2:20p",
+    "Instructor": "Hafsa Qamar"
+  },
+  {
+    "Course Code": "EE 452L LAB 2",
+    "Course Title": "Power Electronics Lab",
+    "Credit": 1,
+    "Class Time": "W 10:30a-1:20p",
+    "Instructor": "Hafsa Qamar"
+  },
+  {
+    "Course Code": "EE 453 LEC 1",
+    "Course Title": "Power Systems Protection and Stability",
+    "Credit": 3,
+    "Class Time": "MW 3:00p-4:15p",
+    "Instructor": "Raheel Zafar"
+  },
+  {
+    "Course Code": "EE 453L LAB 1",
+    "Course Title": "Power Systems Protection and Stability",
+    "Credit": 1,
+    "Class Time": "F 3:00p-5:50p",
+    "Instructor": "Raheel Zafar"
+  },
+  {
+    "Course Code": "EE 5102 LEC 1",
+    "Course Title": "Advanced Topics in Machine Learning",
+    "Credit": 3,
+    "Class Time": "MW 4:30p-5:45p",
+    "Instructor": "Muhammad Tahir"
+  },
+  {
+    "Course Code": "EE 520 LEC 1",
+    "Course Title": "Computer Architecture",
+    "Credit": 3,
+    "Class Time": "MW 4:30p-5:45p",
+    "Instructor": "Muhammad Adeel Ahmed Pasha"
+  },
+  {
+    "Course Code": "EE 5202 LEC 1",
+    "Course Title": "VLSI Design for Artificial Intelligence",
+    "Credit": 3,
+    "Class Time": "MW 4:30p-5:45p",
+    "Instructor": "Muhammad Ali Siddiqi"
+  },
+  {
+    "Course Code": "EE 5203 LEC 1",
+    "Course Title": "Data Analysis, Design of Experiments and Physics\nInformed ML",
+    "Credit": 3,
+    "Class Time": "TTh 9:30a-10:45a",
+    "Instructor": "Nauman Zafar Butt"
+  },
+  {
+    "Course Code": "EE 5216 LEC 1",
+    "Course Title": "Hardware Design for IoT Security",
+    "Credit": 3,
+    "Class Time": "MW 10:00a-11:15a",
+    "Instructor": "Muhammad Ali Siddiqi"
+  },
+  {
+    "Course Code": "EE 5502 LEC 1",
+    "Course Title": "Local Solutions for Energy Access",
+    "Credit": 3,
+    "Class Time": "MW 9:00a-10:15a",
+    "Instructor": "Naveed Arshad\nNauman Ahmad Zaffar"
+  },
+  {
+    "Course Code": "EE 555 LEC 1",
+    "Course Title": "Renewable Energy Systems",
+    "Credit": 3,
+    "Class Time": "MW 4:30p-5:45p",
+    "Instructor": "Hassan Abbas Khan"
+  },
+  {
+    "Course Code": "EE 567 LEC 1",
+    "Course Title": "Multi-agent Systems",
+    "Credit": 3,
+    "Class Time": "TTh 9:30a-10:45a",
+    "Instructor": "Hassan Jaleel"
+  },
+  {
+    "Course Code": "EE 576 LEC 1",
+    "Course Title": "Smart Grid: Technology and Applications",
+    "Credit": 3,
+    "Class Time": "TTh 4:30p-5:45p",
+    "Instructor": "Naveed Ul Hassan"
+  },
+  {
+    "Course Code": "EMBA 5013 LEC 1",
+    "Course Title": "Understanding Financial Accounting: Making More\nAuthoritative Decisions",
+    "Credit": 1,
+    "Class Time": "SSu 8:30a-10:35a",
+    "Instructor": "Asad Alam"
+  },
+  {
+    "Course Code": "EMBA 5013 LEC 2",
+    "Course Title": "Understanding Financial Accounting: Making More\nAuthoritative Decisions",
+    "Credit": 1,
+    "Class Time": "SSu 10:55a-1:00p",
+    "Instructor": "Asad Alam"
+  },
+  {
+    "Course Code": "EMBA 5022 LEC 1",
+    "Course Title": "Corporate Finance",
+    "Credit": 1,
+    "Class Time": "SSu 10:55a-1:00p",
+    "Instructor": "Syed Mubashir Ali"
+  },
+  {
+    "Course Code": "EMBA 5022 LEC 2",
+    "Course Title": "Corporate Finance",
+    "Credit": 1,
+    "Class Time": "SSu 2:00p-4:05p",
+    "Instructor": "Syed Mubashir Ali"
+  },
+  {
+    "Course Code": "EMBA 5041 LEC 1",
+    "Course Title": "Marketing Management",
+    "Credit": 1,
+    "Class Time": "SSu 2:00p-4:05p",
+    "Instructor": "Ehsan Ul Haque"
+  },
+  {
+    "Course Code": "EMBA 5041 LEC 2",
+    "Course Title": "Marketing Management",
+    "Credit": 1,
+    "Class Time": "SSu 8:30a-10:35a",
+    "Instructor": "Ehsan Ul Haque"
+  },
+  {
+    "Course Code": "EMBA 5063 LEC 1",
+    "Course Title": "Problem Solving and Decision Making",
+    "Credit": 1,
+    "Class Time": "SSu 10:55a-1:00p",
+    "Instructor": "Jamshed Hasan Khan"
+  },
+  {
+    "Course Code": "EMBA 5063 LEC 2",
+    "Course Title": "Problem Solving and Decision Making",
+    "Credit": 1,
+    "Class Time": "SSu 2:00p-4:05p",
+    "Instructor": "Jamshed Hasan Khan"
+  },
+  {
+    "Course Code": "EMBA 5211 LEC 1",
+    "Course Title": "Business Law",
+    "Credit": 1,
+    "Class Time": "SSu 8:30a-10:35a",
+    "Instructor": "Faiza Ali"
+  },
+  {
+    "Course Code": "EMBA 5211 LEC 2",
+    "Course Title": "Business Law",
+    "Credit": 1,
+    "Class Time": "SSu 10:55a-1:00p",
+    "Instructor": "Faiza Ali"
+  },
+  {
+    "Course Code": "EMBA 6071 LEC 1",
+    "Course Title": "Venture Creation",
+    "Credit": 1,
+    "Class Time": "SSu 2:00p-4:05p",
+    "Instructor": "Mansoor Nawaz"
+  },
+  {
+    "Course Code": "EMBA 6071 LEC 2",
+    "Course Title": "Venture Creation",
+    "Credit": 1,
+    "Class Time": "SSu 8:30a-10:35a",
+    "Instructor": "Mansoor Nawaz"
+  },
+  {
+    "Course Code": "ENGG 100 LAB 1",
+    "Course Title": "Design and Measurement Lab",
+    "Credit": 2,
+    "Class Time": "W 9:00a-1:50p",
+    "Instructor": "Qasim Imtiaz"
+  },
+  {
+    "Course Code": "ENGG 100 LAB 2",
+    "Course Title": "Design and Measurement Lab",
+    "Credit": 2,
+    "Class Time": "Th 9:00a-1:50p",
+    "Instructor": "Muhammad Umar Hassan\nAmmar Ahmed Khan"
+  },
+  {
+    "Course Code": "ENGG 100 LAB 3",
+    "Course Title": "Design and Measurement Lab",
+    "Credit": 2,
+    "Class Time": "T 9:00a-1:50p",
+    "Instructor": "Muhammad Umar Hassan\nAmmar Ahmed Khan"
+  },
+  {
+    "Course Code": "ENGG 100 LAB 4",
+    "Course Title": "Design and Measurement Lab",
+    "Credit": 2,
+    "Class Time": "M 9:00a-1:50p",
+    "Instructor": "Zubair Khalid"
+  },
+  {
+    "Course Code": "ENGG 100 LAB 5",
+    "Course Title": "Design and Measurement Lab",
+    "Credit": 2,
+    "Class Time": "Th 1:30p-6:20p",
+    "Instructor": "Muhammad Tahir"
+  },
+  {
+    "Course Code": "ENGG 100 LEC 1",
+    "Course Title": "Design and Measurement Lab",
+    "Credit": 2,
+    "Class Time": "W 8:00a-8:50a",
+    "Instructor": "Qasim Imtiaz"
+  },
+  {
+    "Course Code": "ENGG 100 LEC 2",
+    "Course Title": "Design and Measurement Lab",
+    "Credit": 2,
+    "Class Time": "Th 8:00a-8:50a",
+    "Instructor": "Muhammad Umar Hassan\nAmmar Ahmed Khan"
+  },
+  {
+    "Course Code": "ENGG 100 LEC 3",
+    "Course Title": "Design and Measurement Lab",
+    "Credit": 2,
+    "Class Time": "T 8:00a-8:50a",
+    "Instructor": "Muhammad Umar Hassan\nAmmar Ahmed Khan"
+  },
+  {
+    "Course Code": "ENGG 100 LEC 4",
+    "Course Title": "Design and Measurement Lab",
+    "Credit": 2,
+    "Class Time": "M 8:00a-8:50a",
+    "Instructor": "Zubair Khalid"
+  },
+  {
+    "Course Code": "ENGG 100 LEC 5",
+    "Course Title": "Design and Measurement Lab",
+    "Credit": 2,
+    "Class Time": "Th 12:30p-1:20p",
+    "Instructor": "Muhammad Tahir"
+  },
+  {
+    "Course Code": "ENGL 1000 LEC 1",
+    "Course Title": "Introduction to Literature in English",
+    "Credit": 4,
+    "Class Time": "TTh 2:00p-3:50p",
+    "Instructor": "Tom Edward Sewel"
+  },
+  {
+    "Course Code": "ENGL 1102 LEC 1",
+    "Course Title": "Writing South Asia",
+    "Credit": 4,
+    "Class Time": "TTh 4:30p-6:20p",
+    "Instructor": "Younis Bin Azeem"
+  },
+  {
+    "Course Code": "ENGL 1192 LEC 1",
+    "Course Title": "Introduction to Humour Writing",
+    "Credit": 4,
+    "Class Time": "MW 2:00p-3:50p",
+    "Instructor": "Younis Bin Azeem"
+  },
+  {
+    "Course Code": "ENGL 2402 LEC 1",
+    "Course Title": "Comics Scholarship and Graphic Narrative",
+    "Credit": 4,
+    "Class Time": "MW 8:00a-9:50a",
+    "Instructor": "Tom Edward Sewel"
+  },
+  {
+    "Course Code": "ENGL 2811 LEC 1",
+    "Course Title": "Rethinking the Politics of Harem in Literature:\nWomen, Islam, and Gendered Spaces",
+    "Credit": 4,
+    "Class Time": "MW 12:00p-1:50p",
+    "Instructor": "Sadia Zulfiqar"
+  },
+  {
+    "Course Code": "ENGL 2991 LEC 1",
+    "Course Title": "Text and Tech: Digital Approaches to the\nHumanities",
+    "Credit": 4,
+    "Class Time": "TTh 8:00a-9:50a",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "ENGL 3172 LEC 1",
+    "Course Title": "'The Empire Writes Back’: Diaspora Fiction in\nEurope",
+    "Credit": 4,
+    "Class Time": "MW 8:00a-9:50a",
+    "Instructor": "Farah Hasan Ali"
+  },
+  {
+    "Course Code": "ENGL 3812 LEC 1",
+    "Course Title": "African Literature: Women Writing Back",
+    "Credit": 4,
+    "Class Time": "MW 12:00p-1:50p",
+    "Instructor": "Furrukh A. Khan"
+  },
+  {
+    "Course Code": "ENV 102 LEC 1",
+    "Course Title": "Introduction to Environmental Studies",
+    "Credit": 4,
+    "Class Time": "TTh 10:00a-11:50a",
+    "Instructor": "Maryam Ibrahim"
+  },
+  {
+    "Course Code": "ENV 132 LEC 1",
+    "Course Title": "Disasters",
+    "Credit": 4,
+    "Class Time": "TTh 2:00p-3:50p",
+    "Instructor": "Sana Khosa"
+  },
+  {
+    "Course Code": "ENV 210 LEC 1",
+    "Course Title": "Methods in Environmental Studies",
+    "Credit": 4,
+    "Class Time": "MW 12:00p-1:50p",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "ENV 342 LEC 1",
+    "Course Title": "Environmentalism and Development",
+    "Credit": 4,
+    "Class Time": "MW 3:00p-4:50p",
+    "Instructor": "Maryam Ibrahim"
+  },
+  {
+    "Course Code": "FINN 100 LEC 1",
+    "Course Title": "Principles of Finance",
+    "Credit": 3,
+    "Class Time": "MW 9:30a-10:45a",
+    "Instructor": "Salman Khan"
+  },
+  {
+    "Course Code": "FINN 200 LEC 1",
+    "Course Title": "Intermediate Finance",
+    "Credit": 3,
+    "Class Time": "MW 11:00a-12:15p",
+    "Instructor": "Bushra Naqvi"
+  },
+  {
+    "Course Code": "FINN 200 LEC 2",
+    "Course Title": "Intermediate Finance",
+    "Credit": 3,
+    "Class Time": "MW 8:00a-9:15a",
+    "Instructor": "Syed Hashim Mahmood Ali"
+  },
+  {
+    "Course Code": "FINN 200 LEC 3",
+    "Course Title": "Intermediate Finance",
+    "Credit": 3,
+    "Class Time": "MW 9:30a-10:45a",
+    "Instructor": "Syed Hashim Mahmood Ali"
+  },
+  {
+    "Course Code": "FINN 243 LEC 1",
+    "Course Title": "Fintech Revolution: Market Disruption and\nEmerging Opportunities",
+    "Credit": 3,
+    "Class Time": "TTh 5:00p-6:15p",
+    "Instructor": "Syed Hashim Mahmood Ali"
+  },
+  {
+    "Course Code": "FINN 372 LEC 1",
+    "Course Title": "Actuarial Sciences and Insurance",
+    "Credit": 3,
+    "Class Time": "TTh 12:30p-1:45p",
+    "Instructor": "Nauman Afzal Cheema"
+  },
+  {
+    "Course Code": "FINN 373 LEC 1",
+    "Course Title": "Fundamentals of Actuarial Mathematics I",
+    "Credit": 3,
+    "Class Time": "TTh 5:00p-6:15p",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "FINN 400 LEC 1",
+    "Course Title": "Applied Corporate Finance",
+    "Credit": 3,
+    "Class Time": "TTh 2:00p-3:15p",
+    "Instructor": "Saad Azmat"
+  },
+  {
+    "Course Code": "FINN 403 LEC 1",
+    "Course Title": "Financial Modelling",
+    "Credit": 3,
+    "Class Time": "TTh 11:00a-12:15p",
+    "Instructor": "Talha Farrukh"
+  },
+  {
+    "Course Code": "FINN 441 LEC 1",
+    "Course Title": "Islamic Banking and Finance",
+    "Credit": 3,
+    "Class Time": "TTh 3:30p-4:45p",
+    "Instructor": "Saad Azmat"
+  },
+  {
+    "Course Code": "FINN 454 LEC 1",
+    "Course Title": "Portfolio Management",
+    "Credit": 3,
+    "Class Time": "MW 11:00a-12:15p",
+    "Instructor": "Syed Kumail Abbas Rizvi"
+  },
+  {
+    "Course Code": "FINN 7201 LEC 1",
+    "Course Title": "Mathematical Modeling",
+    "Credit": 3,
+    "Class Time": "W 9:30a-12:30p",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "FINN 8001 SEM 1",
+    "Course Title": "Seminar in Islamic and Corporate Finance",
+    "Credit": 3,
+    "Class Time": "Th 10:30a-1:30p",
+    "Instructor": "Saad Azmat"
+  },
+  {
+    "Course Code": "FINN 8401 SEM 1",
+    "Course Title": "Seminar in Financial Intermediation and\nRegualatory Framework",
+    "Credit": 3,
+    "Class Time": "T 12:30p-3:30p",
+    "Instructor": "Bushra Naqvi"
+  },
+  {
+    "Course Code": "FMG 5101 LEC 1",
+    "Course Title": "Financial Statement Analysis and Value Creation",
+    "Credit": 3,
+    "Class Time": "FSSu 10:45a-12:45p",
+    "Instructor": "Syed Kumail Abbas Rizvi"
+  },
+  {
+    "Course Code": "GSL 102 SEM 1",
+    "Course Title": "Chinese Language for Beginners (HSK Level 1)",
+    "Credit": 4,
+    "Class Time": "TTh 2:00p-3:50p",
+    "Instructor": "Hui Qi"
+  },
+  {
+    "Course Code": "GSL 102 SEM 2",
+    "Course Title": "Chinese Language for Beginners (HSK Level 1)",
+    "Credit": 4,
+    "Class Time": "TTh 4:00p-5:50p",
+    "Instructor": "Sikandar Ahmed Shah"
+  },
+  {
+    "Course Code": "GSL 202 LEC 1",
+    "Course Title": "Writing from the Trial",
+    "Credit": 4,
+    "Class Time": "MW 11:00a-12:50p",
+    "Instructor": "Sarah Humayun"
+  },
+  {
+    "Course Code": "GSS 264 LEC 1",
+    "Course Title": "Master Narratives: Minding Gender and Media\nGaps",
+    "Credit": 4,
+    "Class Time": "TTh 12:00p-1:50p",
+    "Instructor": "Maria Amir"
+  },
+  {
+    "Course Code": "GSS 302 LEC 1",
+    "Course Title": "Feminist Theory",
+    "Credit": 4,
+    "Class Time": "TTh 4:00p-5:50p",
+    "Instructor": "Maria Amir"
+  },
+  {
+    "Course Code": "HIST 122 LEC 1",
+    "Course Title": "East Asian History",
+    "Credit": 4,
+    "Class Time": "TTh 11:00a-12:50p",
+    "Instructor": "Hassan Haider Karrar"
+  },
+  {
+    "Course Code": "HIST 124 LEC 1",
+    "Course Title": "The World Since 1453",
+    "Credit": 4,
+    "Class Time": "MW 4:00p-5:50p",
+    "Instructor": "Ameem Lutfi"
+  },
+  {
+    "Course Code": "HIST 2203 LEC 1",
+    "Course Title": "Making of Modern Afghanistan",
+    "Credit": 4,
+    "Class Time": "MW 4:00p-5:50p",
+    "Instructor": "Jahanzeb Baloch"
+  },
+  {
+    "Course Code": "HIST 2322 LEC 1",
+    "Course Title": "A Brief history of Evil",
+    "Credit": 4,
+    "Class Time": "TTh 11:00a-12:50p",
+    "Instructor": "Muhammad Ali Raza"
+  },
+  {
+    "Course Code": "HIST 2324 LEC 1",
+    "Course Title": "Conceptual Understanding of Borders and\nBorderlands Studies",
+    "Credit": 4,
+    "Class Time": "MW 2:00p-3:50p",
+    "Instructor": "Ilyas Ahmad Chattha"
+  },
+  {
+    "Course Code": "HIST 314 LEC 1",
+    "Course Title": "19th Century Sikh Wall Paintings in Punjab",
+    "Credit": 4,
+    "Class Time": "MW 2:00p-3:50p",
+    "Instructor": "Nadhra Shahbaz Naeem Khan"
+  },
+  {
+    "Course Code": "HIST 3202 LEC 1",
+    "Course Title": "Civil War in the 20th Century",
+    "Credit": 4,
+    "Class Time": "TTh 2:00p-3:50p",
+    "Instructor": "Ilyas Ahmad Chattha"
+  },
+  {
+    "Course Code": "HIST 329 LEC 1",
+    "Course Title": "The Cold War",
+    "Credit": 4,
+    "Class Time": "TTh 1:30p-3:20p",
+    "Instructor": "Hassan Haider Karrar"
+  },
+  {
+    "Course Code": "HIST 3310 LEC 1",
+    "Course Title": "The Atomic Age: Control, Confrontation, Disaster",
+    "Credit": 4,
+    "Class Time": "MW 12:00p-1:50p",
+    "Instructor": "Waqar Zaidi"
+  },
+  {
+    "Course Code": "HIST 427 LEC 1",
+    "Course Title": "Walking in the City: Mapping Everyday Life in\nLahore",
+    "Credit": 4,
+    "Class Time": "WF 4:00p-5:50p",
+    "Instructor": "Ali Usman Qasmi"
+  },
+  {
+    "Course Code": "HMI 6202 LEC 1",
+    "Course Title": "Healthcare Operations Management",
+    "Credit": 3,
+    "Class Time": "FSSu 8:30a-10:30a",
+    "Instructor": "Hassan Rauf Chaudhry"
+  },
+  {
+    "Course Code": "LANG 1202 LEC 1",
+    "Course Title": "Arabic for Quran",
+    "Credit": 4,
+    "Class Time": "WF 2:30p-4:20p",
+    "Instructor": "Hafiz Abdul Qadeer"
+  },
+  {
+    "Course Code": "LANG 122 LEC 1",
+    "Course Title": "Introduction to Balochi Language",
+    "Credit": 4,
+    "Class Time": "TTh 10:00a-11:50a",
+    "Instructor": "Jahanzeb Baloch"
+  },
+  {
+    "Course Code": "LANG 123 LEC 1",
+    "Course Title": "Introduction to Punjabi Language",
+    "Credit": 4,
+    "Class Time": "TTh 4:00p-5:50p",
+    "Instructor": "Zahid Hussain"
+  },
+  {
+    "Course Code": "LANG 124 LEC 1",
+    "Course Title": "Introduction to Arabic Language",
+    "Credit": 4,
+    "Class Time": "WF 4:30p-6:20p",
+    "Instructor": "Hafiz Abdul Qadeer"
+  },
+  {
+    "Course Code": "LANG 127 LEC 1",
+    "Course Title": "Introduction to Persian Language",
+    "Credit": 4,
+    "Class Time": "TTh 12:00p-1:50p",
+    "Instructor": "Muhammad Iftikhar"
+  },
+  {
+    "Course Code": "LANG 128 LEC 1",
+    "Course Title": "Sindhi for Non-Sindhi Speakers",
+    "Credit": 4,
+    "Class Time": "MW 4:00p-5:50p",
+    "Instructor": "Ashok Kumar Khatri"
+  },
+  {
+    "Course Code": "LANG 129 LEC 1",
+    "Course Title": "Pashto for Non-Native Speakers",
+    "Credit": 4,
+    "Class Time": "MW 10:00a-11:50a",
+    "Instructor": "Imad ."
+  },
+  {
+    "Course Code": "LANG 2203 LEC 1",
+    "Course Title": "Pashto: Intermediate Proficiency",
+    "Credit": 4,
+    "Class Time": "TTh 10:00a-11:50a",
+    "Instructor": "Imad ."
+  },
+  {
+    "Course Code": "LANG 2204 LEC 1",
+    "Course Title": "The Art of Reading and Writing Punjabi",
+    "Credit": 4,
+    "Class Time": "MW 4:00p-5:50p",
+    "Instructor": "Zahid Hussain"
+  },
+  {
+    "Course Code": "LANG 2205 LEC 1",
+    "Course Title": "Sindhi: Intermediate Proficiency",
+    "Credit": 4,
+    "Class Time": "TTh 4:00p-5:50p",
+    "Instructor": "Ashok Kumar Khatri"
+  },
+  {
+    "Course Code": "LANG 2206 LEC 1",
+    "Course Title": "Contemporary Persian for Social and Professional\nUse",
+    "Credit": 4,
+    "Class Time": "TTh 2:30p-4:20p",
+    "Instructor": "Muhammad Iftikhar"
+  },
+  {
+    "Course Code": "LANG 2207 LEC 1",
+    "Course Title": "Enhancing Urdu Reading and Writing Skills",
+    "Credit": 4,
+    "Class Time": "TTh 2:00p-3:50p",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "LAW 102 LEC 1",
+    "Course Title": "Introduction to Pakistan Legal System",
+    "Credit": 4,
+    "Class Time": "TTh 4:00p-5:50p",
+    "Instructor": "Summaiya Zaidi"
+  },
+  {
+    "Course Code": "LAW 102 LEC 2",
+    "Course Title": "Introduction to Pakistan Legal System",
+    "Credit": 4,
+    "Class Time": "MW 2:00p-3:50p",
+    "Instructor": "Marva Khan"
+  },
+  {
+    "Course Code": "LAW 102 LEC 3",
+    "Course Title": "Introduction to Pakistan Legal System",
+    "Credit": 4,
+    "Class Time": "MW 4:00p-5:50p",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "LAW 220 LEC 1",
+    "Course Title": "Contracts",
+    "Credit": 4,
+    "Class Time": "TTh 1:00p-2:50p",
+    "Instructor": "Sheharyar Sikander Hamid"
+  },
+  {
+    "Course Code": "LAW 220 LEC 2",
+    "Course Title": "Contracts",
+    "Credit": 4,
+    "Class Time": "MW 11:30a-1:20p",
+    "Instructor": "Syeda Zehra Zaidi"
+  },
+  {
+    "Course Code": "LAW 222 LEC 1",
+    "Course Title": "Torts",
+    "Credit": 4,
+    "Class Time": "MW 2:00p-3:50p",
+    "Instructor": "Syeda Zehra Zaidi"
+  },
+  {
+    "Course Code": "LAW 222 LEC 2",
+    "Course Title": "Torts",
+    "Credit": 4,
+    "Class Time": "MW 3:30p-5:20p",
+    "Instructor": "Ahmed Hasan Khan"
+  },
+  {
+    "Course Code": "LAW 240 LEC 1",
+    "Course Title": "Criminal Law",
+    "Credit": 4,
+    "Class Time": "MW 10:00a-11:50a",
+    "Instructor": "Angbeen Atif Mirza"
+  },
+  {
+    "Course Code": "LAW 240 LEC 2",
+    "Course Title": "Criminal Law",
+    "Credit": 4,
+    "Class Time": "TTh 4:30p-6:20p",
+    "Instructor": "Hammad Saeed"
+  },
+  {
+    "Course Code": "LAW 280 LEC 1",
+    "Course Title": "Legal Practice I: Legal Writing and Research\nMethods",
+    "Credit": 4,
+    "Class Time": "TTh 2:00p-3:50p",
+    "Instructor": "Adnan Sattar"
+  },
+  {
+    "Course Code": "LAW 280 LEC 2",
+    "Course Title": "Legal Practice I: Legal Writing and Research\nMethods",
+    "Credit": 4,
+    "Class Time": "TTh 4:00p-5:50p",
+    "Instructor": "Maria Farooq"
+  },
+  {
+    "Course Code": "LAW 303 LEC 1",
+    "Course Title": "Advanced Writing from the Trial",
+    "Credit": 4,
+    "Class Time": "TTh 12:00p-1:50p",
+    "Instructor": "Sarah Humayun"
+  },
+  {
+    "Course Code": "LAW 306 LEC 1",
+    "Course Title": "International Relations and International Law:\nChinese Perspectives",
+    "Credit": 4,
+    "Class Time": "MW 12:00p-1:50p",
+    "Instructor": "Syed Hassan Raza"
+  },
+  {
+    "Course Code": "LAW 3203 LEC 1",
+    "Course Title": "Introduction to Legal Aspects of Merger and\nAcquisition law in Pakistan",
+    "Credit": 4,
+    "Class Time": "MW 8:00a-9:50a",
+    "Instructor": "Ali Awais"
+  },
+  {
+    "Course Code": "LAW 338 LEC 1",
+    "Course Title": "Constitutional and Legal System of the United\nKingdom",
+    "Credit": 4,
+    "Class Time": "WF 12:00p-1:50p",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "LAW 352 LEC 1",
+    "Course Title": "Public International Law",
+    "Credit": 4,
+    "Class Time": "MW 10:00a-11:50a",
+    "Instructor": "Sikandar Ahmed Shah"
+  },
+  {
+    "Course Code": "LAW 352 LEC 2",
+    "Course Title": "Public International Law",
+    "Credit": 4,
+    "Class Time": "MW 2:00p-3:50p",
+    "Instructor": "Madiha Talat"
+  },
+  {
+    "Course Code": "LAW 353 LEC 1",
+    "Course Title": "Human Rights",
+    "Credit": 4,
+    "Class Time": "TTh 4:00p-5:50p",
+    "Instructor": "Adnan Sattar"
+  },
+  {
+    "Course Code": "LAW 426 LEC 1",
+    "Course Title": "Marxist Theories of Law",
+    "Credit": 4,
+    "Class Time": "TTh 12:00p-1:50p",
+    "Instructor": "Aisha Ahmad"
+  },
+  {
+    "Course Code": "LAW 427 LEC 1",
+    "Course Title": "Crime, Law and Finance: Wonders of White Color\nCrime in Pakistan!",
+    "Credit": 4,
+    "Class Time": "MW 12:00p-1:50p",
+    "Instructor": "Faiza ."
+  },
+  {
+    "Course Code": "LAW 4304 LEC 1",
+    "Course Title": "Parliamentary Power Play",
+    "Credit": 4,
+    "Class Time": "MW 10:00a-11:50a",
+    "Instructor": "Marva Khan"
+  },
+  {
+    "Course Code": "LAW 4305 SEM 1",
+    "Course Title": "The Jurisprudence of Extractivism",
+    "Credit": 4,
+    "Class Time": "TTh 4:00p-5:50p",
+    "Instructor": "Asad Farooq"
+  },
+  {
+    "Course Code": "LAW 4306 LEC 1",
+    "Course Title": "Judicial Review Of Public Actions: Writ Jurisdiction\nIn Pakistan",
+    "Credit": 4,
+    "Class Time": "WF 8:00a-9:50a",
+    "Instructor": "Zaki Rahman"
+  },
+  {
+    "Course Code": "LAW 4505 SEM 1",
+    "Course Title": "Business and Human Rights: A Critical Legal\nPerspective from the South",
+    "Credit": 4,
+    "Class Time": "TTh 12:00p-1:50p",
+    "Instructor": "Muhammad Azeem"
+  },
+  {
+    "Course Code": "LAW 471 LEC 1",
+    "Course Title": "Civil Procedure",
+    "Credit": 4,
+    "Class Time": "WF 3:00p-4:50p",
+    "Instructor": "Muhammad Umar Ali"
+  },
+  {
+    "Course Code": "LAW 471 LEC 2",
+    "Course Title": "Civil Procedure",
+    "Credit": 4,
+    "Class Time": "WF 4:00p-5:50p",
+    "Instructor": "Fahad Malik"
+  },
+  {
+    "Course Code": "LAW 472 LEC 1",
+    "Course Title": "Criminal Procedure",
+    "Credit": 4,
+    "Class Time": "WF 4:00p-5:50p",
+    "Instructor": "Haider Rasul Mirza"
+  },
+  {
+    "Course Code": "LAW 4812 LEC 1",
+    "Course Title": "Legal Practice II: Legal Instruments",
+    "Credit": 4,
+    "Class Time": "TTh 4:00p-5:50p",
+    "Instructor": "Muhammad Umar Ali"
+  },
+  {
+    "Course Code": "LAW 4812 LEC 2",
+    "Course Title": "Legal Practice II: Legal Instruments",
+    "Credit": 4,
+    "Class Time": "TTh 2:00p-3:50p",
+    "Instructor": "Summaiya Zaidi"
+  },
+  {
+    "Course Code": "LAW 4812 LEC 3",
+    "Course Title": "Legal Practice II: Legal Instruments",
+    "Credit": 4,
+    "Class Time": "TTh 4:00p-5:50p",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "LAW 486 LEC 1",
+    "Course Title": "Advanced Legal Research",
+    "Credit": 4,
+    "Class Time": "TTh 8:00a-9:50a",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "LAW 4924 LEC 1",
+    "Course Title": "Prison Paralegal Clinic",
+    "Credit": 4,
+    "Class Time": "TTh 10:00a-11:50a",
+    "Instructor": "Angbeen Atif Mirza"
+  },
+  {
+    "Course Code": "MATH 100 LEC 1",
+    "Course Title": "Pre-Calculus",
+    "Credit": 3,
+    "Class Time": "MW 12:30p-1:45p",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "MATH 100 LEC 2",
+    "Course Title": "Pre-Calculus",
+    "Credit": 3,
+    "Class Time": "TTh 8:00a-9:15a",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "MATH 101 LEC 1",
+    "Course Title": "Calculus I",
+    "Credit": 3,
+    "Class Time": "MW 12:30p-1:45p",
+    "Instructor": "Haniya Azam"
+  },
+  {
+    "Course Code": "MATH 101 LEC 2",
+    "Course Title": "Calculus I",
+    "Credit": 3,
+    "Class Time": "TTh 8:00a-9:15a",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "MATH 101 LEC 3",
+    "Course Title": "Calculus I",
+    "Credit": 3,
+    "Class Time": "MW 2:00p-3:15p",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "MATH 101 LEC 4",
+    "Course Title": "Calculus I",
+    "Credit": 3,
+    "Class Time": "TTh 10:30a-11:45a",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "MATH 101 LEC 5",
+    "Course Title": "Calculus I",
+    "Credit": 3,
+    "Class Time": "MW 5:00p-6:15p",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "MATH 101 LEC 6",
+    "Course Title": "Calculus I",
+    "Credit": 3,
+    "Class Time": "MW 3:30p-4:45p",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "MATH 101H LEC 1",
+    "Course Title": "Calculus I (Honours)",
+    "Credit": 3,
+    "Class Time": "TTh 10:30a-11:45a",
+    "Instructor": "Waqas Ali Azhar"
+  },
+  {
+    "Course Code": "MATH 102 LEC 1",
+    "Course Title": "Calculus II",
+    "Credit": 3,
+    "Class Time": "MW 4:30p-5:45p",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "MATH 102 LEC 2",
+    "Course Title": "Calculus II",
+    "Credit": 3,
+    "Class Time": "TTh 11:30a-12:45p",
+    "Instructor": "Masood Hussain Shah"
+  },
+  {
+    "Course Code": "MATH 120 LEC 1",
+    "Course Title": "Linear Algebra with Differential Equations",
+    "Credit": 3,
+    "Class Time": "MW 5:00p-6:15p",
+    "Instructor": "Imran Naeem"
+  },
+  {
+    "Course Code": "MATH 120 LEC 2",
+    "Course Title": "Linear Algebra with Differential Equations",
+    "Credit": 3,
+    "Class Time": "TTh 8:00a-9:15a",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "MATH 204 LEC 1",
+    "Course Title": "Introduction to Formal Mathematics",
+    "Credit": 3,
+    "Class Time": "MW 1:30p-2:45p",
+    "Instructor": "Shaheen Nazir"
+  },
+  {
+    "Course Code": "MATH 210 LEC 1",
+    "Course Title": "Introduction to Differential Equations",
+    "Credit": 3,
+    "Class Time": "TTh 5:00p-6:15p",
+    "Instructor": "Ali Ashher Zaidi"
+  },
+  {
+    "Course Code": "MATH 222 LEC 1",
+    "Course Title": "Linear Algebra II",
+    "Credit": 3,
+    "Class Time": "TTh 12:30p-1:45p",
+    "Instructor": "Haniya Azam"
+  },
+  {
+    "Course Code": "MATH 230 LEC 1",
+    "Course Title": "Probability",
+    "Credit": 3,
+    "Class Time": "MW 11:30a-12:45p",
+    "Instructor": "Reza Abdolmaleki"
+  },
+  {
+    "Course Code": "MATH 300 LEC 1",
+    "Course Title": "Complex Variables",
+    "Credit": 3,
+    "Class Time": "MW 5:00p-6:15p",
+    "Instructor": "Shaheen Nazir"
+  },
+  {
+    "Course Code": "MATH 309 LEC 1",
+    "Course Title": "Introduction to Analysis II",
+    "Credit": 3,
+    "Class Time": "MW 3:00p-4:15p",
+    "Instructor": "Waqas Ali Azhar"
+  },
+  {
+    "Course Code": "MATH 341 LEC 1",
+    "Course Title": "Operations Research I",
+    "Credit": 3,
+    "Class Time": "MW 8:00a-9:15a",
+    "Instructor": "Kamran Rashid"
+  },
+  {
+    "Course Code": "MATH 414 LEC 1",
+    "Course Title": "Symmetry Methods for Differential Equations",
+    "Credit": 3,
+    "Class Time": "MW 11:30a-12:45p",
+    "Instructor": "Imran Naeem"
+  },
+  {
+    "Course Code": "MATH 4418 LEC 1",
+    "Course Title": "Numerical Linear Algebra",
+    "Credit": 3,
+    "Class Time": "MW 1:00p-2:15p",
+    "Instructor": "Reza Abdolmaleki"
+  },
+  {
+    "Course Code": "MATH 521 LEC 1",
+    "Course Title": "Advanced Algebra",
+    "Credit": 3,
+    "Class Time": "TTh 10:00a-11:15a",
+    "Instructor": "Imran Anwar"
+  },
+  {
+    "Course Code": "MATH 5300 LEC 1",
+    "Course Title": "Probability and Statistical Analysis",
+    "Credit": 3,
+    "Class Time": "TTh 1:00p-2:15p",
+    "Instructor": "Sultan Sial"
+  },
+  {
+    "Course Code": "MECO 111 LEC 1",
+    "Course Title": "Principles of Microeconomics",
+    "Credit": 3,
+    "Class Time": "MW 2:00p-3:15p",
+    "Instructor": "Sameen Zafar"
+  },
+  {
+    "Course Code": "MECO 111 LEC 2",
+    "Course Title": "Principles of Microeconomics",
+    "Credit": 3,
+    "Class Time": "MW 3:30p-4:45p",
+    "Instructor": "Sameen Zafar"
+  },
+  {
+    "Course Code": "MECO 111 LEC 3",
+    "Course Title": "Principles of Microeconomics",
+    "Credit": 3,
+    "Class Time": "TTh 9:30a-10:45a",
+    "Instructor": "Ummad Mazhar"
+  },
+  {
+    "Course Code": "MECO 111 LEC 4",
+    "Course Title": "Principles of Microeconomics",
+    "Credit": 3,
+    "Class Time": "TTh 11:00a-12:15p",
+    "Instructor": "Ummad Mazhar"
+  },
+  {
+    "Course Code": "MECO 111 LEC 5",
+    "Course Title": "Principles of Microeconomics",
+    "Credit": 3,
+    "Class Time": "TTh 2:00p-3:15p",
+    "Instructor": "Rabia Khan"
+  },
+  {
+    "Course Code": "MECO 111 LEC 6",
+    "Course Title": "Principles of Microeconomics",
+    "Credit": 3,
+    "Class Time": "MW 3:30p-4:45p",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "MECO 111 LEC 7",
+    "Course Title": "Principles of Microeconomics",
+    "Credit": 3,
+    "Class Time": "MW 5:00p-6:15p",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "MECO 2201 LEC 1",
+    "Course Title": "Introduction to Business Economics",
+    "Credit": 1.5,
+    "Class Time": "MThFSSu 4:30p-6:40p",
+    "Instructor": "Ummad Mazhar"
+  },
+  {
+    "Course Code": "MECO 2201 LEC 2",
+    "Course Title": "Introduction to Business Economics",
+    "Credit": 1.5,
+    "Class Time": "MThFSSu 8:30a-10:40a",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "MECO 5201 LEC 1",
+    "Course Title": "Business Economics",
+    "Credit": 1.5,
+    "Class Time": "FSSu 8:30a-10:30a",
+    "Instructor": "Ummad Mazhar"
+  },
+  {
+    "Course Code": "MECO 5201 LEC 2",
+    "Course Title": "Business Economics",
+    "Credit": 1.5,
+    "Class Time": "FSSu 4:15p-6:15p",
+    "Instructor": "Misbah Tanveer Chaudhry"
+  },
+  {
+    "Course Code": "MECO 5201 LEC 3",
+    "Course Title": "Business Economics",
+    "Credit": 1.5,
+    "Class Time": "FSSu 10:45a-12:45p",
+    "Instructor": "Misbah Tanveer Chaudhry"
+  },
+  {
+    "Course Code": "MECO 7301 LEC 1",
+    "Course Title": "Economic Theory",
+    "Credit": 3,
+    "Class Time": "T 3:00p-6:00p",
+    "Instructor": "Misbah Tanveer Chaudhry"
+  },
+  {
+    "Course Code": "MGMT 142 LEC 1",
+    "Course Title": "Principles of Management",
+    "Credit": 3,
+    "Class Time": "TTh 2:00p-3:15p",
+    "Instructor": "Mujeeb Rashid"
+  },
+  {
+    "Course Code": "MGMT 142 LEC 2",
+    "Course Title": "Principles of Management",
+    "Credit": 3,
+    "Class Time": "TTh 9:30a-10:45a",
+    "Instructor": "Fareed Ud Din Farooq Qureshi"
+  },
+  {
+    "Course Code": "MGMT 142 LEC 3",
+    "Course Title": "Principles of Management",
+    "Credit": 3,
+    "Class Time": "TTh 11:00a-12:15p",
+    "Instructor": "Fareed Ud Din Farooq Qureshi"
+  },
+  {
+    "Course Code": "MGMT 142 LEC 4",
+    "Course Title": "Principles of Management",
+    "Credit": 3,
+    "Class Time": "TTh 9:30a-10:45a",
+    "Instructor": "Afaf Khalid"
+  },
+  {
+    "Course Code": "MGMT 142 LEC 5",
+    "Course Title": "Principles of Management",
+    "Credit": 3,
+    "Class Time": "MW 11:00a-12:15p",
+    "Instructor": "Mohsin Bashir"
+  },
+  {
+    "Course Code": "MGMT 142 LEC 6",
+    "Course Title": "Principles of Management",
+    "Credit": 3,
+    "Class Time": "MW 2:00p-3:15p",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "MGMT 142 LEC 7",
+    "Course Title": "Principles of Management",
+    "Credit": 3,
+    "Class Time": "TTh 2:00p-3:15p",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "MGMT 212 LEC 1",
+    "Course Title": "Business Communication",
+    "Credit": 3,
+    "Class Time": "TTh 11:00a-12:15p",
+    "Instructor": "Aneka Fahima Sufi"
+  },
+  {
+    "Course Code": "MGMT 212 LEC 2",
+    "Course Title": "Business Communication",
+    "Credit": 3,
+    "Class Time": "TTh 2:00p-3:15p",
+    "Instructor": "Aneka Fahima Sufi"
+  },
+  {
+    "Course Code": "MGMT 212 LEC 3",
+    "Course Title": "Business Communication",
+    "Credit": 3,
+    "Class Time": "TTh 9:30a-10:45a",
+    "Instructor": "Mehr Farhan Cheema"
+  },
+  {
+    "Course Code": "MGMT 212 LEC 4",
+    "Course Title": "Business Communication",
+    "Credit": 3,
+    "Class Time": "MW 11:00a-12:15p",
+    "Instructor": "Shezeen Salim Hemani"
+  },
+  {
+    "Course Code": "MGMT 212 LEC 5",
+    "Course Title": "Business Communication",
+    "Credit": 3,
+    "Class Time": "MW 12:30p-1:45p",
+    "Instructor": "Shezeen Salim Hemani"
+  },
+  {
+    "Course Code": "MGMT 242 LEC 1",
+    "Course Title": "Business Ethics and Corporate Social Responsibility",
+    "Credit": 3,
+    "Class Time": "TTh 11:00a-12:15p",
+    "Instructor": "Razi Allah Lone"
+  },
+  {
+    "Course Code": "MGMT 242 LEC 2",
+    "Course Title": "Business Ethics and Corporate Social Responsibility",
+    "Credit": 3,
+    "Class Time": "TTh 2:00p-3:15p",
+    "Instructor": "Razi Allah Lone"
+  },
+  {
+    "Course Code": "MGMT 242 LEC 3",
+    "Course Title": "Business Ethics and Corporate Social Responsibility",
+    "Credit": 3,
+    "Class Time": "TTh 3:30p-4:45p",
+    "Instructor": "Razi Allah Lone"
+  },
+  {
+    "Course Code": "MGMT 243 LEC 1",
+    "Course Title": "Public Administration",
+    "Credit": 3,
+    "Class Time": "TTh 11:00a-12:15p",
+    "Instructor": "Mohsin Bashir"
+  },
+  {
+    "Course Code": "MGMT 247 LEC 1",
+    "Course Title": "Public Financial Management",
+    "Credit": 3,
+    "Class Time": "TTh 3:30p-4:45p",
+    "Instructor": "Sajid Siddique"
+  },
+  {
+    "Course Code": "MGMT 252 LEC 1",
+    "Course Title": "Logic and Critical Thinking",
+    "Credit": 3,
+    "Class Time": "MW 2:00p-3:15p",
+    "Instructor": "Muhammad Shabbir Ahsen"
+  },
+  {
+    "Course Code": "MGMT 260 LEC 1",
+    "Course Title": "Business Law",
+    "Credit": 3,
+    "Class Time": "MW 8:00a-9:15a",
+    "Instructor": "Ali Sultan"
+  },
+  {
+    "Course Code": "MGMT 260 LEC 2",
+    "Course Title": "Business Law",
+    "Credit": 3,
+    "Class Time": "MW 9:30a-10:45a",
+    "Instructor": "Ali Sultan"
+  },
+  {
+    "Course Code": "MGMT 260 LEC 3",
+    "Course Title": "Business Law",
+    "Credit": 3,
+    "Class Time": "MW 11:00a-12:15p",
+    "Instructor": "Ali Sultan"
+  },
+  {
+    "Course Code": "MGMT 2601 LEC 1",
+    "Course Title": "Introduction to Management",
+    "Credit": 1.5,
+    "Class Time": "MThFSSu 11:00a-1:10p",
+    "Instructor": "Faiza Ali"
+  },
+  {
+    "Course Code": "MGMT 2601 LEC 2",
+    "Course Title": "Introduction to Management",
+    "Credit": 1.5,
+    "Class Time": "MThFSSu 2:00p-4:10p",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "MGMT 261 LEC 1",
+    "Course Title": "Introduction to Policy Analysis",
+    "Credit": 3,
+    "Class Time": "TTh 9:30a-10:45a",
+    "Instructor": "Ghazal Mir Zulfiqar"
+  },
+  {
+    "Course Code": "MGMT 262 LEC 1",
+    "Course Title": "Governance System of Pakistan",
+    "Credit": 3,
+    "Class Time": "MW 5:00p-6:15p",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "MGMT 263 LEC 1",
+    "Course Title": "Contemporary Social Policy Issues in Pakistan",
+    "Credit": 3,
+    "Class Time": "TTh 12:30p-1:45p",
+    "Instructor": "Muhammad Ahsan Rana"
+  },
+  {
+    "Course Code": "MGMT 283 LEC 1",
+    "Course Title": "Fundamentals of Hospitality Management",
+    "Credit": 3,
+    "Class Time": "MW 12:30p-1:45p",
+    "Instructor": "Shireen Waheed"
+  },
+  {
+    "Course Code": "MGMT 343 LEC 1",
+    "Course Title": "E-Government",
+    "Credit": 3,
+    "Class Time": "TTh 9:30a-10:45a",
+    "Instructor": "Shafay Shamail"
+  },
+  {
+    "Course Code": "MGMT 348 LEC 1",
+    "Course Title": "Internet Governance and Technology Policy",
+    "Credit": 3,
+    "Class Time": "MW 5:00p-6:15p",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "MGMT 386 LEC 1",
+    "Course Title": "Business, Government, and Society",
+    "Credit": 3,
+    "Class Time": "TTh 2:00p-3:15p",
+    "Instructor": "Ghazal Mir Zulfiqar"
+  },
+  {
+    "Course Code": "MGMT 400 LEC 1",
+    "Course Title": "Strategic Business Management",
+    "Credit": 3,
+    "Class Time": "TTh 3:30p-4:45p",
+    "Instructor": "Adnan Zahid"
+  },
+  {
+    "Course Code": "MGMT 400 LEC 2",
+    "Course Title": "Strategic Business Management",
+    "Credit": 3,
+    "Class Time": "MW 3:30p-4:45p",
+    "Instructor": "Adnan Zahid"
+  },
+  {
+    "Course Code": "MGMT 400 LEC 3",
+    "Course Title": "Strategic Business Management",
+    "Credit": 3,
+    "Class Time": "TTh 9:30a-10:45a",
+    "Instructor": "Salma Zaman"
+  },
+  {
+    "Course Code": "MGMT 481 LEC 1",
+    "Course Title": "Entrepreneurship",
+    "Credit": 3,
+    "Class Time": "TTh 5:00p-6:15p",
+    "Instructor": "Sahar Arif"
+  },
+  {
+    "Course Code": "MGMT 7501 LEC 1",
+    "Course Title": "Philosophy of Administrative Sciences",
+    "Credit": 2,
+    "Class Time": "W 2:30p-5:30p",
+    "Instructor": "Anjum Fayyaz"
+  },
+  {
+    "Course Code": "MGMT 8102 LEC 1",
+    "Course Title": "Seminar in Strategic Management",
+    "Credit": 3,
+    "Class Time": "W 9:00a-12:00p",
+    "Instructor": "Salma Zaman"
+  },
+  {
+    "Course Code": "MKTG 201 LEC 1",
+    "Course Title": "Principles of Marketing",
+    "Credit": 3,
+    "Class Time": "TTh 12:30p-1:45p",
+    "Instructor": "Muhammad Asim"
+  },
+  {
+    "Course Code": "MKTG 201 LEC 2",
+    "Course Title": "Principles of Marketing",
+    "Credit": 3,
+    "Class Time": "TTh 9:30a-10:45a",
+    "Instructor": "Mahira Ilyas"
+  },
+  {
+    "Course Code": "MKTG 201 LEC 3",
+    "Course Title": "Principles of Marketing",
+    "Credit": 3,
+    "Class Time": "TTh 11:00a-12:15p",
+    "Instructor": "Mahira Ilyas"
+  },
+  {
+    "Course Code": "MKTG 201 LEC 4",
+    "Course Title": "Principles of Marketing",
+    "Credit": 3,
+    "Class Time": "MW 3:30p-4:45p",
+    "Instructor": "Khudejah Iqbal Ali"
+  },
+  {
+    "Course Code": "MKTG 2401 LEC 1",
+    "Course Title": "Introduction to Marketing",
+    "Credit": 1.5,
+    "Class Time": "MThFSSu 8:30a-10:40a",
+    "Instructor": "Saima Mujtaba Rana"
+  },
+  {
+    "Course Code": "MKTG 2401 LEC 2",
+    "Course Title": "Introduction to Marketing",
+    "Credit": 1.5,
+    "Class Time": "MThFSSu 4:30p-6:40p",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "MKTG 302 LEC 1",
+    "Course Title": "Using New Media Technologies in Marketing",
+    "Credit": 3,
+    "Class Time": "TTh 3:30p-4:45p",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "MKTG 324 LEC 1",
+    "Course Title": "Integrated Marketing Communications",
+    "Credit": 3,
+    "Class Time": "MW 3:30p-4:45p",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "MKTG 332 LEC 1",
+    "Course Title": "Consumer Behaviour",
+    "Credit": 3,
+    "Class Time": "TTh 9:30a-10:45a",
+    "Instructor": "Saima Mujtaba Rana"
+  },
+  {
+    "Course Code": "MKTG 343 LEC 1",
+    "Course Title": "Marketing Models",
+    "Credit": 3,
+    "Class Time": "TTh 3:30p-4:45p",
+    "Instructor": "Muhammad Asim"
+  },
+  {
+    "Course Code": "MKTG 345 LEC 1",
+    "Course Title": "Data Analytics for New Product Development",
+    "Credit": 3,
+    "Class Time": "MW 3:30p-4:45p",
+    "Instructor": "Muhammad Asim"
+  },
+  {
+    "Course Code": "MKTG 392 LEC 1",
+    "Course Title": "Brand Management",
+    "Credit": 3,
+    "Class Time": "MW 2:00p-3:15p",
+    "Instructor": "Moeen Naseer Butt"
+  },
+  {
+    "Course Code": "MKTG 5401 LEC 1",
+    "Course Title": "Marketing Management",
+    "Credit": 3,
+    "Class Time": "FSSu 10:45a-12:45p",
+    "Instructor": "Usman Iqbal Bhatty"
+  },
+  {
+    "Course Code": "MKTG 5401 LEC 2",
+    "Course Title": "Marketing Management",
+    "Credit": 3,
+    "Class Time": "FSSu 8:30a-10:30a",
+    "Instructor": "Aaminah Zaman Malik"
+  },
+  {
+    "Course Code": "MKTG 5401 LEC 3",
+    "Course Title": "Marketing Management",
+    "Credit": 3,
+    "Class Time": "FSSu 4:15p-6:15p",
+    "Instructor": "Aaminah Zaman Malik"
+  },
+  {
+    "Course Code": "ORSC 201 LEC 1",
+    "Course Title": "Organizational Behaviour",
+    "Credit": 3,
+    "Class Time": "MW 9:30a-10:45a",
+    "Instructor": "Faiza Ali"
+  },
+  {
+    "Course Code": "ORSC 201 LEC 2",
+    "Course Title": "Organizational Behaviour",
+    "Credit": 3,
+    "Class Time": "MW 11:00a-12:15p",
+    "Instructor": "Faiza Ali"
+  },
+  {
+    "Course Code": "ORSC 201 LEC 3",
+    "Course Title": "Organizational Behaviour",
+    "Credit": 3,
+    "Class Time": "TTh 11:00a-12:15p",
+    "Instructor": "Ghulam Ali Arain"
+  },
+  {
+    "Course Code": "ORSC 201 LEC 4",
+    "Course Title": "Organizational Behaviour",
+    "Credit": 3,
+    "Class Time": "TTh 12:30p-1:45p",
+    "Instructor": "Ghulam Ali Arain"
+  },
+  {
+    "Course Code": "ORSC 7302 LEC 1",
+    "Course Title": "Applications of Psychology in Management",
+    "Credit": 3,
+    "Class Time": "T 9:30a-12:30p",
+    "Instructor": "Jawad Sarwar Naqvi Syed"
+  },
+  {
+    "Course Code": "ORSC 8402 LEC 1",
+    "Course Title": "Seminar in Human Resource Management",
+    "Credit": 3,
+    "Class Time": "Th 9:30a-12:30p",
+    "Instructor": "Muhammad Abdur Rahman Malik"
+  },
+  {
+    "Course Code": "PHIL 132 LEC 1",
+    "Course Title": "Introduction to Logic",
+    "Credit": 4,
+    "Class Time": "TTh 8:00a-9:50a",
+    "Instructor": "Muhammad Shabbir Ahsen"
+  },
+  {
+    "Course Code": "PHIL 203 LEC 1",
+    "Course Title": "Introduction to Philosophy II",
+    "Credit": 4,
+    "Class Time": "TTh 12:00p-1:50p",
+    "Instructor": "Syed Sikander Gilani"
+  },
+  {
+    "Course Code": "PHIL 204 LEC 1",
+    "Course Title": "Contemporary Moral Problems",
+    "Credit": 4,
+    "Class Time": "MW 4:30p-6:20p",
+    "Instructor": "Syed Sikander Gilani"
+  },
+  {
+    "Course Code": "PHY 101 LEC 1",
+    "Course Title": "Mechanics",
+    "Credit": 4,
+    "Class Time": "MW 2:00p-3:15p",
+    "Instructor": "Adam Zaman Chaudhry"
+  },
+  {
+    "Course Code": "PHY 101 LEC 2",
+    "Course Title": "Mechanics",
+    "Credit": 4,
+    "Class Time": "TTh 2:30p-3:45p",
+    "Instructor": "Adam Zaman Chaudhry"
+  },
+  {
+    "Course Code": "PHY 101 RAC 1",
+    "Course Title": "Mechanics",
+    "Credit": 4,
+    "Class Time": "F 9:00a-9:50a",
+    "Instructor": "Adam Zaman Chaudhry"
+  },
+  {
+    "Course Code": "PHY 101 RAC 2",
+    "Course Title": "Mechanics",
+    "Credit": 4,
+    "Class Time": "M 8:00a-8:50a",
+    "Instructor": "Adam Zaman Chaudhry"
+  },
+  {
+    "Course Code": "PHY 101 RAC 3",
+    "Course Title": "Mechanics",
+    "Credit": 4,
+    "Class Time": "F 8:00a-8:50a",
+    "Instructor": "Adam Zaman Chaudhry"
+  },
+  {
+    "Course Code": "PHY 101 RAC 4",
+    "Course Title": "Mechanics",
+    "Credit": 4,
+    "Class Time": "M 9:00a-9:50a",
+    "Instructor": "Adam Zaman Chaudhry"
+  },
+  {
+    "Course Code": "PHY 101 RAC 5",
+    "Course Title": "Mechanics",
+    "Credit": 4,
+    "Class Time": "F 4:00p-4:50p",
+    "Instructor": "Adam Zaman Chaudhry"
+  },
+  {
+    "Course Code": "PHY 101 RAC 6",
+    "Course Title": "Mechanics",
+    "Credit": 4,
+    "Class Time": "F 2:00p-2:50p",
+    "Instructor": "Adam Zaman Chaudhry"
+  },
+  {
+    "Course Code": "PHY 101 RAC 7",
+    "Course Title": "Mechanics",
+    "Credit": 4,
+    "Class Time": "F 3:00p-3:50p",
+    "Instructor": "Adam Zaman Chaudhry"
+  },
+  {
+    "Course Code": "PHY 101 RAC 8",
+    "Course Title": "Mechanics",
+    "Credit": 4,
+    "Class Time": "F 5:00p-5:50p",
+    "Instructor": "Adam Zaman Chaudhry"
+  },
+  {
+    "Course Code": "PHY 204 LEC 1",
+    "Course Title": "Electricity and Magnetism",
+    "Credit": 3,
+    "Class Time": "TTh 4:30p-5:45p",
+    "Instructor": "Rizwan Khalid"
+  },
+  {
+    "Course Code": "PHY 212 LEC 1",
+    "Course Title": "Quantum Mechanics I",
+    "Credit": 3,
+    "Class Time": "MW 4:30p-5:45p",
+    "Instructor": "Syed Moeez Hassan"
+  },
+  {
+    "Course Code": "PHY 223 LEC 1",
+    "Course Title": "Mathematical Methods in Physics and Engineering\nI",
+    "Credit": 3,
+    "Class Time": "MW 8:00a-9:15a",
+    "Instructor": "Ammar Ahmed Khan"
+  },
+  {
+    "Course Code": "PHY 300 LAB 1",
+    "Course Title": "Experimental Physics Lab II",
+    "Credit": 3,
+    "Class Time": "W 9:00a-5:50p",
+    "Instructor": "Muhammad Hamza Humayun"
+  },
+  {
+    "Course Code": "PHY 301 LEC 1",
+    "Course Title": "Classical Mechanics",
+    "Credit": 3,
+    "Class Time": "TTh 12:00p-1:15p",
+    "Instructor": "Tajdar Mufti"
+  },
+  {
+    "Course Code": "PHY 313 LEC 1",
+    "Course Title": "Statistical Mechanics",
+    "Credit": 4,
+    "Class Time": "TTh 8:00a-9:50a",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "PHY 316 LEC 1",
+    "Course Title": "Introduction to Computational Neuroscience",
+    "Credit": 3,
+    "Class Time": "TTh 8:00a-9:15a",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "PHY 404 LEC 1",
+    "Course Title": "Relativistic Electrodynamics",
+    "Credit": 3,
+    "Class Time": "TTh 1:30p-2:45p",
+    "Instructor": "Syed Moeez Hassan"
+  },
+  {
+    "Course Code": "PHY 501 LAB 1",
+    "Course Title": "Electrodynamics",
+    "Credit": 3,
+    "Class Time": "M 9:30a-12:20p",
+    "Instructor": "Rizwan Khalid"
+  },
+  {
+    "Course Code": "PHY 501 LEC 1",
+    "Course Title": "Electrodynamics",
+    "Credit": 3,
+    "Class Time": "TTh 10:00a-10:50a",
+    "Instructor": "Rizwan Khalid"
+  },
+  {
+    "Course Code": "PHY 5114 LEC 1",
+    "Course Title": "Quantum Algorithms",
+    "Credit": 3,
+    "Class Time": "TTh 9:30a-10:45a",
+    "Instructor": "Muhammad Faryad"
+  },
+  {
+    "Course Code": "PHY 512 LEC 1",
+    "Course Title": "Advanced Quantum Mechanics",
+    "Credit": 3,
+    "Class Time": "TTh 11:00a-12:15p",
+    "Instructor": "Muhammad Faryad"
+  },
+  {
+    "Course Code": "PHY 633 LEC 1",
+    "Course Title": "Magnetism: Theory and Experiment",
+    "Credit": 3,
+    "Class Time": "TTh 3:30p-4:45p",
+    "Instructor": "Muhammad Sabieh Anwar"
+  },
+  {
+    "Course Code": "POL 100 LEC 1",
+    "Course Title": "Introduction to Political Science",
+    "Credit": 4,
+    "Class Time": "TTh 10:00a-11:50a",
+    "Instructor": "Rida Ashfaq"
+  },
+  {
+    "Course Code": "POL 100 LEC 2",
+    "Course Title": "Introduction to Political Science",
+    "Credit": 4,
+    "Class Time": "TTh 2:00p-3:50p",
+    "Instructor": "Rida Ashfaq"
+  },
+  {
+    "Course Code": "POL 100 LEC 3",
+    "Course Title": "Introduction to Political Science",
+    "Credit": 4,
+    "Class Time": "MW 10:00a-11:50a",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "POL 132 LEC 1",
+    "Course Title": "Introduction to Politics in Developing Countries",
+    "Credit": 4,
+    "Class Time": "MW 2:00p-3:50p",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "POL 203 LEC 1",
+    "Course Title": "Introduction to Political Theory",
+    "Credit": 4,
+    "Class Time": "MW 4:00p-5:50p",
+    "Instructor": "Adeel Hamza"
+  },
+  {
+    "Course Code": "POL 203 LEC 2",
+    "Course Title": "Introduction to Political Theory",
+    "Credit": 4,
+    "Class Time": "TTh 4:00p-5:50p",
+    "Instructor": "Muhammad Shabbir Ahsen"
+  },
+  {
+    "Course Code": "POL 2214 LEC 1",
+    "Course Title": "Decolonizing Democracy: Lessons from the Global\nSouth",
+    "Credit": 4,
+    "Class Time": "TTh 12:00p-1:50p",
+    "Instructor": "Farhat Haq"
+  },
+  {
+    "Course Code": "POL 266 LEC 1",
+    "Course Title": "Women and Political Theory",
+    "Credit": 4,
+    "Class Time": "TTh 4:00p-5:50p",
+    "Instructor": "Adeel Hamza"
+  },
+  {
+    "Course Code": "POL 3113 LEC 1",
+    "Course Title": "Political Islam: Ideology and Politics",
+    "Credit": 4,
+    "Class Time": "MW 4:00p-5:50p",
+    "Instructor": "Taimur Rahman"
+  },
+  {
+    "Course Code": "POL 320 LEC 1",
+    "Course Title": "Comparative Politics",
+    "Credit": 4,
+    "Class Time": "TTh 10:00a-11:50a",
+    "Instructor": "Asma ul-Husna Faiz"
+  },
+  {
+    "Course Code": "POL 320 LEC 2",
+    "Course Title": "Comparative Politics",
+    "Credit": 4,
+    "Class Time": "TTh 2:00p-3:50p",
+    "Instructor": "Asma ul-Husna Faiz"
+  },
+  {
+    "Course Code": "POL 3202 LEC 1",
+    "Course Title": "Qualitative Research Methods in Political Science",
+    "Credit": 4,
+    "Class Time": "MW 2:00p-3:50p",
+    "Instructor": "Hafiz Muhammad Salman Rafi"
+  },
+  {
+    "Course Code": "POL 324 LEC 1",
+    "Course Title": "Marxism and the Modern World",
+    "Credit": 4,
+    "Class Time": "TTh 4:00p-5:50p",
+    "Instructor": "Taimur Rahman"
+  },
+  {
+    "Course Code": "POL 3302 LEC 1",
+    "Course Title": "Theories of IR",
+    "Credit": 4,
+    "Class Time": "TTh 12:00p-1:50p",
+    "Instructor": "Syed Rashid Munir"
+  },
+  {
+    "Course Code": "POL 366 LEC 1",
+    "Course Title": "Terrorism as Political Action",
+    "Credit": 4,
+    "Class Time": "TTh 2:00p-3:50p",
+    "Instructor": "Syed Rashid Munir"
+  },
+  {
+    "Course Code": "POL 4112 LEC 1",
+    "Course Title": "Political Leadership",
+    "Credit": 4,
+    "Class Time": "MW 2:00p-3:50p",
+    "Instructor": "Mohammad Waseem"
+  },
+  {
+    "Course Code": "POL 412 LEC 1",
+    "Course Title": "Diplomacy in International Relations",
+    "Credit": 4,
+    "Class Time": "TTh 10:00a-11:50a",
+    "Instructor": "Shahid Malik"
+  },
+  {
+    "Course Code": "PSY 100 LEC 1",
+    "Course Title": "Introduction to Psychology and Human Behavior",
+    "Credit": 4,
+    "Class Time": "TTh 4:00p-5:50p",
+    "Instructor": "Yasser Hashmi"
+  },
+  {
+    "Course Code": "PSY 100 LEC 2",
+    "Course Title": "Introduction to Psychology and Human Behavior",
+    "Credit": 4,
+    "Class Time": "TTh 4:00p-5:50p",
+    "Instructor": "Natasha Sohail Barlas"
+  },
+  {
+    "Course Code": "PSY 100 LEC 3",
+    "Course Title": "Introduction to Psychology and Human Behavior",
+    "Credit": 4,
+    "Class Time": "MW 2:00p-3:50p",
+    "Instructor": "Arman Ashraf"
+  },
+  {
+    "Course Code": "PSY 212 LEC 1",
+    "Course Title": "Theories of Learning",
+    "Credit": 4,
+    "Class Time": "MW 12:00p-1:50p",
+    "Instructor": "Imran Rashid"
+  },
+  {
+    "Course Code": "PSY 214 LEC 1",
+    "Course Title": "Perception",
+    "Credit": 4,
+    "Class Time": "MW 4:00p-5:50p",
+    "Instructor": "Yasser Hashmi"
+  },
+  {
+    "Course Code": "PSY 220 LEC 1",
+    "Course Title": "Psychopathology",
+    "Credit": 4,
+    "Class Time": "MW 2:00p-3:50p",
+    "Instructor": "Tahira Haider"
+  },
+  {
+    "Course Code": "PSY 300 LEC 1",
+    "Course Title": "Social Psychology",
+    "Credit": 4,
+    "Class Time": "TTh 12:00p-1:50p",
+    "Instructor": "Imran Rashid"
+  },
+  {
+    "Course Code": "PSY 321 LEC 1",
+    "Course Title": "Life Span Development",
+    "Credit": 4,
+    "Class Time": "TTh 2:00p-3:50p",
+    "Instructor": "Natasha Sohail Barlas"
+  },
+  {
+    "Course Code": "REL 200 LEC 1",
+    "Course Title": "What is Religion",
+    "Credit": 4,
+    "Class Time": "MW 2:00p-3:50p",
+    "Instructor": "Essam Fahim"
+  },
+  {
+    "Course Code": "REL 224 LEC 1",
+    "Course Title": "Introduction to Quranic and Modern Standard\nArabic",
+    "Credit": 4,
+    "Class Time": "TTh 4:00p-5:50p",
+    "Instructor": "Asif Iftikhar"
+  },
+  {
+    "Course Code": "REL 235 LEC 1",
+    "Course Title": "Religion, Conflict, and Peace Building",
+    "Credit": 4,
+    "Class Time": "MW 2:00p-3:50p",
+    "Instructor": "Aurangzeb Haneef"
+  },
+  {
+    "Course Code": "REL 314 LEC 1",
+    "Course Title": "Islamic Historiography: An Introduction",
+    "Credit": 4,
+    "Class Time": "MW 10:00a-11:50a",
+    "Instructor": "Baqar Hassan Syed"
+  },
+  {
+    "Course Code": "REL 315 LEC 1",
+    "Course Title": "Religion and Existentialism",
+    "Credit": 4,
+    "Class Time": "TTh 2:00p-3:50p",
+    "Instructor": "Mian Muhammad Nauman Faizi"
+  },
+  {
+    "Course Code": "REL 332 LEC 1",
+    "Course Title": "What is \"Islamic\" history?",
+    "Credit": 4,
+    "Class Time": "MW 10:00a-11:50a",
+    "Instructor": "Irfan Moeen Khan"
+  },
+  {
+    "Course Code": "REL 334 LEC 1",
+    "Course Title": "Experience and Interpretation in Muslim Feminist\nScriptural Discourse",
+    "Credit": 4,
+    "Class Time": "TTh 10:00a-11:50a",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "SCI 503 LEC 1",
+    "Course Title": "STEM Teaching in the AI Era",
+    "Credit": 3,
+    "Class Time": "MW 12:00p-1:15p",
+    "Instructor": "Muhammad Hamad Alizai\nAnusheh Attique"
+  },
+  {
+    "Course Code": "SCRM 6101 LEC 1",
+    "Course Title": "Operations and Supply Chain Strategy",
+    "Credit": 3,
+    "Class Time": "FSSu 6:30p-8:30p",
+    "Instructor": "Ahsan Umar"
+  },
+  {
+    "Course Code": "SOC 100 LEC 1",
+    "Course Title": "Introduction to Sociology",
+    "Credit": 4,
+    "Class Time": "MW 4:00p-5:50p",
+    "Instructor": "Amen Jaffer"
+  },
+  {
+    "Course Code": "SOC 100 LEC 2",
+    "Course Title": "Introduction to Sociology",
+    "Credit": 4,
+    "Class Time": "MW 12:00p-1:50p",
+    "Instructor": "Tania Saeed"
+  },
+  {
+    "Course Code": "SOC 253 LEC 1",
+    "Course Title": "Scientific Imagination and the Religious Mind",
+    "Credit": 4,
+    "Class Time": "TTh 12:00p-1:50p",
+    "Instructor": "Basit Bilal Koshul"
+  },
+  {
+    "Course Code": "SOC 265 LEC 1",
+    "Course Title": "Introduction to Gender and Sexuality Studies",
+    "Credit": 4,
+    "Class Time": "MW 12:00p-1:50p",
+    "Instructor": "Nida Yasmeen Kirmani"
+  },
+  {
+    "Course Code": "SOC 310 LEC 1",
+    "Course Title": "Classical Sociological Theory",
+    "Credit": 4,
+    "Class Time": "TTh 12:00p-1:50p",
+    "Instructor": "Umair Javed"
+  },
+  {
+    "Course Code": "SOC 320 LEC 1",
+    "Course Title": "Quantitative Research Methods",
+    "Credit": 4,
+    "Class Time": "MW 10:00a-11:50a",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "SOC 334 LEC 1",
+    "Course Title": "The Informal Economy",
+    "Credit": 4,
+    "Class Time": "MW 12:00p-1:50p",
+    "Instructor": "Umair Javed"
+  },
+  {
+    "Course Code": "SOC 353 LEC 1",
+    "Course Title": "Social Science and the Post-Secular Age",
+    "Credit": 4,
+    "Class Time": "TTh 4:00p-5:50p",
+    "Instructor": "Basit Bilal Koshul"
+  },
+  {
+    "Course Code": "SS 100 LEC 1",
+    "Course Title": "Writing and Communication",
+    "Credit": 4,
+    "Class Time": "TTh 8:00a-9:50a",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "SS 100 LEC 2",
+    "Course Title": "Writing and Communication",
+    "Credit": 4,
+    "Class Time": "TTh 9:30a-11:20a",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "SS 100 LEC 3",
+    "Course Title": "Writing and Communication",
+    "Credit": 4,
+    "Class Time": "TTh 1:30p-3:20p",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "SS 100 LEC 4",
+    "Course Title": "Writing and Communication",
+    "Credit": 4,
+    "Class Time": "MW 9:30a-11:20a",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "SS 100 LEC 5",
+    "Course Title": "Writing and Communication",
+    "Credit": 4,
+    "Class Time": "TTh 1:00p-2:50p",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "SS 100 LEC 6",
+    "Course Title": "Writing and Communication",
+    "Credit": 4,
+    "Class Time": "MW 2:00p-3:50p",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "SS 100 LEC 7",
+    "Course Title": "Writing and Communication",
+    "Credit": 4,
+    "Class Time": "TTh 4:00p-5:50p",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "SS 100 LEC 8",
+    "Course Title": "Writing and Communication",
+    "Credit": 4,
+    "Class Time": "MW 10:00a-11:50a",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "SS 100 LEC 9",
+    "Course Title": "Writing and Communication",
+    "Credit": 4,
+    "Class Time": "TTh 12:00p-1:50p",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "SS 100 LEC 10",
+    "Course Title": "Writing and Communication",
+    "Credit": 4,
+    "Class Time": "TTh 4:00p-5:50p",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "SS 100 LEC 11",
+    "Course Title": "Writing and Communication",
+    "Credit": 4,
+    "Class Time": "MW 11:00a-12:50p",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "SS 100 LEC 12",
+    "Course Title": "Writing and Communication",
+    "Credit": 4,
+    "Class Time": "MW 12:00p-1:50p",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "SS 100 LEC 13",
+    "Course Title": "Writing and Communication",
+    "Credit": 4,
+    "Class Time": "MW 8:00a-9:50a",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "SS 100 LEC 14",
+    "Course Title": "Writing and Communication",
+    "Credit": 4,
+    "Class Time": "TTh 10:00a-11:50a",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "SS 100 LEC 15",
+    "Course Title": "Writing and Communication",
+    "Credit": 4,
+    "Class Time": "MW 9:00a-10:50a",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "SS 100 LEC 16",
+    "Course Title": "Writing and Communication",
+    "Credit": 4,
+    "Class Time": "TTh 2:00p-3:50p",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "SS 100 LEC 17",
+    "Course Title": "Writing and Communication",
+    "Credit": 4,
+    "Class Time": "TTh 3:30p-5:20p",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "SS 100 LEC 18",
+    "Course Title": "Writing and Communication",
+    "Credit": 4,
+    "Class Time": "TTh 9:00a-10:50a",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "SS 100 LEC 19",
+    "Course Title": "Writing and Communication",
+    "Credit": 4,
+    "Class Time": "MW 2:00p-3:50p",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "SS 100 LEC 20",
+    "Course Title": "Writing and Communication",
+    "Credit": 4,
+    "Class Time": "MW 2:00p-3:50p",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "SS 100 LEC 21",
+    "Course Title": "Writing and Communication",
+    "Credit": 4,
+    "Class Time": "TTh 11:30a-1:20p",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "SS 100 LEC 22",
+    "Course Title": "Writing and Communication",
+    "Credit": 4,
+    "Class Time": "MW 12:00p-1:50p",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "SS 100 LEC 23",
+    "Course Title": "Writing and Communication",
+    "Credit": 4,
+    "Class Time": "TTh 11:00a-12:50p",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "SS 100A LEC 1",
+    "Course Title": "Introduction to Writing",
+    "Credit": 2,
+    "Class Time": "TTh 4:00p-4:50p",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "SS 100A LEC 2",
+    "Course Title": "Introduction to Writing",
+    "Credit": 2,
+    "Class Time": "MW 8:00a-8:50a",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "SS 100A LEC 3",
+    "Course Title": "Introduction to Writing",
+    "Credit": 2,
+    "Class Time": "MW 1:00p-1:50p",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "SS 100A LEC 4",
+    "Course Title": "Introduction to Writing",
+    "Credit": 2,
+    "Class Time": "TTh 11:00a-11:50a",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "SS 100A LEC 5",
+    "Course Title": "Introduction to Writing",
+    "Credit": 2,
+    "Class Time": "TTh 10:00a-10:50a",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "SS 101 LEC 1",
+    "Course Title": "Islamic Studies",
+    "Credit": 2,
+    "Class Time": "F 8:00a-9:50a",
+    "Instructor": "Aurangzeb Haneef"
+  },
+  {
+    "Course Code": "SS 101 LEC 2",
+    "Course Title": "Islamic Studies",
+    "Credit": 2,
+    "Class Time": "F 4:00p-5:50p",
+    "Instructor": "Essam Fahim"
+  },
+  {
+    "Course Code": "SS 101 LEC 3",
+    "Course Title": "Islamic Studies",
+    "Credit": 2,
+    "Class Time": "T 2:00p-3:50p",
+    "Instructor": "Baqar Hassan Syed"
+  },
+  {
+    "Course Code": "SS 101 LEC 4",
+    "Course Title": "Islamic Studies",
+    "Credit": 2,
+    "Class Time": "Th 12:00p-1:50p",
+    "Instructor": "Essam Fahim"
+  },
+  {
+    "Course Code": "SS 101 LEC 5",
+    "Course Title": "Islamic Studies",
+    "Credit": 2,
+    "Class Time": "F 2:00p-3:50p",
+    "Instructor": "Asif Iftikhar"
+  },
+  {
+    "Course Code": "SS 102 LEC 1",
+    "Course Title": "Pakistan Studies: Culture and Heritage",
+    "Credit": 2,
+    "Class Time": "F 4:00p-5:50p",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "SS 102 LEC 2",
+    "Course Title": "Pakistan Studies: Culture and Heritage",
+    "Credit": 2,
+    "Class Time": "F 8:00a-9:50a",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "SS 102 LEC 3",
+    "Course Title": "Pakistan Studies: Culture and Heritage",
+    "Credit": 2,
+    "Class Time": "T 8:00a-9:50a",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "SS 102 LEC 4",
+    "Course Title": "Pakistan Studies: Culture and Heritage",
+    "Credit": 2,
+    "Class Time": "F 2:00p-3:50p",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "SS 102 LEC 5",
+    "Course Title": "Pakistan Studies: Culture and Heritage",
+    "Credit": 2,
+    "Class Time": "W 2:00p-3:50p",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "SS 102 LEC 6",
+    "Course Title": "Pakistan Studies: Culture and Heritage",
+    "Credit": 2,
+    "Class Time": "M 8:00a-9:50a",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "SS 102 LEC 7",
+    "Course Title": "Pakistan Studies: Culture and Heritage",
+    "Credit": 2,
+    "Class Time": "W 8:00a-9:50a",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "SS 102 LEC 8",
+    "Course Title": "Pakistan Studies: Culture and Heritage",
+    "Credit": 2,
+    "Class Time": "M 4:00p-5:50p",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "SS 102 LEC 9",
+    "Course Title": "Pakistan Studies: Culture and Heritage",
+    "Credit": 2,
+    "Class Time": "F 11:00a-12:50p",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "SS 1302 LEC 1",
+    "Course Title": "Sur, Tal aur Rag: Foundations of South Asian Music",
+    "Credit": 4,
+    "Class Time": "TTh 10:00a-11:50a",
+    "Instructor": "Sadaf Habib"
+  },
+  {
+    "Course Code": "SS 1303 LEC 1",
+    "Course Title": "Introduction to Kathak",
+    "Credit": 4,
+    "Class Time": "TTh 1:00p-2:50p",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "SS 187 LEC 1",
+    "Course Title": "Applied Statistics for Humanities",
+    "Credit": 4,
+    "Class Time": "MW 12:00p-1:50p",
+    "Instructor": "Muhammad Saad Imtiaz"
+  },
+  {
+    "Course Code": "SS 187 LEC 2",
+    "Course Title": "Applied Statistics for Humanities",
+    "Credit": 4,
+    "Class Time": "TTh 12:00p-1:50p",
+    "Instructor": "Muhammad Salaar Arif Khan"
+  },
+  {
+    "Course Code": "SS 233 LEC 1",
+    "Course Title": "Media Writing",
+    "Credit": 4,
+    "Class Time": "TTh 8:00a-9:50a",
+    "Instructor": "Syed Javed Nazir"
+  },
+  {
+    "Course Code": "SS 3302 LEC 1",
+    "Course Title": "Professional Communication Skills",
+    "Credit": 4,
+    "Class Time": "MW 3:00p-4:50p",
+    "Instructor": "Aamna Khalid"
+  },
+  {
+    "Course Code": "SSE 101 LEC 1",
+    "Course Title": "First Year Tutorial",
+    "Credit": 0.5,
+    "Class Time": "F 10:00a-12:50p",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "SSE 101 LEC 2",
+    "Course Title": "First Year Tutorial",
+    "Credit": 0.5,
+    "Class Time": "F 10:00a-12:50p",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "SSE 101 LEC 3",
+    "Course Title": "First Year Tutorial",
+    "Credit": 0.5,
+    "Class Time": "F 10:00a-12:50p",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "SSE 101 LEC 4",
+    "Course Title": "First Year Tutorial",
+    "Credit": 0.5,
+    "Class Time": "F 10:00a-12:50p",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "SSE 101 LEC 5",
+    "Course Title": "First Year Tutorial",
+    "Credit": 0.5,
+    "Class Time": "F 10:00a-12:50p",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "SSE 101 LEC 6",
+    "Course Title": "First Year Tutorial",
+    "Credit": 0.5,
+    "Class Time": "F 10:00a-12:50p",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "SSE 101 LEC 7",
+    "Course Title": "First Year Tutorial",
+    "Credit": 0.5,
+    "Class Time": "F 10:00a-12:50p",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "SSE 101 LEC 8",
+    "Course Title": "First Year Tutorial",
+    "Credit": 0.5,
+    "Class Time": "F 10:00a-12:50p",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "SSE 101 LEC 9",
+    "Course Title": "First Year Tutorial",
+    "Credit": 0.5,
+    "Class Time": "F 10:00a-12:50p",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "SSE 101 LEC 10",
+    "Course Title": "First Year Tutorial",
+    "Credit": 0.5,
+    "Class Time": "F 10:00a-12:50p",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "SSE 101 LEC 11",
+    "Course Title": "First Year Tutorial",
+    "Credit": 0.5,
+    "Class Time": "F 10:00a-12:50p",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "SSE 101 LEC 12",
+    "Course Title": "First Year Tutorial",
+    "Credit": 0.5,
+    "Class Time": "F 10:00a-12:50p",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "SSE 101 LEC 13",
+    "Course Title": "First Year Tutorial",
+    "Credit": 0.5,
+    "Class Time": "F 10:00a-12:50p",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "SSE 101 LEC 14",
+    "Course Title": "First Year Tutorial",
+    "Credit": 0.5,
+    "Class Time": "F 10:00a-12:50p",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "SSE 101 LEC 15",
+    "Course Title": "First Year Tutorial",
+    "Credit": 0.5,
+    "Class Time": "F 10:00a-12:50p",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "SSE 101 LEC 16",
+    "Course Title": "First Year Tutorial",
+    "Credit": 0.5,
+    "Class Time": "F 10:00a-12:50p",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "SSE 101 LEC 17",
+    "Course Title": "First Year Tutorial",
+    "Credit": 0.5,
+    "Class Time": "F 10:00a-12:50p",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "SSE 101 LEC 18",
+    "Course Title": "First Year Tutorial",
+    "Credit": 0.5,
+    "Class Time": "F 10:00a-12:50p",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "SSE 101 LEC 19",
+    "Course Title": "First Year Tutorial",
+    "Credit": 0.5,
+    "Class Time": "F 10:00a-12:50p",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "SSE 101 LEC 20",
+    "Course Title": "First Year Tutorial",
+    "Credit": 0.5,
+    "Class Time": "F 10:00a-12:50p",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "SSE 101 LEC 21",
+    "Course Title": "First Year Tutorial",
+    "Credit": 0.5,
+    "Class Time": "F 10:00a-12:50p",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "SSE 101 LEC 22",
+    "Course Title": "First Year Tutorial",
+    "Credit": 0.5,
+    "Class Time": "F 10:00a-12:50p",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "SSE 101 LEC 23",
+    "Course Title": "First Year Tutorial",
+    "Credit": 0.5,
+    "Class Time": "F 10:00a-12:50p",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "SSE 101 LEC 24",
+    "Course Title": "First Year Tutorial",
+    "Credit": 0.5,
+    "Class Time": "F 10:00a-12:50p",
+    "Instructor": ""
+  },
+  {
+    "Course Code": "SWR 102 PRT 1",
+    "Course Title": "Swimming for Beginners",
+    "Credit": 1,
+    "Class Time": "TTh 10:00a-11:15a",
+    "Instructor": "Muhammad Haider Awan\nAmir Hussain"
+  },
+  {
+    "Course Code": "SWR 102 PRT 2",
+    "Course Title": "Swimming for Beginners",
+    "Credit": 1,
+    "Class Time": "MW 10:00a-11:15a",
+    "Instructor": "Khalida Bashir\nRabia Yasin"
+  },
+  {
+    "Course Code": "SWR 102 PRT 3",
+    "Course Title": "Swimming for Beginners",
+    "Credit": 1,
+    "Class Time": "TTh 2:00p-3:15p",
+    "Instructor": "Rashid Ahmad\nAzmat Ullah"
+  },
+  {
+    "Course Code": "SWR 102 PRT 4",
+    "Course Title": "Swimming for Beginners",
+    "Credit": 1,
+    "Class Time": "MW 2:00p-3:15p",
+    "Instructor": "Kausar Farooq\nNimra Nimra"
+  },
+  {
+    "Course Code": "SWR 102 PRT 5",
+    "Course Title": "Swimming for Beginners",
+    "Credit": 1,
+    "Class Time": "TTh 12:00p-1:15p",
+    "Instructor": "Khalida Bashir\nRabia Yasin"
+  },
+  {
+    "Course Code": "SWR 102 PRT 6",
+    "Course Title": "Swimming for Beginners",
+    "Credit": 1,
+    "Class Time": "MW 12:00p-1:15p",
+    "Instructor": "Muhammad Haider Awan\nAmir Hussain"
+  },
+  {
+    "Course Code": "SWR 102 PRT 7",
+    "Course Title": "Swimming for Beginners",
+    "Credit": 1,
+    "Class Time": "TTh 4:00p-5:15p",
+    "Instructor": "Kausar Farooq\nNimra Nimra"
+  },
+  {
+    "Course Code": "SWR 102 PRT 8",
+    "Course Title": "Swimming for Beginners",
+    "Credit": 1,
+    "Class Time": "MW 4:00p-5:15p",
+    "Instructor": "Rashid Ahmad\nAzmat Ullah"
+  },
+  {
+    "Course Code": "SWR 103 PRT 1",
+    "Course Title": "Strength Training and Conditioning for Beginners",
+    "Credit": 1,
+    "Class Time": "MW 10:00a-11:15a",
+    "Instructor": "Muhammad Bilal Iqbal Khan"
+  },
+  {
+    "Course Code": "SWR 103 PRT 2",
+    "Course Title": "Strength Training and Conditioning for Beginners",
+    "Credit": 1,
+    "Class Time": "TTh 10:00a-11:15a",
+    "Instructor": "Muhammad Bilal Iqbal Khan"
+  },
+  {
+    "Course Code": "SWR 103 PRT 3",
+    "Course Title": "Strength Training and Conditioning for Beginners",
+    "Credit": 1,
+    "Class Time": "MW 2:00p-3:15p",
+    "Instructor": "Mudassar Naseer"
+  },
+  {
+    "Course Code": "SWR 103 PRT 4",
+    "Course Title": "Strength Training and Conditioning for Beginners",
+    "Credit": 1,
+    "Class Time": "TTh 2:00p-3:15p",
+    "Instructor": "Mudassar Naseer"
+  },
+  {
+    "Course Code": "SWR 103 PRT 5",
+    "Course Title": "Strength Training and Conditioning for Beginners",
+    "Credit": 1,
+    "Class Time": "TTh 4:00p-5:15p",
+    "Instructor": "Muhammad Shakeel"
+  },
+  {
+    "Course Code": "SWR 103 PRT 6",
+    "Course Title": "Strength Training and Conditioning for Beginners",
+    "Credit": 1,
+    "Class Time": "MW 4:00p-5:15p",
+    "Instructor": "Muhammad Shakeel"
+  },
+  {
+    "Course Code": "SWR 103 PRT 7",
+    "Course Title": "Strength Training and Conditioning for Beginners",
+    "Credit": 1,
+    "Class Time": "MW 10:00a-11:15a",
+    "Instructor": "Kanwal Yousaf"
+  },
+  {
+    "Course Code": "SWR 103 PRT 8",
+    "Course Title": "Strength Training and Conditioning for Beginners",
+    "Credit": 1,
+    "Class Time": "TTh 10:00a-11:15a",
+    "Instructor": "Kanwal Yousaf"
+  },
+  {
+    "Course Code": "SWR 103 PRT 9",
+    "Course Title": "Strength Training and Conditioning for Beginners",
+    "Credit": 1,
+    "Class Time": "MW 11:30a-12:45p",
+    "Instructor": "Aruba Naz"
+  },
+  {
+    "Course Code": "SWR 103 PRT 10",
+    "Course Title": "Strength Training and Conditioning for Beginners",
+    "Credit": 1,
+    "Class Time": "TTh 11:30a-12:45p",
+    "Instructor": "Aruba Naz"
+  },
+  {
+    "Course Code": "SWR 103 PRT 11",
+    "Course Title": "Strength Training and Conditioning for Beginners",
+    "Credit": 1,
+    "Class Time": "MW 4:00p-5:15p",
+    "Instructor": "Shabana Kausar"
+  },
+  {
+    "Course Code": "SWR 103 PRT 12",
+    "Course Title": "Strength Training and Conditioning for Beginners",
+    "Credit": 1,
+    "Class Time": "TTh 4:00p-5:15p",
+    "Instructor": "Shabana Kausar"
+  },
+  {
+    "Course Code": "SWR 104 PRT 1",
+    "Course Title": "Basketball for beginners",
+    "Credit": 1,
+    "Class Time": "MW 3:30p-4:45p",
+    "Instructor": "Mohsin Riaz"
+  },
+  {
+    "Course Code": "SWR 104 PRT 2",
+    "Course Title": "Basketball for beginners",
+    "Credit": 1,
+    "Class Time": "MW 5:00p-6:15p",
+    "Instructor": "Mohsin Riaz"
+  },
+  {
+    "Course Code": "SWR 104 PRT 3",
+    "Course Title": "Basketball for beginners",
+    "Credit": 1,
+    "Class Time": "TTh 3:30p-4:45p",
+    "Instructor": "Mohsin Riaz"
+  },
+  {
+    "Course Code": "SWR 104 PRT 4",
+    "Course Title": "Basketball for beginners",
+    "Credit": 1,
+    "Class Time": "TTh 5:00p-6:15p",
+    "Instructor": "Mohsin Riaz"
+  },
+  {
+    "Course Code": "SWR 105 PRT 1",
+    "Course Title": "Walk, Jog and Stretch for Fitness",
+    "Credit": 1,
+    "Class Time": "MW 3:30p-4:45p",
+    "Instructor": "Babar Asad Khan"
+  },
+  {
+    "Course Code": "SWR 105 PRT 2",
+    "Course Title": "Walk, Jog and Stretch for Fitness",
+    "Credit": 1,
+    "Class Time": "MW 5:00p-6:15p",
+    "Instructor": "Babar Asad Khan"
+  },
+  {
+    "Course Code": "SWR 105 PRT 3",
+    "Course Title": "Walk, Jog and Stretch for Fitness",
+    "Credit": 1,
+    "Class Time": "TTh 3:30p-4:45p",
+    "Instructor": "Babar Asad Khan"
+  },
+  {
+    "Course Code": "SWR 105 PRT 4",
+    "Course Title": "Walk, Jog and Stretch for Fitness",
+    "Credit": 1,
+    "Class Time": "TTh 5:00p-6:15p",
+    "Instructor": "Babar Asad Khan"
+  }
+]
