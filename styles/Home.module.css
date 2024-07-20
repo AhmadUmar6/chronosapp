@@ -1,6 +1,6 @@
 /* styles/Home.module.css */
 .container {
-  background-image: url('/background.png');
+  background-image: url('/Background.png');
   background-size: cover;
   background-attachment: fixed;
   height: 100vh;
