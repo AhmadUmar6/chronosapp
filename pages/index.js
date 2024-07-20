@@ -53,8 +53,8 @@ export default function Home() {
           target="_blank" 
           rel="noopener noreferrer" 
           style={{
-            width: '70px',
-            height: '60px',
+            width: '90px',
+            height: '70px',
             marginRight: '10px',
             zIndex: 10,
             transition: 'transform 0.3s ease, box-shadow 0.3s ease',
