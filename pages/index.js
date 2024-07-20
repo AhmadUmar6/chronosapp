@@ -47,8 +47,36 @@ export default function Home() {
       <Head>
         <title>Chronos.LUMS</title>
       </Head>
-      <div className={styles.headerText}>
-        Chronos - LUMS Course Scheduler
+      <div style={{ display: 'flex', alignItems: 'center', position: 'relative' }}>
+        <a 
+          href="https://www.linkedin.com/in/ahmadumarfarooq/" 
+          target="_blank" 
+          rel="noopener noreferrer" 
+          style={{
+            width: '70px',
+            height: '60px',
+            marginRight: '10px',
+            zIndex: 10,
+            transition: 'transform 0.3s ease, box-shadow 0.3s ease',
+            boxShadow: '0 4px 8px rgba(0, 0, 0, 0.1)',
+          }}
+          onMouseOver={(e) => e.currentTarget.style.transform = 'scale(1.1)'}
+          onMouseOut={(e) => e.currentTarget.style.transform = 'scale(1.0)'}
+        >
+          <img 
+            src="/new.png" 
+            alt="LinkedIn" 
+            style={{
+              width: '100%',
+              height: '100%',
+              display: 'block',
+              opacity: 1,
+            }}
+          />
+        </a>
+        <div className={styles.headerText}>
+          Chronos - LUMS Course Scheduler
+        </div>
       </div>
       <main className={styles.main}>
         <div className={styles.content}>
@@ -66,34 +94,6 @@ export default function Home() {
         </button>
         <StatusOverlay courses={courses} />
       </main>
-      <a 
-        href="https://www.linkedin.com/in/ahmadumarfarooq/" 
-        target="_blank" 
-        rel="noopener noreferrer" 
-        style={{
-          bottom: '10px',
-          left: '50%',
-          transform: 'translateX(-50%)',
-          width: '70px',
-          height: '60px',
-          zIndex: 10,
-          transition: 'transform 0.3s ease, box-shadow 0.3s ease',
-          boxShadow: '0 4px 8px rgba(0, 0, 0, 0.1)',
-        }}
-        onMouseOver={(e) => e.currentTarget.style.transform = 'translateX(-50%) scale(1.1)'}
-        onMouseOut={(e) => e.currentTarget.style.transform = 'translateX(-50%) scale(1.0)'}
-      >
-        <img 
-          src="/new.png" 
-          alt="LinkedIn" 
-          style={{
-            width: '100%',
-            height: '100%',
-            display: 'block',
-            opacity: 1,
-          }}
-        />
-      </a>
     </div>
   );
 }
