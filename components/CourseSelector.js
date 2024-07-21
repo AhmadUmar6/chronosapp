@@ -3,15 +3,12 @@ import { v4 as uuidv4 } from 'uuid';
 import styles from '../styles/CourseSelector.module.css';
 import courses from '../public/csvjson.json';
 
-const parseDayAndTime = (classTime) => {
-  const daysMap = { 'M': 'Monday', 'T': 'Tuesday', 'W': 'Wednesday', 'Th': 'Thursday', 'F': 'Friday', 'S': 'Saturday', 'Su': 'Sunday'};
-  const [days, time] = classTime.split(' ');
-  const [startTime, endTime] = time.split('-');
-
+const parseDayAndTime = (days, startTime, endTime) => {
+  const daysMap = { 'M': 'Monday', 'T': 'Tuesday', 'W': 'Wednesday', 'R': 'Thursday', 'F': 'Friday', 'S': 'Saturday', 'U': 'Sunday' };
   return {
-    days: days.split(/(?=[A-Z])/).map(day => daysMap[day] || day),
-    startTime: startTime,
-    endTime: endTime
+    days: days.split('').map(day => daysMap[day] || day),
+    startTime,
+    endTime
   };
 };
 
@@ -35,12 +32,12 @@ export default function CourseSelector({ addCourse }) {
   }, [courses]);
 
   const handleAddCourse = (course) => {
-    const { days, startTime, endTime } = parseDayAndTime(course['Class Time']);
+    const { days, startTime, endTime } = parseDayAndTime(course['Days'], course['Start Time'], course['End Time']);
     const courseWithId = {
       id: uuidv4(),
       code: course['Course Code'],
       title: course['Course Title'],
-      credits: parseInt(course['Credit'], 10),
+      credits: parseInt(course['Credit Hrs'], 10),
       days,
       startTime,
       endTime,
@@ -54,14 +51,16 @@ export default function CourseSelector({ addCourse }) {
   };
 
   const filteredCourses = courses.filter(course =>
-    course['Course Title'].toLowerCase().includes(searchTerm.toLowerCase())
+    course['Course Title'].toLowerCase().includes(searchTerm.toLowerCase()) ||
+    course['Course Code'].toLowerCase().includes(searchTerm.toLowerCase()) ||
+    course['Instructor'].toLowerCase().includes(searchTerm.toLowerCase())
   );
 
   return (
     <div className={styles.courseSelector}>
       <input
         type="text"
-        placeholder="Search by course name"
+        placeholder="Search by course name, code, or instructor"
         value={searchTerm}
         onChange={handleSearch}
         className={styles.searchBar}
@@ -75,8 +74,9 @@ export default function CourseSelector({ addCourse }) {
         >
           <div><strong>{course['Course Title']}</strong></div>
           <div>Code: {course['Course Code']}</div>
-          <div>Credits: {course['Credit']}</div>
-          <div>Time: {course['Class Time']}</div>
+          <div>Credits: {course['Credit Hrs']}</div>
+          <div>Days: {course['Days'].split('').map(day => parseDayAndTime(day, '', '').days[0]).join(', ')}</div>
+          <div>Time: {course['Start Time']} - {course['End Time']}</div>
           <div>Instructor: {course['Instructor']}</div>
         </div>
       ))}

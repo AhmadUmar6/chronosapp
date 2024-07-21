@@ -5,17 +5,17 @@ const hours = Array.from({ length: 12 }, (_, i) => i + 7);
 const days = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'];
 
 const parseTime = (time) => {
-  const [hourMin, period] = time.split(/(?=[ap])/);
+  const [hourMin, period] = time.split(/(?=[APap][mM])/);
   let [hour, minute] = hourMin.split(':').map(Number);
-  if (period === 'p' && hour !== 12) hour += 12;
-  if (period === 'a' && hour === 12) hour = 0;
+  if (/PM/i.test(period) && hour !== 12) hour += 12;
+  if (/AM/i.test(period) && hour === 12) hour = 0;
   return hour + minute / 60;
 };
 
 const formatTime = (time) => {
   const hours = Math.floor(time);
   const minutes = Math.round((time % 1) * 60);
-  const period = hours >= 12 ? 'p' : 'a';
+  const period = hours >= 12 ? 'PM' : 'AM';
   const formattedHours = hours % 12 || 12;
   return `${formattedHours}:${minutes.toString().padStart(2, '0')}${period}`;
 };
@@ -41,7 +41,6 @@ const generateColor = (id) => {
   const colors = ['#ffb3ba', '#ffdeb8', '#ffffb8', '#b8e0ff', '#ffc7ff'];
   return colors[id % colors.length];
 };
-
 
 export default function Calendar({ courses, removeCourse }) {
   const [colorMap, setColorMap] = useState({});
