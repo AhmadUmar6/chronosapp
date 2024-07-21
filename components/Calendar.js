@@ -75,7 +75,7 @@ export default function Calendar({ courses, removeCourse }) {
                     const endTime = parseTime(course.endTime);
                     const top = (startTime - hour) * 60;
                     const height = (endTime - startTime) * 60;
-                    const fontSize = 14 / group.length + 'px';
+                    const fontSize = 10 / group.length + 'px';
 
                     return (
                       <div

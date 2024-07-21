@@ -9,6 +9,7 @@ import { saveCourses, loadCourses } from '../utils/indexedDB';
 export default function Home() {
   const [courses, setCourses] = useState([]);
   const [showCourseSelector, setShowCourseSelector] = useState(false);
+  const [popupMessage, setPopupMessage] = useState('');
 
   useEffect(() => {
     const fetchCourses = async () => {
@@ -23,9 +24,21 @@ export default function Home() {
   }, []);
 
   const addCourse = (course) => {
+    const overlapping = courses.some(c =>
+      c.days.some(day => course.days.includes(day)) &&
+      ((parseTime(c.startTime) < parseTime(course.endTime) &&
+        parseTime(c.endTime) > parseTime(course.startTime)))
+    );
+
     setCourses(prevCourses => {
       const updatedCourses = [...prevCourses, course];
       saveCourses(updatedCourses).catch(error => console.error('Error saving courses:', error));
+      if (overlapping) {
+        setPopupMessage('Course added with an overlapping time conflict.');
+      } else {
+        setPopupMessage('Course added successfully!');
+      }
+      setTimeout(() => setPopupMessage(''), 3000); // Show popup for 3 seconds
       return updatedCourses;
     });
   };
@@ -55,7 +68,7 @@ export default function Home() {
           className={styles.linkedinLink}
         >
           <img 
-            src="/new2.png" 
+            src="/neww.png" 
             alt="LinkedIn" 
             className={styles.linkedinImg}
           />
@@ -66,20 +79,31 @@ export default function Home() {
       </div>
       <main className={styles.main}>
         <div className={styles.content}>
-          <div className={`${styles.calendarWrapper} ${showCourseSelector ? styles.shrinkCalendar : ''}`}>
-            <Calendar courses={courses} removeCourse={removeCourse} />
-          </div>
-          {showCourseSelector && (
-            <div className={styles.selectorWrapper}>
-              <CourseSelector addCourse={addCourse} />
+          <div className={styles.calendarContainer}>
+            <div className={`${styles.calendarWrapper} ${showCourseSelector ? styles.blur : ''}`}>
+              <Calendar courses={courses} removeCourse={removeCourse} />
             </div>
-          )}
+            {showCourseSelector && (
+              <div className={styles.selectorWrapper}>
+                <CourseSelector addCourse={addCourse} />
+              </div>
+            )}
+          </div>
         </div>
         <button className={styles.toggleButton} onClick={toggleCourseSelector}>
           {showCourseSelector ? '-' : '+'}
         </button>
         <StatusOverlay courses={courses} />
+        {popupMessage && <div className={`${styles.popup} ${popupMessage.includes('conflict') ? styles.popupError : styles.popupSuccess}`}>{popupMessage}</div>}
       </main>
     </div>
   );
 }
+
+const parseTime = (time) => {
+  const [hourMin, period] = time.split(/(?=[APap][mM])/);
+  let [hour, minute] = hourMin.split(':').map(Number);
+  if (/PM/i.test(period) && hour !== 12) hour += 12;
+  if (/AM/i.test(period) && hour === 12) hour = 0;
+  return hour + minute / 60;
+};

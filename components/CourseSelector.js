@@ -61,7 +61,7 @@ export default function CourseSelector({ addCourse }) {
     <div className={styles.courseSelector}>
       <input
         type="text"
-        placeholder="Search by course name, code, or instructor"
+        placeholder="Search by name/code/instructor"
         value={searchTerm}
         onChange={handleSearch}
         className={styles.searchBar}
