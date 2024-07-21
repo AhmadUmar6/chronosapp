@@ -1,8 +1,6 @@
-
-
 const DB_NAME = 'ChronosLUMSDB';
 const STORE_NAME = 'selectedCourses';
-const DB_VERSION = 1;
+const DB_VERSION = 2; // Incremented the version
 
 export const initDB = () => {
   return new Promise((resolve, reject) => {
@@ -14,7 +12,16 @@ export const initDB = () => {
 
     request.onupgradeneeded = (event) => {
       const db = event.target.result;
-      db.createObjectStore(STORE_NAME, { keyPath: 'id' });
+      if (event.oldVersion < 1) {
+        // Initial setup
+        db.createObjectStore(STORE_NAME, { keyPath: 'id' });
+      } else {
+        // Clear existing store and create a new one
+        if (db.objectStoreNames.contains(STORE_NAME)) {
+          db.deleteObjectStore(STORE_NAME);
+        }
+        db.createObjectStore(STORE_NAME, { keyPath: 'id' });
+      }
     };
   });
 };
@@ -25,7 +32,7 @@ export const saveCourses = async (courses) => {
   const store = tx.objectStore(STORE_NAME);
 
   // Clear existing data
-  await store.clear();
+  store.clear();
 
   // Add new courses
   courses.forEach(course => store.add(course));
