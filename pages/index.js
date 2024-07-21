@@ -53,8 +53,8 @@ export default function Home() {
           target="_blank" 
           rel="noopener noreferrer" 
           style={{
-            width: '90px',
-            height: '70px',
+            width: '80px',
+            height: '80px',
             marginRight: '10px',
             zIndex: 10,
             transition: 'transform 0.3s ease, box-shadow 0.3s ease',
@@ -64,7 +64,7 @@ export default function Home() {
           onMouseOut={(e) => e.currentTarget.style.transform = 'scale(1.0)'}
         >
           <img 
-            src="/new.png" 
+            src="/neww.png" 
             alt="LinkedIn" 
             style={{
               width: '100%',
