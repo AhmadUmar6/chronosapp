@@ -126,4 +126,11 @@
   .course {
     font-size: 0.8em; /* Adjust font size for smaller screens */
   }
+  .dayColumn {
+    font-size: x-small;
+    padding: 5px;
+  }
+  .header{
+    padding-left: 55px;
+  }
 }
