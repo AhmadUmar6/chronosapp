@@ -16,11 +16,11 @@
   font-size: 16px;
   transition: all 0.3s ease;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
-  background: rgba(0, 200, 257, 0.407);
+  background: rgba(0, 200, 255, 0.1);
   backdrop-filter: blur(10px);
 }
 .searchBar::placeholder {
-  color: #0e0101; 
+  color: #eadede; 
   opacity: 0.5; 
 }
 

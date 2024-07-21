@@ -6,8 +6,8 @@ export default function StatusOverlay({ courses }) {
 
   return (
     <div className={styles.statusOverlay}>
-      <p>Credits: {totalCredits}</p>
-      <p>Courses: {courses.length}</p>
+      <p>Credits: {totalCredits} ✌️</p> {/* Victory sign with hands emoji */}
+      <p>Courses: {courses.length} 🎓</p> {/* Graduation cap emoji */}
     </div>
   );
 }

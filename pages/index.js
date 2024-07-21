@@ -47,31 +47,17 @@ export default function Home() {
       <Head>
         <title>Chronos.LUMS</title>
       </Head>
-      <div style={{ display: 'flex', alignItems: 'center', position: 'relative' }}>
+      <div className={styles.header}>
         <a 
           href="https://www.linkedin.com/in/ahmadumarfarooq/" 
           target="_blank" 
           rel="noopener noreferrer" 
-          style={{
-            width: '80px',
-            height: '80px',
-            marginRight: '10px',
-            zIndex: 10,
-            transition: 'transform 0.3s ease, box-shadow 0.3s ease',
-            boxShadow: '0 4px 8px rgba(0, 0, 0, 0.1)',
-          }}
-          onMouseOver={(e) => e.currentTarget.style.transform = 'scale(1.1)'}
-          onMouseOut={(e) => e.currentTarget.style.transform = 'scale(1.0)'}
+          className={styles.linkedinLink}
         >
           <img 
-            src="/neww.png" 
+            src="/new2.png" 
             alt="LinkedIn" 
-            style={{
-              width: '100%',
-              height: '100%',
-              display: 'block',
-              opacity: 1,
-            }}
+            className={styles.linkedinImg}
           />
         </a>
         <div className={styles.headerText}>
