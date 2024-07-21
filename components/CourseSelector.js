@@ -41,7 +41,8 @@ export default function CourseSelector({ addCourse }) {
       days,
       startTime,
       endTime,
-      instructor: course['Instructor']
+      instructor: course['Instructor'],
+      section: course['Section']
     };
     addCourse(courseWithId);
   };
@@ -74,6 +75,7 @@ export default function CourseSelector({ addCourse }) {
         >
           <div><strong>{course['Course Title']}</strong></div>
           <div>Code: {course['Course Code']}</div>
+          <div>Section: {course['Section']}</div> {/* Added this line */}
           <div>Credits: {course['Credit Hrs']}</div>
           <div>Days: {course['Days'].split('').map(day => parseDayAndTime(day, '', '').days[0]).join(', ')}</div>
           <div>Time: {course['Start Time']} - {course['End Time']}</div>

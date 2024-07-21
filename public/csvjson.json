@@ -7,7 +7,7 @@
     "Days": "TR",
     "Start Time": "11:00AM",
     "End Time": "12:15PM",
-    "Instructor": "Syed Zain"
+    "Instructor": "Syed Zainulabidin"
   },
   {
     "Course Code": "ACCT 100",
@@ -17,7 +17,7 @@
     "Days": "TR",
     "Start Time": "12:30PM",
     "End Time": "1:45PM",
-    "Instructor": "Syed Zain"
+    "Instructor": "Syed Zainulabidin"
   },
   {
     "Course Code": "ACCT 100",
@@ -27,7 +27,7 @@
     "Days": "TR",
     "Start Time": "2:00PM",
     "End Time": "3:15PM",
-    "Instructor": "Syed Zain"
+    "Instructor": "Syed Zainulabidin"
   },
   {
     "Course Code": "ACCT 100",
@@ -217,7 +217,7 @@
     "Days": "MRFSU",
     "Start Time": "2:00PM",
     "End Time": "4:10PM",
-    "Instructor": "Syed Zain"
+    "Instructor": "Syed Zainulabidin"
   },
   {
     "Course Code": "ACF 2101",
@@ -580,6 +580,16 @@
     "Instructor": "Qandeel Almas"
   },
   {
+    "Course Code": "CHE 401",
+    "Course Title": "Chemical Process Design",
+    "Credit Hrs": 0,
+    "Section": "LAB 1",
+    "Days": "F",
+    "Start Time": "2:00PM",
+    "End Time": "4:50PM",
+    "Instructor": "Qandeel Almas"
+  },
+  {
     "Course Code": "CHE 401A",
     "Course Title": "Chemical Engineering Lab - V",
     "Credit Hrs": 1,
@@ -922,11 +932,31 @@
   {
     "Course Code": "CS 100",
     "Course Title": "Computational Problem Solving",
+    "Credit Hrs": 0,
+    "Section": "LAB 1",
+    "Days": "M",
+    "Start Time": "8:00AM",
+    "End Time": "10:50AM",
+    "Instructor": "Maryam Mustafa Shafay Shamail"
+  },
+  {
+    "Course Code": "CS 100",
+    "Course Title": "Computational Problem Solving",
     "Credit Hrs": 3,
     "Section": "LEC 2",
     "Days": "MW",
     "Start Time": "12:00PM",
     "End Time": "12:50PM",
+    "Instructor": "Maryam Mustafa Shafay Shamail"
+  },
+  {
+    "Course Code": "CS 100",
+    "Course Title": "Computational Problem Solving",
+    "Credit Hrs": 0,
+    "Section": "LAB 2",
+    "Days": "F",
+    "Start Time": "2:00PM",
+    "End Time": "4:50PM",
     "Instructor": "Maryam Mustafa Shafay Shamail"
   },
   {
@@ -942,11 +972,31 @@
   {
     "Course Code": "CS 200",
     "Course Title": "Introduction to Programming",
+    "Credit Hrs": 0,
+    "Section": "LAB 1",
+    "Days": "M",
+    "Start Time": "1:00PM",
+    "End Time": "3:50PM",
+    "Instructor": "Zartash Afzal Uzmi"
+  },
+  {
+    "Course Code": "CS 200",
+    "Course Title": "Introduction to Programming",
     "Credit Hrs": 4,
     "Section": "LEC 2",
     "Days": "TR",
     "Start Time": "10:00AM",
     "End Time": "11:15AM",
+    "Instructor": "Zartash Afzal Uzmi"
+  },
+  {
+    "Course Code": "CS 200",
+    "Course Title": "Introduction to Programming",
+    "Credit Hrs": 0,
+    "Section": "LAB 2",
+    "Days": "F",
+    "Start Time": "10:00AM",
+    "End Time": "12:50PM",
     "Instructor": "Zartash Afzal Uzmi"
   },
   {
@@ -1217,6 +1267,16 @@
     "Days": "MW",
     "Start Time": "8:00AM",
     "End Time": "9:15AM",
+    "Instructor": "Humbal Tariq"
+  },
+  {
+    "Course Code": "DISC 112",
+    "Course Title": "Computer and Problem Solving",
+    "Credit Hrs": 0,
+    "Section": "LAB 1",
+    "Days": "F",
+    "Start Time": "9:00AM",
+    "End Time": "11:50AM",
     "Instructor": "Humbal Tariq"
   },
   {
@@ -1522,6 +1582,36 @@
   {
     "Course Code": "ECON 111",
     "Course Title": "Principles of Microeconomics",
+    "Credit Hrs": 0,
+    "Section": "RAC 1",
+    "Days": "M",
+    "Start Time": "10:00AM",
+    "End Time": "10:50AM",
+    "Instructor": "Ayesha Karim Malik"
+  },
+  {
+    "Course Code": "ECON 111",
+    "Course Title": "Principles of Microeconomics",
+    "Credit Hrs": 0,
+    "Section": "RAC 2",
+    "Days": "M",
+    "Start Time": "11:00AM",
+    "End Time": "11:50AM",
+    "Instructor": "Ayesha Karim Malik"
+  },
+  {
+    "Course Code": "ECON 111",
+    "Course Title": "Principles of Microeconomics",
+    "Credit Hrs": 0,
+    "Section": "RAC 3",
+    "Days": "M",
+    "Start Time": "12:00PM",
+    "End Time": "12:50PM",
+    "Instructor": "Ayesha Karim Malik"
+  },
+  {
+    "Course Code": "ECON 111",
+    "Course Title": "Principles of Microeconomics",
     "Credit Hrs": 4,
     "Section": "LEC 2",
     "Days": "TR",
@@ -1532,12 +1622,72 @@
   {
     "Course Code": "ECON 111",
     "Course Title": "Principles of Microeconomics",
+    "Credit Hrs": 0,
+    "Section": "RAC 4",
+    "Days": "W",
+    "Start Time": "11:00AM",
+    "End Time": "11:50AM",
+    "Instructor": "Ayesha Karim Malik"
+  },
+  {
+    "Course Code": "ECON 111",
+    "Course Title": "Principles of Microeconomics",
+    "Credit Hrs": 0,
+    "Section": "RAC 5",
+    "Days": "W",
+    "Start Time": "12:00PM",
+    "End Time": "12:50PM",
+    "Instructor": "Ayesha Karim Malik"
+  },
+  {
+    "Course Code": "ECON 111",
+    "Course Title": "Principles of Microeconomics",
+    "Credit Hrs": 0,
+    "Section": "RAC 6",
+    "Days": "W",
+    "Start Time": "10:00AM",
+    "End Time": "10:50AM",
+    "Instructor": "Ayesha Karim Malik"
+  },
+  {
+    "Course Code": "ECON 111",
+    "Course Title": "Principles of Microeconomics",
     "Credit Hrs": 4,
     "Section": "LEC 3",
     "Days": "TR",
     "Start Time": "12:30PM",
     "End Time": "1:45PM",
     "Instructor": "Faisal Bari"
+  },
+  {
+    "Course Code": "ECON 111",
+    "Course Title": "Principles of Microeconomics",
+    "Credit Hrs": 0,
+    "Section": "RAC 7",
+    "Days": "F",
+    "Start Time": "11:00AM",
+    "End Time": "11:50AM",
+    "Instructor": "Ayesha Karim Malik"
+  },
+  {
+    "Course Code": "ECON 111",
+    "Course Title": "Principles of Microeconomics",
+    "Credit Hrs": 0,
+    "Section": "RAC 8",
+    "Days": "F",
+    "Start Time": "9:00AM",
+    "End Time": "9:50AM",
+    "Instructor": "Ayesha Karim Malik"
+  },
+  {
+    "Course Code": "ECON 111",
+    "Course Title": "Principles of Microeconomics",
+    "Credit Hrs": 0,
+    "Section": "RAC 9",
+    "Days": "F",
+    "Start Time": "10:00AM",
+    "End Time": "10:50AM",
+    "Instructor": "Ayesha Karim Malik"
   },
   {
     "Course Code": "ECON 121",
@@ -1552,6 +1702,36 @@
   {
     "Course Code": "ECON 121",
     "Course Title": "Principles of Macroeconomics",
+    "Credit Hrs": 0,
+    "Section": "RAC 1",
+    "Days": "W",
+    "Start Time": "4:00PM",
+    "End Time": "4:50PM",
+    "Instructor": "Anum Fatima"
+  },
+  {
+    "Course Code": "ECON 121",
+    "Course Title": "Principles of Macroeconomics",
+    "Credit Hrs": 0,
+    "Section": "RAC 2",
+    "Days": "W",
+    "Start Time": "3:00PM",
+    "End Time": "3:50PM",
+    "Instructor": "Anum Fatima"
+  },
+  {
+    "Course Code": "ECON 121",
+    "Course Title": "Principles of Macroeconomics",
+    "Credit Hrs": 0,
+    "Section": "RAC 3",
+    "Days": "W",
+    "Start Time": "2:00PM",
+    "End Time": "2:50PM",
+    "Instructor": "Anum Fatima"
+  },
+  {
+    "Course Code": "ECON 121",
+    "Course Title": "Principles of Macroeconomics",
     "Credit Hrs": 4,
     "Section": "LEC 2",
     "Days": "MW",
@@ -1562,12 +1742,72 @@
   {
     "Course Code": "ECON 121",
     "Course Title": "Principles of Macroeconomics",
+    "Credit Hrs": 0,
+    "Section": "RAC 4",
+    "Days": "R",
+    "Start Time": "2:00PM",
+    "End Time": "2:50PM",
+    "Instructor": "Anum Fatima"
+  },
+  {
+    "Course Code": "ECON 121",
+    "Course Title": "Principles of Macroeconomics",
+    "Credit Hrs": 0,
+    "Section": "RAC 5",
+    "Days": "R",
+    "Start Time": "4:30PM",
+    "End Time": "5:20PM",
+    "Instructor": "Anum Fatima"
+  },
+  {
+    "Course Code": "ECON 121",
+    "Course Title": "Principles of Macroeconomics",
+    "Credit Hrs": 0,
+    "Section": "RAC 6",
+    "Days": "R",
+    "Start Time": "3:00PM",
+    "End Time": "3:50PM",
+    "Instructor": "Anum Fatima"
+  },
+  {
+    "Course Code": "ECON 121",
+    "Course Title": "Principles of Macroeconomics",
     "Credit Hrs": 4,
     "Section": "LEC 3",
     "Days": "TR",
     "Start Time": "10:30AM",
     "End Time": "11:45AM",
     "Instructor": "Sheraz Latif Malik"
+  },
+  {
+    "Course Code": "ECON 121",
+    "Course Title": "Principles of Macroeconomics",
+    "Credit Hrs": 0,
+    "Section": "RAC 7",
+    "Days": "F",
+    "Start Time": "10:00AM",
+    "End Time": "10:50AM",
+    "Instructor": "TBA"
+  },
+  {
+    "Course Code": "ECON 121",
+    "Course Title": "Principles of Macroeconomics",
+    "Credit Hrs": 0,
+    "Section": "RAC 8",
+    "Days": "F",
+    "Start Time": "11:00AM",
+    "End Time": "11:50AM",
+    "Instructor": "TBA"
+  },
+  {
+    "Course Code": "ECON 121",
+    "Course Title": "Principles of Macroeconomics",
+    "Credit Hrs": 0,
+    "Section": "RAC 9",
+    "Days": "W",
+    "Start Time": "9:00AM",
+    "End Time": "9:50AM",
+    "Instructor": "TBA"
   },
   {
     "Course Code": "ECON 211",
@@ -1622,6 +1862,26 @@
   {
     "Course Code": "ECON 230",
     "Course Title": "Statistics and Data Analysis",
+    "Credit Hrs": 0,
+    "Section": "LAB 1",
+    "Days": "T",
+    "Start Time": "2:00PM",
+    "End Time": "2:50PM",
+    "Instructor": "Rimsha Arif"
+  },
+  {
+    "Course Code": "ECON 230",
+    "Course Title": "Statistics and Data Analysis",
+    "Credit Hrs": 0,
+    "Section": "LAB 2",
+    "Days": "T",
+    "Start Time": "5:00PM",
+    "End Time": "5:50PM",
+    "Instructor": "Rimsha Arif"
+  },
+  {
+    "Course Code": "ECON 230",
+    "Course Title": "Statistics and Data Analysis",
     "Credit Hrs": 4,
     "Section": "LEC 2",
     "Days": "MW",
@@ -1632,12 +1892,52 @@
   {
     "Course Code": "ECON 230",
     "Course Title": "Statistics and Data Analysis",
+    "Credit Hrs": 0,
+    "Section": "LAB 3",
+    "Days": "R",
+    "Start Time": "5:00PM",
+    "End Time": "5:50PM",
+    "Instructor": "Eeman Shehzad Qureshi"
+  },
+  {
+    "Course Code": "ECON 230",
+    "Course Title": "Statistics and Data Analysis",
+    "Credit Hrs": 0,
+    "Section": "LAB 4",
+    "Days": "T",
+    "Start Time": "3:00PM",
+    "End Time": "3:50PM",
+    "Instructor": "Eeman Shehzad Qureshi"
+  },
+  {
+    "Course Code": "ECON 230",
+    "Course Title": "Statistics and Data Analysis",
     "Credit Hrs": 4,
     "Section": "LEC 3",
     "Days": "MW",
     "Start Time": "11:00AM",
     "End Time": "12:30PM",
     "Instructor": "Usman Elahi"
+  },
+  {
+    "Course Code": "ECON 230",
+    "Course Title": "Statistics and Data Analysis",
+    "Credit Hrs": 0,
+    "Section": "LAB 5",
+    "Days": "W",
+    "Start Time": "4:00PM",
+    "End Time": "4:50PM",
+    "Instructor": "Eeman Shehzad Qureshi"
+  },
+  {
+    "Course Code": "ECON 230",
+    "Course Title": "Statistics and Data Analysis",
+    "Credit Hrs": 0,
+    "Section": "LAB 6",
+    "Days": "R",
+    "Start Time": "3:00PM",
+    "End Time": "3:50PM",
+    "Instructor": "Eeman Shehzad Qureshi"
   },
   {
     "Course Code": "ECON 233",
@@ -1722,12 +2022,52 @@
   {
     "Course Code": "ECON 330",
     "Course Title": "Econometrics",
+    "Credit Hrs": 0,
+    "Section": "LAB 1",
+    "Days": "F",
+    "Start Time": "11:00AM",
+    "End Time": "11:50AM",
+    "Instructor": "Rabia Khan"
+  },
+  {
+    "Course Code": "ECON 330",
+    "Course Title": "Econometrics",
+    "Credit Hrs": 0,
+    "Section": "LAB 2",
+    "Days": "F",
+    "Start Time": "12:00PM",
+    "End Time": "12:50PM",
+    "Instructor": "Rabia Khan"
+  },
+  {
+    "Course Code": "ECON 330",
+    "Course Title": "Econometrics",
     "Credit Hrs": 4,
     "Section": "LEC 2",
     "Days": "TR",
     "Start Time": "10:00AM",
     "End Time": "11:30AM",
     "Instructor": "Muhammad Farooq Naseer"
+  },
+  {
+    "Course Code": "ECON 330",
+    "Course Title": "Econometrics",
+    "Credit Hrs": 0,
+    "Section": "LAB 3",
+    "Days": "W",
+    "Start Time": "5:00PM",
+    "End Time": "5:50PM",
+    "Instructor": "Yushma Umar"
+  },
+  {
+    "Course Code": "ECON 330",
+    "Course Title": "Econometrics",
+    "Credit Hrs": 0,
+    "Section": "LAB 4",
+    "Days": "W",
+    "Start Time": "2:00PM",
+    "End Time": "2:50PM",
+    "Instructor": "Yushma Umar"
   },
   {
     "Course Code": "ECON 3402",
@@ -2772,11 +3112,31 @@
   {
     "Course Code": "ENGG 100",
     "Course Title": "Design and Measurement Lab",
+    "Credit Hrs": 0,
+    "Section": "LEC 1",
+    "Days": "W",
+    "Start Time": "8:00AM",
+    "End Time": "8:50AM",
+    "Instructor": "Qasim Imtiaz"
+  },
+  {
+    "Course Code": "ENGG 100",
+    "Course Title": "Design and Measurement Lab",
     "Credit Hrs": 2,
     "Section": "LAB 2",
     "Days": "R",
     "Start Time": "9:00AM",
     "End Time": "1:50PM",
+    "Instructor": "Muhammad Umar Hassan Ammar Ahmed Khan"
+  },
+  {
+    "Course Code": "ENGG 100",
+    "Course Title": "Design and Measurement Lab",
+    "Credit Hrs": 0,
+    "Section": "LEC 2",
+    "Days": "R",
+    "Start Time": "8:00AM",
+    "End Time": "8:50AM",
     "Instructor": "Muhammad Umar Hassan Ammar Ahmed Khan"
   },
   {
@@ -2792,6 +3152,16 @@
   {
     "Course Code": "ENGG 100",
     "Course Title": "Design and Measurement Lab",
+    "Credit Hrs": 0,
+    "Section": "LEC 3",
+    "Days": "T",
+    "Start Time": "8:00AM",
+    "End Time": "8:50AM",
+    "Instructor": "Muhammad Umar Hassan Ammar Ahmed Khan"
+  },
+  {
+    "Course Code": "ENGG 100",
+    "Course Title": "Design and Measurement Lab",
     "Credit Hrs": 2,
     "Section": "LAB 4",
     "Days": "M",
@@ -2802,11 +3172,31 @@
   {
     "Course Code": "ENGG 100",
     "Course Title": "Design and Measurement Lab",
+    "Credit Hrs": 0,
+    "Section": "LEC 4",
+    "Days": "M",
+    "Start Time": "8:00AM",
+    "End Time": "8:50AM",
+    "Instructor": "Zubair Khalid"
+  },
+  {
+    "Course Code": "ENGG 100",
+    "Course Title": "Design and Measurement Lab",
     "Credit Hrs": 2,
     "Section": "LAB 5",
     "Days": "R",
     "Start Time": "1:30PM",
     "End Time": "6:20PM",
+    "Instructor": "Muhammad Tahir"
+  },
+  {
+    "Course Code": "ENGG 100",
+    "Course Title": "Design and Measurement Lab",
+    "Credit Hrs": 0,
+    "Section": "LEC 5",
+    "Days": "R",
+    "Start Time": "12:30PM",
+    "End Time": "1:20PM",
     "Instructor": "Muhammad Tahir"
   },
   {
