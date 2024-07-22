@@ -126,6 +126,9 @@
   .course {
     font-size: 0.8em; /* Adjust font size for smaller screens */
   }
+  .timeColumn{
+    font-size: x-small;
+  }
   .dayColumn {
     font-size: x-small;
     padding: 5px;
