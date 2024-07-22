@@ -65,6 +65,7 @@
   color: #070E29;
   font-weight: bold;
   transition: all 0.3s ease;
+  overflow: scroll;
   
 }
 
