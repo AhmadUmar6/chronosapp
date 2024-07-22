@@ -90,8 +90,8 @@
 
 .toggleButton {
   position: fixed;
+  bottom: 140px;
   right: 20px;
-  top: 120px;
   width: 80px;
   height: 80px;
   border-radius: 50%;
@@ -134,19 +134,30 @@
 .linkedinImg {
   width: 100%;
   height: 100%;
-  display: block;
   object-fit: contain;
   max-width: 80px;
   max-height: 80px;
   min-width: 50px;
   min-height: 50px;
+  margin: 0; 
+  padding: 0;
 }
 
 @media (max-width: 768px) {
+  
+  .header {
+    flex-direction: column; /* Stack items vertically on smaller screens */
+    align-items: center; /* Ensure items are centered */
+  }
+
   .headerText {
     font-size: 2em;
     text-align: center;
     margin-left: 0;
+  }
+
+  .linkedinImg {
+    margin-bottom: 10px; /* Add some space below the image */
   }
 
   .content {
@@ -208,4 +219,30 @@
 .popupError {
   background: rgba(255, 10, 28, 0.95); 
 }
+
+.statusOverlay {
+  background: rgba(0, 207, 255, 0.6);
+  backdrop-filter: blur(10px);
+  border-radius: 10px;
+  box-shadow: 0 6px 12px rgba(205, 188, 188, 0.1);
+  padding: 5px;
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  transition: all 0.3s ease;
+  color: #ffffff;
+  text-shadow: 1px 0px 1px #090909;
+  font-weight: bold;
+  z-index: 20;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  font-size: 0.9em; /* Slightly smaller text size */
+}
+
+.statusOverlay:hover {
+  transform: scale(1.05);
+}
+
 

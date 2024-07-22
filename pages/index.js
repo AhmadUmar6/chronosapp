@@ -2,7 +2,6 @@ import React, { useState, useEffect } from 'react';
 import Head from 'next/head';
 import Calendar from '../components/Calendar';
 import CourseSelector from '../components/CourseSelector';
-import StatusOverlay from '../components/StatusOverlay';
 import styles from '../styles/Home.module.css';
 import { saveCourses, loadCourses } from '../utils/indexedDB';
 
@@ -55,6 +54,8 @@ export default function Home() {
     setShowCourseSelector(!showCourseSelector);
   };
 
+  const totalCredits = courses.reduce((sum, course) => sum + course.credits, 0);
+
   return (
     <div className={styles.container}>
       <Head>
@@ -93,7 +94,10 @@ export default function Home() {
         <button className={styles.toggleButton} onClick={toggleCourseSelector}>
           {showCourseSelector ? '-' : '+'}
         </button>
-        <StatusOverlay courses={courses} />
+        <div className={styles.statusOverlay}>
+          <p>Credits: {totalCredits} ✌️</p> {/* Victory sign with hands emoji */}
+          <p>Courses: {courses.length} 🎓</p> {/* Graduation cap emoji */}
+        </div>
         {popupMessage && <div className={`${styles.popup} ${popupMessage.includes('conflict') ? styles.popupError : styles.popupSuccess}`}>{popupMessage}</div>}
       </main>
     </div>
