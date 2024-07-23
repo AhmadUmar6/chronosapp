@@ -20,10 +20,9 @@
   backdrop-filter: blur(10px);
 }
 .searchBar::placeholder {
-  color: #000000; 
+  color: #fffdfd; 
   opacity: 0.7; 
 }
-
 
 .searchBar:focus {
   outline: none;
