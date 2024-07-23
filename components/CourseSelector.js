@@ -12,9 +12,9 @@ const parseDayAndTime = (days, startTime, endTime) => {
   };
 };
 
-const generateColor = (id) => {
+const generateColor = () => {
   const colors = ['#ffb3ba', '#ffdeb8', '#ffffb8', '#b8e0ff', '#ffc7ff'];
-  return colors[id % colors.length];
+  return colors[Math.floor(Math.random() * colors.length)];
 };
 
 export default function CourseSelector({ addCourse }) {
@@ -23,9 +23,9 @@ export default function CourseSelector({ addCourse }) {
 
   useEffect(() => {
     const newColorMap = { ...colorMap };
-    courses.forEach(course => {
+    courses.sort(() => Math.random() - 0.5).forEach(course => {
       if (!newColorMap[course['Course Code']]) {
-        newColorMap[course['Course Code']] = generateColor(Object.keys(newColorMap).length);
+        newColorMap[course['Course Code']] = generateColor();
       }
     });
     setColorMap(newColorMap);
