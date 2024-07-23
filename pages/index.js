@@ -100,6 +100,21 @@ export default function Home() {
         </div>
         {popupMessage && <div className={`${styles.popup} ${popupMessage.includes('conflict') ? styles.popupError : styles.popupSuccess}`}>{popupMessage}</div>}
       </main>
+      <div className={styles.feedbackSection}>
+        <span>💌 Drop feedback at: </span>
+        <a 
+          href="https://www.linkedin.com/feed/update/urn:li:activity:7220915168069767168/" 
+          target="_blank" 
+          rel="noopener noreferrer"
+          className={styles.linkedinLink}
+          >
+          <img 
+            src="/linkedin.png" 
+            alt="LinkedIn Feedback" 
+            className={styles.feedbackLinkedinImg}
+          />
+        </a>
+      </div>
     </div>
   );
 }
@@ -111,3 +126,5 @@ const parseTime = (time) => {
   if (/AM/i.test(period) && hour === 12) hour = 0;
   return hour + minute / 60;
 };
+
+
