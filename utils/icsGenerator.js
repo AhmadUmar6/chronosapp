@@ -12,10 +12,9 @@ const generateICS = (courses, semesterStart, semesterEnd) => {
     'Sunday': 'SU'
   };
 
-  const formatDate = (date) => format(date, "yyyyMMdd'T'HHmmss'Z'");
+  const formatDate = (date) => format(date, "yyyyMMdd'T'HHmmss'");
 
   const parseTime = (time) => {
-    // This regex will match various time formats including "1:30p", "1:30 PM", "13:30"
     const match = time.match(/(\d{1,2}):(\d{2})\s*(([AaPp])\.?[Mm]?\.?)?/);
     if (!match) throw new Error(`Invalid time format: ${time}`);
 
@@ -23,7 +22,6 @@ const generateICS = (courses, semesterStart, semesterEnd) => {
     hours = parseInt(hours, 10);
     minutes = parseInt(minutes, 10);
 
-    // Convert to 24-hour format if necessary
     if (period) {
       const isPM = period.toLowerCase().startsWith('p');
       if (isPM && hours !== 12) hours += 12;
@@ -33,16 +31,17 @@ const generateICS = (courses, semesterStart, semesterEnd) => {
     return `${hours.toString().padStart(2, '0')}:${minutes.toString().padStart(2, '0')}`;
   };
 
-  // Ensure semesterStart and semesterEnd are properly formatted
   const formatSemesterDate = (date) => {
     if (date instanceof Date) {
       return format(date, 'yyyy-MM-dd');
     }
-    return date;  // Assume it's already a string in 'yyyy-MM-dd' format
+    return date;
   };
 
   const formattedSemesterStart = formatSemesterDate(semesterStart);
   const formattedSemesterEnd = formatSemesterDate(semesterEnd);
+
+  const calendarId = uuidv4(); // Unique ID for the calendar
 
   const events = courses.flatMap(course => {
     const { code, title, days, startTime, endTime } = course;
@@ -64,6 +63,7 @@ const generateICS = (courses, semesterStart, semesterEnd) => {
         `DTSTART:${formatDate(dtstart)}`,
         `DTEND:${formatDate(dtend)}`,
         `RRULE:FREQ=WEEKLY;BYDAY=${dayMap[day]};UNTIL=${formatDate(rruleEnd)}`,
+        `CATEGORIES:${calendarId}`, // Assign events to the unique calendar ID
         'BEGIN:VALARM',
         'TRIGGER:-PT10M',
         'ACTION:DISPLAY',
@@ -80,6 +80,7 @@ const generateICS = (courses, semesterStart, semesterEnd) => {
     'PRODID:-//Your Organization//Your Product//EN',
     'CALSCALE:GREGORIAN',
     'METHOD:PUBLISH',
+    `X-WR-CALNAME:Chronos ${new Date().getFullYear()}`, 
     events,
     'END:VCALENDAR'
   ].join('\r\n');
